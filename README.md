@@ -48,9 +48,4933 @@ This command will extract data from the ACL conference on DBLP.com for the years
 
 The tool logs the extracting process to app.log and terminal, helping you track its operations.
 
-## Conferences
+## Conferences and Journals
 
-@@ I'll fill later
+<details>
+<summary>Conferences</summary>
+
+<details>
+<summary>A</summary>
+
+- A Bridge between Probability, Set Oriented Numerics and Evolutionary Computation (EVOLVE)
+- A-MOST - Advances in Model-Based Software Testing
+- A-SSCC - Asian Solid-State Circuits Conference
+- A-TEST - International Workshop on Automating Test Case Design
+- A2CWiC - Amrita ACM-W Celebration on Women in Computing in India
+- A4Cloud - Summer School on Accountability and Security in the Cloud
+- AAA-IDEA - Advanced Architectures and Algorithms for Internet Delivery and Applications
+- AAAAI Mobile Robot Competition
+- AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment Conference (AIIDE)
+- AAAI Conference on Human Computation & Crowdsourcing (HCOMP)
+- AAAI Fall Symposium Series
+- AAAI Spring Symposia
+- AAATE - European Conference on the Advancement of Assistive Technology
+- AABI - Symposium on Advances in Approximate Bayesian Inference
+- AACC - Asian Applied Computing Conference
+- Aachener Symposium für Signaltheorie (ASST)
+- AACL - Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics
+- AADEBUG - Automated and Algorithmic Debugging
+- AADIOS - Algebraic and Algorithmic Aspects of Differential and Integral Operators
+- AAECC - International Symposium on Applied Algebra, Algebraic Algorithms and Error-Correcting Codes
+- AAFD - Apprentissage Artificiel et Fouille de Données
+- AAG - Advances in Architectural Geometry
+- AAGPW - Workshop on Automated Assessment and Guidance of Project Work
+- AAIA - International Conference on Advances in Artificial Intelligence and Applications
+- AAIM - Algorithmic Aspects in Information and Management
+- AAIP - International Workshop on Approaches and Applications of Inductive Programming
+- AALTD - Workshop on Advanced Analytics and Learning on Temporal Data
+- AAMAS - International Joint Conference on Autonomous Agents & Multiagent Systems
+- AB - Algebraic Biology
+- ABC - International Conference on Activity and Behavior Computing
+- ABiALS - Anticipatory Behavior in Adaptive Learning Systems
+- ABICT - International Workshop on Advances in Business ICT
+- ABMB - International Workshop on Aspect-Based and Model-Based Separation of Concerns in Software Systems
+- ABP - Workshop Automatische Bewertung von Programmieraufgaben
+- Abstract State Machines, Alloy, B, TLA, VDM, and Z; International Conference on  ... (ABZ)
+- Abstract State Machines; International Workshops on  ... (ASM)
+- Abstraction, Reformulation and Approximation; Symposium on  ... (SARA)
+- ABZ - International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and Z
+- AC - Agent Communication
+- ACA - Conference on Advanced Computer Architecture
+- Academia/Industry Working Conference on Research Challenges (AIWoRC)
+- ACAI - European Advanced Course on AI
+- ACAI - International Conference on Advances in Computing and Artificial Intelligence
+- ACAI - International Conference on Algorithms, Computing and Artificial Intelligence
+- ACAL - Australian Conference on Artificial Life
+- ACALCI - Australasian Conference on Artificial Life and Computational Intelligence
+- ACAN - International Workshop on Agent-based Complex Automated Negotiations
+- ACC - Advances in Computing and Communications
+- ACC - American Control Conference
+- ACCAS - Asian Conference on Computer Aided Surgery
+- ACCAT - Workshop on Applied and Computational Category Theory
+- ACCC - Asia Conference on Computers and Communications
+- Accelerator Programming using Directives; Workshop on  ... (WACCPD)
+- Access Communications; Multiple  ... (MACOM)
+- Access Control Models and Technologies; ACM Symposium on  ... (SACMAT)
+- Access Networks; International Conference on  ... (AccessNets)
+- Accessibility Focused Requirements Engineering; International Workshop on Usability and  ... (UsARE)
+- AccessNets - International Conference on Access Networks
+- Accountability and Transparency; ACM Conference on Fairness,  ... (FAccT)
+- Accreditation of Engineering and Computing Education; International Symposium on  ... (ICACIT)
+- ACCT - International Workshop on Algebraic and Combinatorial Coding Theory
+- Accurate Scientific Computations
+- ACCV - Asian Conference on Computer Vision
+- ACDA - SIAM Conference on Applied and Computational Discrete Algorithms
+- ACDC - Workshop on Automated Control for Datacenters and Clouds
+- ACE - Australasian Computing Education Conference
+- ACE - IFAC Symposium on Advances in Control Education
+- ACE - International Conference on Advances in Computer Entertainment Technology
+- ACeS - International Conference on Advances in Cybersecurity
+- ACFIE - Annual Conference of Fuzzy Information and Engineering
+- ACG - Advances in Computer Games
+- ACHI - International Conference on Advances in Computer-Human Interaction
+- ACI - International Conference on Animal-Computer Interaction
+- ACiD - Algorithms and Complexity in Durham
+- ACII - Affective Computing and Intelligent Interaction
+- ACIIDS - Asian Conference on Intelligent Information and Database Systems
+- ACIL - Advances in Computational Intelligence and Learning
+- ACIRS - Asia-Pacific Conference on Intelligent Robot Systems
+- ACIS - Australasian Conference on Information Systems
+- ACISP - Australasian Conference on Information Security and Privacy
+- ACIT - Arab Conference on Information Technology
+- ACIT - Automation, Control, and Information Technology
+- ACIT - International Conference on Advanced Computer Information Technologies
+- ACIT - International Conference on Applied Computing and Information Technology
+- ACITY - International Conference on Advances in Computing and Information Technology
+- ACIVS - Advanced Concepts for Intelligent Vision Systems Conference
+- ACL - Annual Meeting of the Association for Computational Linguistics
+- ACL2 - International Workshop on the ACL2 Theorem Prover and Its Applications
+- ACL2 Theorem Prover and Its Applications; International Workshop on the  ... (ACL2)
+- ACLING - International Conference on Arabic Computational Linguistics
+- ACM - Algorithms, Computing and Mathematics Conference
+- ACM Annual Conference
+- ACM Annual Conference on Computer Science (CSC)
+- ACM Asia Conference on Computer and Communications Security (AsiaCCS)
+- ACM ASIA Public-Key Cryptography Workshop (APKC)
+- ACM Cloud and Autonomic Computing Conference (CAC)
+- ACM Conference on Digital Libraries (DL)
+- ACM Conference on Economics and Computation (EC)
+</details>
+
+
+<details>
+<summary>B</summary>
+
+- B - Formal Specification and Development in B
+- B; Formal Specification and Development in  ... (B)
+- B, TLA, VDM, and Z; International Conference on Abstract State Machines, Alloy,  ... (ABZ)
+- BABEL - International Workshop on Multi-Language Infrastructure and Interoperability
+- BADGERS - International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security
+- BADS - Workshop on Bio-Inspired Algorithms for Distributed Systems
+- BAIP - International Conference on Recent Trends in Business Administration and Information Processing
+- Balkan Conference in Informatics (BCI)
+- BalkanCryptSec - International Conference on Cryptography and Information Security in the Balkans
+- Baltic Congress on Future Internet Communications (BCFIC)
+- Baltic HLT - Human Language Technology - The Baltic Perspectiv
+- Balto-Slavic Natural Language Processing; Workshop on  ... (BSNLP)
+- BAMBI - International Workshop on Bayesian and grAphical Models for Biomedical Imaging
+- Banff Higher Order Workshop (Banff)
+- Banff International Research Station Workshop: Towards Integrative Machine Learning and Knowledge Extraction (BIRS-IMLKE)
+- Bases de Données Avancées ; Journées  ... (BDA)
+- BASYS - IEEE/IFIP International Conference on Information Technology for Balanced Automation Systems in Manufacturing and Services
+- BATS - International Workshop on Biomedical Applications, Technologies and Sensors
+- Bayesian and grAphical Models for Biomedical Imaging; International Workshop on  ... (BAMBI)
+- Bayesian Networks; Workshop on Advanced Methodologies for  ... (AMBN)
+- BC - IFIP International Conference on Broadband Communications
+- BCB - ACM International Conference on Bioinformatics, Computational Biology and Biomedicine
+- BCC - ACM Workshop on Blockchains, Cryptocurrencies and Contracts
+- BCCA - International Conference on Blockchain Computing and Applications
+- BCD - IEEE/ACIS International Conference on Big Data, Cloud Computing, and Data Science
+- BCEC - Biocomputing and Emergent Computation
+- BCFIC - Baltic Congress on Future Internet Communications
+- BCGBC - International Conference on Bioinformatics, Computational Biology, Genomics and Chemoinformatics
+- BCI - Balkan Conference in Informatics
+- BCI - International Winter Conference on Brain-Computer Interface
+- BCICTS - BiCMOS and Compound Semiconductor Integrated Circuits and Technology Symposium
+- BCS HCI - British Computer Society Conference on Human-Computer Interaction
+- BCS International Academic Conference (BCS)
+- BCS International IT Conference
+- BCS-FACS Publications (BCS-FACS)
+- BCS-IRSG Symposium on Future Directions in Information Access (FDIA)
+- BCSS - International Workshop on Behavior Change Support Systems
+- BD - Conference on Biographical Data in a Digital World
+- BDA - International Conference on Big Data Analytics
+- BDA - Journées Bases de Données Avancées
+- BDAS - International Conference -Beyond Databases, Architectures, and Structures
+- BDAW - International Conference on Big Data and Advanced Wireless Technologies
+- BDCA - International Conference on Big Data Cloud and Applications
+- BDCAT - IEEE/ACM International Conference on Big Data Computing, Applications and Technologies
+- BdCloud - International Conference on Big Data and Cloud Computing
+- BDCSIntell - International Conference on Big Data and Cyber-Security Intelligence
+- BDE - International Conference on Big Data Engineering
+- BDEIM - International Conference on Big Data Economy and Information Management
+- BDET - International Conferences on Big Data Engineering and Technology
+- BDI - International Symposium on Biomedical Data Infrastructure
+- BDIM - International Workshop on Business-Driven IT Management
+- BDIOT - International Conference on Big Data and Internet of Things
+- BDIoT - International Conference on Big Data and Internet of Things
+- BDMIP - International Conference on Big Data Mining and Information Processing
+- BDSIC - International Conference on Big-data Service and Intelligent Computation
+- BDTA - International Conference on Big Data Technologies and Applications
+- BDVA - International Symposium on Big Data Visual and Immersive Analytics
+- BEA - Workshop on Innovative Use of NLP for Building Educational Applications
+- BECB - International Symposium on Biomedical and Computational Biology
+- Behavior Analysis; International Conference on Identity, Security and  ... (ISBA)
+- Behavior Change and Persuasive Recommender Systems; International Workshop on  ... (BehavRec)
+- Behavior Change Support Systems; International Workshop on  ... (BCSS)
+- Behavior Transformation by IoT International Workshop (BTIW)
+- Behavioral and Quantitative Game Theory (BQGT)
+- Behavioral, Economic, and Socio-Cultural Computing; International Conference on  ... (BESC)
+- Behavioral Modeling and Simulation; IEEE/ACM International Workshop on  ... (BMAS)
+- Behavioral Research; International Conference on Methods and Techniques in  ... (MB)
+- Behavioral Types; Web Services, Formal Methods, and  ... (WS-FM)
+- Behaviour Modelling -Foundations and Applications; International Workshop on  ... (BM-FA)
+- BehavRec - International Workshop on Behavior Change and Persuasive Recommender Systems
+- BElgian-NEtherlands software eVOLution symposium (BENEVOL)
+- BELIEF - International Conference on Belief Functions
+- Belief Functions; International Conference on  ... (BELIEF)
+- BELIV - Evaluation and Beyond - Methodological Approaches for Visualization
+- BenchCouncil International Symposium (Bench)
+- Benchmarking and Simulation of High Performance Computer Systems; International Workshop on Performance Modeling,  ... (PMBS)
+- BENEVOL - BElgian-NEtherlands software eVOLution symposium
+- Berkeley Workshop on Distributed Data Management and Computer Networks
+- Berlin Workshops
+- Berliner XML Tage
+- Bertinoro Workshops
+- BESC - International Conference on Behavioral, Economic, and Socio-Cultural Computing
+- Betriebliche Umweltinformationssysteme; BUIS-Tage:  ... (BUIS-Tage)
+- BEWARE - Workshop on Bias, Ethical AI, Explainability and the role of Logic and Logic Programming
+- BeyondMR - Workshop on Algorithms and Systems for MapReduce and Beyond
+- BHI - International Conference on Biomedical and Health Informatics
+- BI - Brain Informatics
+- BIAS - International Workshop on Algorithmic Bias in Search and Recommendation
+- Bias, Ethical AI, Explainability and the role of Logic and Logic Programming; Workshop on  ... (BEWARE)
+- BIBE - IEEE International Conference on Bioinformatics and Bioengineering
+- BIBE - International Conferences on Biological Information and Biomedical Engineering
+- Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries; Joint Workshop on  ... (BIRNDL)
+- Bibliometric-enhanced Information Retrieval; International Workshop on  ... (BIR)
+- Bibliometrics; Workshop on Mining Scientific Papers: Computational Linguistics and  ... (CLBib)
+- Bibliotecas Digitales; Jornadas de  ... (JBIDI)
+- BIBM - IEEE International Conference on Bioinformatics and Biomedicine
+- BIC - International Conference on Bioinformatics and Intelligent Computing
+- BIC-TA - International Conference on Bio-Inspired Computing: Theories and Applications
+- BICA*AI - Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence
+- BICC - Biologically Inspired Cooperative Computing
+</details>
+
+
+<details>
+<summary>C</summary>
+
+- C&C - International Conference on Culture and Computing
+- C++ Conference (C++)
+- C&ESAR - Computer & Electronics Security Application Rendezvous
+- C&T - International Conference on Communities and Technologies
+- C2SI - International Conference on Codes, Cryptology, and Information Security
+- C3GI - Workshop on Computational Creativity, Concept Invention, and General Intelligence
+- C³P - Conference on Hypercube Concurrent Computers and Applications
+- C3S2E - International C* Conference on Computer Science & Software Engineering
+- C5 - Conference on Creating, Connecting and Collaborating through Computing
+- CAA SAFEPROCESS - CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes
+- CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (CAA SAFEPROCESS)
+- CAAD Futures - International Conference on Computer-Aided Architectural Design Futures
+- CAAI International Conference on Artificial Intelligence (CICAI)
+- CAAN - Combinatorial and Algorithmic Aspects of Networking
+- CAAP - Colloquium on Trees in Algebra and Programming
+- CAC - ACM Cloud and Autonomic Computing Conference
+- CACIC - Argentine Congress of Computer Science
+- CACML - Asia Conference on Algorithms, Computing and Machine Learning
+- CACRE - International Conference on Automation, Control and Robotics Engineering
+- CACSD - International Symposium on Computer-Aided Control System Design
+- CAD - GI-Fachtagung CAD
+- CAD/Graphics - International Conference on Computer-Aided Design and Computer Graphics
+- CAD; Workshop on Machine Learning for  ... (MLCAD)
+- CADE - Conference on Automated Deduction
+- CADUI - Computer-Aided Design of User Interfaces
+- CAe - International Symposium on Computational Aesthetics in Graphics, Visualization, and Imaging
+- CAEPIA - Conferencia de la Asociación Española para la Inteligencia Artificial
+- cAESAR - Adapted intEraction with SociAl Robots
+- CAI - Conference on Algebraic Informatics
+- CAIA - Conference on Artificial Intelligence Applications
+- CAIBDA - International Conference on Artificial Intelligence, Big Data and Algorithms
+- CAIN - International Conference on AI Engineering - Software Engineering for AI
+- CAINE - ISCA International Conference on Computer Applications in Industry and Engineering
+- CAIP - International Conference on Computer Analysis of Images and Patterns
+- CAiSE - International Conference on Advanced Information Systems Engineering
+- CAIVD - International Workshop on Content-Based Access of Image and Video Databases
+- CAKR - Workshop on Cognitive Aspects of Knowledge Representation
+- CAL - Conférence francophone sur les Architectures Logicielles
+- CaLC - Cryptography and Lattices
+- CALCO - Conference on Algebra and Coalgebra in Computer Science
+- CALCS - Workshop on Computational Approaches to Linguistic Code-Switching
+- Calculemus - Symposium on the Integration of Symbolic Computation and Mechanized Reasoning
+- CALDAM - International Conference on Algorithms and Discrete Applied Mathematics
+- CALISCE - Computer Aided Learning and Instruction in Science and Engineering
+- CAMAD - IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks
+- Camera-Based Document Analysis and Recognition; International Workshop on  ... (CBDAR)
+- CAMLIS - Conference on Applied Machine Learning in Information Security
+- CAMP - Information Retrieval & Knowledge Management
+- CAMP - International Workshop on Computer Architectures for Machine Perception
+- CAMSAP - IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing
+- Canada-France Conference on Parallel and Distributed Computing (CFCP)
+- Canadian AI - Canadian Conference on Artificial Intelligence
+- Canadian Conference on Artificial Intelligence (Canadian AI)
+- Canadian Conference on Computational Geometry (CCCG)
+- Canadian Conference on Electrical and Computer Engineering (CCECE)
+- Canadian Semantic Web Symposium (CSWS)
+- Canadian Semantic Web Working Symposium (CSWWS)
+- Canadian Workshop on Information Theory (CWIT)
+- Cancer Investigation; International Advanced Research Workshop on In Silico Oncology and  ... (IARWISOI)
+- CANDAR - International Symposium on Computing and Networking
+- CANOPIE-HPC - International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC
+- CANPC - Workshop on Communication, Architecture, and Applications for Network-Based Parallel Computing
+- CANS - Cryptology and Network Security
+- CAP - Conférence francophone sur l'apprentissage automatique
+- CAP - International Workshop on Computer Algebra and Parallelism
+- Capability Determination; International Conference on Software Process Improvement and  ... (SPICE)
+- Capacity Sharing Workshop (CSWS)
+- CAPTECH - Modelling and Motion Capture Techniques for Virtual Environments
+- CAR - International Asia Conference on Informatics in Control, Automation and Robotics
+- CARDIS - Smart Card Research and Advanced Application Conference
+- CARLA - Latin American Conference on High Performance Computing
+- Carnahan Conference on Security Technology; International  ... (ICCST)
+- CaRR - Workshop on Context-awareness in Retrieval and Recommendation
+- CARS - Computer Assisted Radiology and Surgery - International Congress and Exhibition
+- Cars Symposium; Computer Science in  ... (CSCS)
+- CARTOCON
+- CASA - International Conference on Computer Animation and Social Agents
+- CASC - Computer Algebra in Scientific Computing
+- CASCON - International Conference on Computer Science and Software Engineering
+- CASDMKM - Chinese Academy of Sciences Symposium on Data Mining and Knowledge Management
+- CASE - IEEE Conference on Automation Science and Engineering
+- CASE - Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text
+- Case-Based Reasoning; European Conference on Advances in  ... (ECCBR)
+- Case-Based Reasoning; International Conference on  ... (ICCBR)
+- Case-Based Reasoning; UK Workshop on  ...
+- CASEMANS - International Workshop on Context-Awareness for Self-Managing Systems
+- CASES - International Conference on Compilers, Architecture, and Synthesis for Embedded Systems
+- CASFE - Workshop on Context-Aware Adaptation of Service Front-Ends
+- CASoN - Computational Aspects of Social Networks
+- CASSIS - Construction and Analysis of Safe, Secure, and Interoperable Smart Devices
+- Castle Meeting on Coding Theory and Applications; International  ... (ICMCTA)
+- CATA - International Conference on Computers and Their Applications
+- CaTaC - International Conference on Culture, Technology, and Communication
+- Catalan Association for Artificial Intelligence; International Conference of the  ... (CCIA)
+- CATE - Computers and Advanced Technology in Education
+- Category Theory
+- Category Theory and Computer Science (CTCS)
+- Category-Level Object Recognition; Toward  ...
+- CATS - Computing: The Australasian Theory Symposium
+- Causal Analysis Workshop Series (CAWS)
+</details>
+
+
+<details>
+<summary>D</summary>
+
+- D-A-CH Security
+- D-CSCL - German Conference on Computer Supported Cooperative Learning
+- D-CSCW - Conference on Computer Supported Cooperative Work
+- D2R2 - International Workshop on Linked Data-driven Resilience Research
+- D4RE - International Workshop on Learning from other Disciplines for Requirements Engineering
+- DAAC - IEEE/ACM Industry/University Joint International Workshop on Data-center Automation, Analytics, and Control
+- DAARC - Discourse Anaphora and Anaphor Resolution Colloquium
+- DAC - Design Automation Conference
+- DADA - Workshop on Deepfake Audio Detection and Analysis
+- DaEng - International Conference on Advanced Data and Information Engineering
+- DAFx - International Conference on Digital Audio Effects
+- DAI - Australian Workshop on Distributed Artificial Intelligence
+- DAI - International Conference on Distributed Artificial Intelligence
+- DAIS - IFIP International Conference on Distributed Applications and Interoperable Systems
+- DAISD - International Workshop on the Deductive Approach to Information Systems and Databases
+- DaLí - Dynamic Logic: New Trends and Applications Workshop
+- DALT - International Workshop on Declarative Agent Languages and Technologies
+- DAM - Symposium on Design Automation and Microprocessors
+- DaMaLOS - Workshop on Data and Research Objects Management for Linked Open Science
+- DaMaP - International Workshop on Data Management in Peer-to-Peer Systems
+- DAMAS - Defence Applications of Multi-Agent Systems
+- DAMDID/RCDL - International Conference on Data Analytics and Management in Data Intensive Domains
+- DAMOCLES - International Workshop on Detection And Mitigation Of Cyber attacks that exploit human vuLnerabilitiES
+- DaMoN - International Workshop on Data Management on New Hardware
+- DAMP - Workshop on Declarative Aspects of Multicore Programming
+- DanaC - Workshop on Data analytics in the Cloud
+- DANCE - DARPA Active Networks Conference and Exposition
+- DANTE - Database Applications in Non-Traditional Environments
+- DAPPS - IEEE International Conference on Decentralized Applications and Infrastructures
+- DAPSYS - Distributed and Parallel Systems
+- DARE - Designing Augmented Reality Environments
+- DARPA Active Networks Conference and Exposition (DANCE)
+- DARPA Information Survivability Conference and Exposition (DISCEX)
+- DARPA Publications (DARPA)
+- DARS - International Symposium on Distributed Autonomous Robotic Systems
+- DAS - International Workshop on Document Analysis Systems
+- DASC - Conference on Digital Avionics Systems
+- DASC - Symposium on Dependable Autonomic and Secure Computing
+- DaSET - International Conference on Data Science and Emerging Technologies
+- DASFAA - International Conference on Database Systems for Advanced Applications
+- DaSH - Workshop on Data Science with Human-in-the-Loop
+- DASIP - Design & Architectures for Signal & Image Processing
+- DATA - International Conference on Data Science, E-Learning and Information Systems
+- DATA - International Conference on Data Science, Technology and Applications
+- Data Analysis and Reduction for Big Scientific Data; International Workshop on  ... (DRBSD)
+- Data Analysis; European Conference on  ... (ECDA)
+- Data Analysis; International Conference on Knowledge Processing and  ... (KONT)
+- Data Analysis; International Conference on Smart Applications and  ... (SADASC)
+- Data Analysis Technologies with Applications; Siberian Scientific Workshop on  ... (SibDATA)
+- Data Analytics and Management in Data Intensive Domains; International Conference on  ... (DAMDID/RCDL)
+- Data analytics in the Cloud; Workshop on  ... (DanaC)
+- Data and Application Security and Privacy; Conference on  ... (CODASPY)
+- Data and Applications Security and Privacy (DBSec)
+- Data and Information in Online Environments; International Conference on  ... (DIONE)
+- Data and Knowledge Bases; International Conference on  ... (JCDKB)
+- Data and Knowledge Engineering; International Conference on  ... (ICDKE)
+- Data and Knowledge Systems for Manufacturing and Engineering; International Conference on  ... (DKSME)
+- Data and Research Objects Management for Linked Open Science; Workshop on  ... (DaMaLOS)
+- Data and Web Technologies; International Conference on Emerging Internet,  ... (EIDWT)
+- Data Applications; International Conference on Advances in Databases, Knowledge, and  ... (DBKDA)
+- Data Base Theory; Advances in  ... (ADBT)
+- Data Bases Conference; Very Large  ... (VLDB)
+- Data Communication; Information Network and  ... (INDC)
+- Data Communications and Data Networks - Analysis and Design (DATACOMM)
+- Data Communications and their Performance
+- Data Compression Conference (DCC)
+- Data Description, Access and Control; ACM SIGFIDET Workshop on  ... (SIGFIDET)
+- Data Economy; International Workshop on  ... (DE)
+- Data Engineering and Automated Learning; International Conference on Intelligent  ... (IDEAL)
+- Data Engineering and Management; International Conference on  ... (ICDEM)
+- Data Engineering; Data Storage and  ... (DSDE)
+- Data Engineering for Wireless and Mobile Access; ACM International Workshop on  ... (MobiDE)
+- Data Engineering; IEEE International Conference on  ... (ICDE)
+- Data Engineering; International Conference on Software Engineering and  ... (SEDE)
+- Data Engineering; International Conferences on Computing and  ... (ICCDE)
+- Data Engineering; International Workshop on Research Issues in  ... (RIDE)
+- Data Engineering Issues in E-Commerce and Services (DEECS)
+- Data Integration in the Life Sciences (DILS)
+- Data Integration over the Web; International Workshop on  ... (DIWeb)
+- Data Intelligence and Security; International Conference on  ... (ICDIS)
+- Data Intensive Distributed Computing; International Workshop on  ... (DIDC)
+- Data Intensive Domains; International Conference on Data Analytics and Management in  ... (DAMDID/RCDL)
+- Data Intensive Scalable Computing Systems; International Workshop on  ... (DISCS)
+- Data Intensive Systems; IEEE International Conference on Data Science and  ... (DSDIS)
+- Data Intensive Systems; User Interfaces to  ... (UIDIS)
+- Data Management and Analytics for Medicine and Healthcare; International Workshop on  ... (DMAH)
+- Data Management for Sensor Networks (DMSN)
+- Data Management in Cloud, Grid and P2P Systems; International Conference on  ... (Globe)
+- Data Management in Grids (DMG)
+- Data Management in Peer-to-Peer Systems; International Workshop on  ... (DaMaP)
+- Data Management on New Hardware; International Workshop on  ... (DaMoN)
+- Data Management Systems; Evaluation of  ... (ExpDB)
+- Data Management Workshop; Twente  ... (TDM)
+- Data Mining - Applications and Theoretical Aspects; Industrial Conference on Advances in  ... (ICDM)
+- Data Mining and Big Data; International Conference on  ... (DMBD)
+- Data Mining and Knowledge Discovery; Workshop on Research Issues on  ... (DMKD)
+- Data Mining and Knowledge Management; Chinese Academy of Sciences Symposium on  ... (CASDMKM)
+- Data Mining and Optimization; Conference on  ... (DMO)
+- Data Mining Conference; Australasian  ... (AusDM)
+- Data Mining et Apprentissage Statistique (DMAS)
+</details>
+
+
+<details>
+<summary>E</summary>
+
+- E-Business and E-Government; International Conference on  ... (ICEE)
+- E-business and Mobile Commerce; International Conference on  ... (ALT)
+- E-Business and Telecommunication Networks; International Conference on  ... (ICETE)
+- e-Business, e-Services, and e-Society; IFIP International Conference on  ... (I3E)
+- e-Business Engineering; IEEE International Conference on  ... (ICEBE)
+- E-Business, Enterprise Information Systems, & E-Government; International Conference on E-Learning,  ... (EEE)
+- E-Business, Information Management and Computer Science; International Conference on  ... (EBIMCS)
+- e-Business; International Conference on Software and  ... (ICSEB)
+- E-business, Management and Economics; International Conference on  ... (ICEME)
+- E-business Technology and Strategy; Conference on  ... (CETS)
+- E-Business; Workshop on  ... (WEB)
+- E-Commerce Agents
+- e-Commerce and e-Service; IEEE >International Conference on e-Technology,  ... (EEE)
+- E-Commerce and Services; Data Engineering Issues in  ... (DEECS)
+- E-commerce, E-Business and E-Government; International Conference on  ... (ICEEG)
+- e-Democracy - International Conference on e-Democracy
+- E-Democracy and Open Government; Conference for  ... (CeDEM)
+- e-Democracy; International Conference on  ... (e-Democracy)
+- E-Education, and Online Training; International Conference on E-Learning,  ... (eLEOT)
+- E-Education, E-Business and E-Technology; International Conference on  ... (ICEBT)
+- E-Education, E-Business, E-Management, and E-Learning; International Conference on  ... (IC4E)
+- e-Energy - ACM International Conference on Future Energy Systems
+- E-Energy - Energy-Efficient Computing and Networking
+- e-Forensics - Forensics in Telecommunications, Information and Multimedia
+- e-Government; European Conference On  ... (ECEG)
+- E-Government; International Conference on  ... (TCGOV)
+- E-Government; International Conference on E-Business and  ... (ICEE)
+- E-Government; International Conference on E-Learning, E-Business, Enterprise Information Systems, &  ... (EEE)
+- e-Health Networking, Applications and Services; International Conference on  ... (Healthcom)
+- e-Infrastructure and e-Services for Developing Countries; International Conference on  ... (AFRICOMM)
+- E-learning and Games; International Conference on  ... (Edutainment)
+- e-learning and Virtual and Remote Laboratories (VIRTUAL-LAB)
+- E-learning Context; Knowledge Construction in  ...
+- E-Learning, E-Business, Enterprise Information Systems, & E-Government; International Conference on  ... (EEE)
+- E-Learning, E-Education, and Online Training; International Conference on  ... (eLEOT)
+- e-Learning; IADIS International Conference on  ... (IADIS e-Learning)
+- E-Learning Symposium (ELES)
+- E-Science - IEEE International Conference on e-Science
+- e-Science; IEEE International Conference on  ... (E-Science)
+- e-Service; IEEE >International Conference on e-Technology, e-Commerce and  ... (EEE)
+- e-Services, and e-Society; IFIP International Conference on e-Business,  ... (I3E)
+- e-Services for Developing Countries; International Conference on e-Infrastructure and  ... (AFRICOMM)
+- E-Services; Technologies for  ... (TES)
+- E-smart - Research in Smart Cards
+- e-Society, e-Learning and e-Technologies; International Conference on  ... (ICSLT)
+- e-Society; IFIP International Conference on e-Business, e-Services, and  ... (I3E)
+- e-Technologies and Networks for Development; International Conference on  ... (ICeND)
+- e-Technology, e-Commerce and e-Service; IEEE >International Conference on  ... (EEE)
+- E-VOTE-ID - International Joint Conference on Electronic Voting
+- E-Voting and Identity; International Conference on  ... (VoteID)
+- E-WIND - Workshop on Experimental Approaches to Wireless Network Design and Analysis
+- E2DC - International Workshop on Energy Efficient Data Centers
+- E2EMON - IEEE/IFIP Workshop on End-to-End Monitoring Techniques and Services
+- E4MAS - International Workshop on Environments for Multi-Agent Systems
+- EA - Evolution Artificielle
+- EA - International Workshop on Early Aspects
+- EAAI - Symposium on Education Advances in Artificial Intelligence
+- EAAMO - Conference on Equity and Access in Algorithms, Mechanisms, and Optimization
+- EACL - Conference of the European Chapter of the Association for Computational Linguistics
+- EAI - Enterprise Application Integration
+- EAI International Conference on Communications and Networking (CHINACOM)
+- EAI International Conference on ICT for Development for Africa (ICT4DA)
+- EAI International Conference on Multimedia Technology and Enhanced Learning (ICMTEL)
+- EAI International Conference on Quality, Reliability, Security and Robustness in Heterogeneous Systems (QSHINE)
+- EAI SmartCity360° International Convention (SmartCity360°)
+- EAIA - Advanced School on Artificial Intelligence
+- EAIS - IEEE Conference on Evolving and Adaptive Intelligent Systems
+- eal-World Embedded Wireless Systems and Networks (REALWSN)
+- EALS - IEEE Symposium on Evolving and Autonomous Learning Systems
+- EAMT - European Association for Machine Translation
+- EANN - International Conference on Engineering Applications of Neural Networks
+- EAPCogSci - EuroAsianPacific Joint Conference on Cognitive Science
+- EARS - International Workshop on Easy Approach to Requirements Syntax
+- Earth Observation; Workshop on Complex Data Challenges in  ... (CDCEO)
+- Earth Observing Systems
+- EASC - Exascale Applications and Software Conference
+- EASE - International Conference on Evaluation & Assessment in Software Engineering
+- EASSS - European Agent Systems Summer School
+- East/West Database Workshops (EWDW)
+- East-West Design & Test Symposium (EWDTS)
+- Easter Conference on Model Theory
+- EATIS - Euro American Conference on Telematics and Information Systems
+- EBCCSP - International Conference on Event-Based Control, Communication, and Signal Processing
+- EBECEGC - International Conference on Electrical and Biomedical Engineering, Clean Energy and Green Computing
+- EBEE - International Conference on E-Business and E-Commerce Engineering
+- Ebernburger Gespräche
+- EBIMCS - International Conference on E-Business, Information Management and Computer Science
+- eBISS - European Business Intelligence Summer School
+- EBP - Elektronische Geschäftsprozesse
+- EC - ACM Conference on Economics and Computation
+- EC-TEL - European Conference on Technology Enhanced Learning
+- EC-Web - International Conference on Electronic Commerce and Web Technologies
+- EC2ND - European Conference on Computer Network Defense
+- ECAI - European Conference on Artificial Intelligence
+- ECAI - International Electronics, Computers and Artificial Intelligence
+- ECAL - European Conference on Artificial Life
+- ECASE - International Workshop on Establishing the Community-Wide Infrecaseructure for Architecture-Based Software Engineering
+- ECBS - European Conference on the Engineering of Computer-Based Systems
+- ECBS - IEEE International Conference and Workshop on the Engineering of Computer-Based Systems
+- ECC - Euro-China Conference on Intelligent Data Analysis and Applications
+</details>
+
+
+<details>
+<summary>F</summary>
+
+- F-IDE - International Workshop on Formal Integrated Development Environment
+- FAA - International Symposium on Facial Analysis and Animation
+- FAABS - IEEE Workshop on Formal Approaches to Agent-Based Systems
+- FAB - Foundations and Applications of Blockchain
+- FabLearn - Annual Conference on Creativity and Fabrication in Education
+- FABULOUS - International Conference on Future Access Enablers for Ubiquitous and Intelligent Infrastructures
+- FAC - Workshop on Formal Verification of Analog Circuits
+- FAccT - ACM Conference on Fairness, Accountability and Transparency
+- Faces and Gestures; Analysis and Modeling of  ... (AMFG)
+- Facets of Virtual Environments; International Conference on  ... (FaVE)
+- Fachtagung Bildungstechnologien der Gesellschaft für Informatik (DeLFI)
+- Fachtagung des gemeinsamen Fachausschusses Echtzeitsysteme von Gesellschaft für Informatik e.V. (GI) (Echtzeit)
+- Fachtagung Hochschuldidaktik der Informatik (HDI)
+- Fachtagung Information Retrieval
+- Fachtagung Rechts- und Verwaltungsinformatik (RVI)
+- Facial Analysis and Animation; International Symposium on  ... (FAA)
+- Facial Micro-Expression; Workshop on  ... (FME)
+- Facing the Multicore-Challenge
+- FACS - International Workshop on Formal Aspects of Component Software
+- Factory Automation; IEEE International Conference on Emerging Technologies and  ... (ETFA)
+- Factory Communication Systems; IEEE International Conference on  ... (WFCS)
+- FAIML - International Conference on Frontiers of Artificial Intelligence and Machine Learning
+- FAIR - Fundamentals of Artificial Intelligence Research
+- FAIR - South African Forum for Artificial Intelligence Research
+- Fairness, Accountability and Transparency; ACM Conference on  ... (FAccT)
+- FairWare - International Workshop on Equitable Data & Technology
+- FAIS - Food and Agricultural Imaging Systems
+- FAMIX and Moose in Reengineering; Workshop on  ... (FAMOOSr)
+- FAMOOSr - Workshop on FAMIX and Moose in Reengineering
+- FAPR - Formal and Applied Practical Reasoning
+- Farbbildverarbeitung; Workshop  ...
+- FARM - ACM SIGPLAN International Workshop on Functional Art, Music, Modelling, and Design
+- FASE - Fundamental Approaches to Software Engineering
+- FASec - Formal Aspects of Security
+- Fashion Recommendation; Workshop on Multimedia Computing towards  ... (MCFR)
+- FAST - Formal Aspects in Security and Trust
+- FAST - USENIX Conference on File and Storage Technologies
+- Fast Software Encryption Workshop (FSE)
+- FATES - International Workshop on Formal Approaches to Testing of Software
+- Fault Detection, Supervision, and Safety for Technical Processes; CAA Symposium on  ... (CAA SAFEPROCESS)
+- Fault Detection, Supervision and Safety for Technical Processes; IFAC Symposium on  ...
+- Fault Diagnosis and Tolerance in Cryptography; Workshop on  ... (FDTC)
+- Fault Tolerance for HPC at eXtreme Scales Workshop (FTXS)
+- Fault Tolerance; Hardware and Software Architectures for  ...
+- Fault Tolerance in VLSI and Nanotechnology Systems; IEEE International Symposium on Defect and  ... (DFT)
+- Fault Tolerant Systems; Conference on Control and  ... (SysTol)
+- Fault-Tolerant Computing; International Symposium on  ... (FTCS)
+- Fault-Tolerant Computing Systems
+- Fault-Tolerant Distributed Computing
+- Fault-Tolerant Systems; Formal Techniques in Real-Time and  ... (FTRTFT)
+- FaVE - International Conference on Facets of Virtual Environments
+- FAW - Frontiers in Algorithmics
+- FBIT - Frontiers in the Convergence of Bioscience and Information Technologies
+- FBT - Formale Beschreibungstechniken
+- FBTC - Workshop "From Biology To Concurrency and back"
+- FC - Financial Cryptography and Data Security
+- FCA4AI - International Workshop "What can FCA do for Artificial Intelligence?"
+- FCC - International Symposium on Frontier and Innovation in Future Computing and Communications
+- FCCM - IEEE Symposium on Field-Programmable Custom Computing Machines
+- FCRC - Federated Computing Research Conference
+- FCS - International Conference on Foundations of Computer Science
+- FCS - International Conference on Frontiers in Cyber Security
+- FCST - Frontier of Computer Science and Technology
+- FCT - International Symposium on Fundamentals of Computation Theory
+- FCV - International Workshop on Frontiers of Computer Vision
+- FDBS - Workshop Föderierte Datenbanken
+- FDG - International Conference on Foundations of Digital Games
+- FDIA - BCS-IRSG Symposium on Future Directions in Information Access
+- FDL - Forum on Specification and Design Languages
+- FDM - International Conference on Finite Difference Methods
+- FDNA - Workshop on Future Directions in Network Architectures
+- FDSE - International Conference on Future Data and Security Engineering
+- FDTC - Workshop on Fault Diagnosis and Tolerance in Cryptography
+- Feature Interactions in Software and Communication Systems; International Conference on  ... (ICFI)
+- Feature-Oriented Software Development; International Workshop on  ... (FOSD)
+- FeBiD - International Workshop on Feedback Control Implementation and Design in Computing Systems and Networks
+- FECS - Frontiers in Education: Computer Science & Computer Engineering
+- FedCSIS - Conference on Computer Science and Intelligence Systems
+- FedEdge - Workshop on Data Privacy and Federated Learning Technologies for Mobile Edge Network
+- Federated Computing Research Conference (FCRC)
+- Federated Logic Conference (FLoC)
+- Feedback Computing; International Workshop on  ...
+- Feedback Control Implementation and Design in Computing Systems and Networks; International Workshop on  ... (FeBiD)
+- FEMIB - International Conference on Finance, Economics, Management and IT Business
+- Feminine; Seminary of Computer Science Research at  ... (RIF)
+- FESCA - International Workshop on Formal Engineering approaches to Software Components and Architectures
+- FET - European Future Technologies Conference and Exhibition
+- FETLT - International Workshop on Future and Emergent Trends in Language Technology
+- FG - Formal Grammar
+- FG - IEEE International Conference on Automatic Face & Gesture Recognition
+- FGCN - International Conference on Future Generation Communication and Networking
+- FGCS - International Conference on Fifth Generation Computer Systems
+- FGCT - International Conference on Future Generation Communication Technology
+- FGIT - Future Generation Information Technology
+- FGMOL - Joint Meeting of the Conference on Formal Grammar (FG) and the Conference on Mathematics of Language (MOL)
+- FGUC - Workshop on Foundations of Global Ubiquitous Computing
+- FHIES - International Symposium on Foundations of Health Informatics Engineering and Systems
+- FHPNC - ACM SIGPLAN International Workshop on Functional High-Performance and Numerical Computing
+- FICC - Future of Information and Communication Conference
+- FiCloud - International Conference on Future Internet of Things and Cloud
+</details>
+
+
+<details>
+<summary>G</summary>
+
+- GAIIS - International Conference on Generative Artificial Intelligence and Information Security
+- GALA - International Conference Games and Learning Alliance
+- GALOP - Workshop on Games for Logic and Programming Languages
+- Game and Decision Theory; Logic and the Foundations of  ... (LOFT)
+- Game Creation Events; International Conference on Game Jams, Hackathons, and  ... (ICGJ)
+- Game Design and Technology; Future of  ... (Future Play)
+- Game Jams, Hackathons, and Game Creation Events; International Conference on  ... (ICGJ)
+- Game Systems; Workshop on  ... (GameSys)
+- Game Theory; Algorithmic  ... (SAGT)
+- Game Theory for Networks; International ICST Conference on  ... (GAMENETS)
+- Game Theory for Security; Decision and  ... (GameSec)
+- GAME-ON Conference; European  ... (GAMEON)
+- Gameful Design, Research, and Applications; International Conference on  ... (Gamification)
+- GAMENETS - International ICST Conference on Game Theory for Networks
+- GAMEON - European GAME-ON Conference
+- Games and Entertainment; Forum on Grand Research Challenges in  ... (GranDGamesBR)
+- Games and Learning Alliance; International Conference  ... (GALA)
+- Games and Simulations; Agents for  ... (AGS)
+- Games and Software Engineering; Workshop on  ... (GAS)
+- Games and Virtual Worlds for Serious Applications; International Conference on  ... (VS-GAMES)
+- Games, Automata, Logics and Formal Verification; International Symposium on  ... (GandALF)
+- Games Entertainment Media Conference; IEEE  ... (GEM)
+- Games for Health EU (GFHEU)
+- Games for Logic and Programming Languages; Workshop on  ... (GALOP)
+- Games; Network and System Support for  ... (NETGAMES)
+- GameSec - Decision and Game Theory for Security
+- GameSys - Workshop on Game Systems
+- Gamification - International Conference on Gameful Design, Research, and Applications
+- Gamification and Games for Learning; International Symposium on  ... (GamiLearn)
+- Gamification of Software Development, Verification, and Validation; International Workshop on  ... (Gamify)
+- GamiFIN Conference (GamiFIN)
+- Gamify - International Workshop on Gamification of Software Development, Verification, and Validation
+- GamiLearn - International Symposium on Gamification and Games for Learning
+- GandALF - International Symposium on Games, Automata, Logics and Formal Verification
+- Gap between Visualization Research and Visualization Software; Workshop on the  ... (VisGap)
+- GAS - Workshop on Games and Software Engineering
+- GASCom - International Conference on Random and Exhaustive Generation of Combinatorial Structures
+- Gaze-Controlled Applications; Conference on Novel  ... (NGCA)
+- GazeIn - Workshop on Eye Gaze in Intelligent Human Machine Interaction
+- GBCIC - Graz Brain-Computer Interface Conference
+- GBPM - Goal-Oriented Business-Process Modeling
+- GbRPR - Workshop on Graph Based Representations in Pattern Recognition
+- GC - Global Computing
+- GC - International Conferences on Graph Computing
+- GCA - International Conference on Grid Computing and Applications
+- GCAI - Global Conference on Artificial Intelligence
+- GCAIoT - Global Conference on Artificial Intelligence and Internet of Things
+- GCB - German Conference on Bioinformatics
+- GCC - International Conference on Grid and Cloud Computing
+- GCC Developer's Summit (GccSummit)
+- GCCB - Grid Computing in Computational Biology
+- GCCE - Global Conference on Consumer Electronics
+- GccSummit - GCC Developer's Summit
+- GCH - Eurographics Workshop on Graphics and Cultural Heritage
+- GCPR - German Conference on Pattern Recognition
+- GCSE - Generative and Component-Based Software Engineering
+- GD - International Symposium on Graph Drawing and Network Visualization
+- GDN - Group Decision and Negotiation
+- GE - International Workshop on Gender Equality in Software Engineering
+- GEC Summit - ACM/SIGEVO Summit on Genetic and Evolutionary Computation
+- GECCO - Annual Conference on Genetic and Evolutionary Computation
+- GeCon - IEEE German Eduction Conference
+- GECON - International Conference on the Economics of Grids, Clouds, Systems, and Services
+- GEFS - IEEE Workshop on Genetic and Evolutionary Fuzzy Systems
+- GEM - IEEE Games Entertainment Media Conference
+- GEM - International Conference on Genetic and Evolutionary Methods
+- Gemeinschaften in Neuen Medien (GeNeMe)
+- GEMS - GEometrical Models of Natural Language Semantics
+- Gender Equality in Software Engineering; International Workshop on  ... (GE)
+- GenderIT - Conference on Gender and IT
+- GeNeMe - Gemeinschaften in Neuen Medien
+- GENERAL - Workshop on GENerative, Explainable and Reasonable Artificial Learning
+- General Intelligence; Workshop on Computational Creativity, Concept Invention, and  ... (C3GI)
+- General Purpose Processing on Graphics Processing Units; Workshop on  ... (GPGPU)
+- General Theory of Graph Transformation Systems Workshop (GETGRATS Workshop)
+- General Theory of Information Transfer and Combinatorics (GTIT-C)
+- General Theory of Software Engineering; International Workshop on a  ... (GTSE)
+- Generative and Component-Based Software Engineering (GCSE)
+- Generative Artificial Intelligence and Information Security; International Conference on  ... (GAIIS)
+- GENerative, Explainable and Reasonable Artificial Learning; Workshop on  ... (GENERAL)
+- Generative Programming: Concepts and Experiences; International Conference on  ... (GPCE)
+- Generative Technologies; Workshop on  ... (WGT)
+- Generic and Indexed Programming; International Spring School on  ... (SSGIP)
+- Generic Programming; ACM SIGPLAN Workshop on  ... (WGP)
+- Genetic Algorithms; Foundations of  ... (FOGA)
+- Genetic Algorithms; International Conference on  ... (ICGA)
+- Genetic and Evolutionary Computation; ACM/SIGEVO Summit on  ... (GEC Summit)
+- Genetic and Evolutionary Computation; Annual Conference on  ... (GECCO)
+- Genetic and Evolutionary Computing; International Conference on  ... (ICGEC)
+- Genetic and Evolutionary Computing; International Conference on  ... (WGEC)
+- Genetic and Evolutionary Fuzzy Systems; IEEE Workshop on  ... (GEFS)
+- Genetic and Evolutionary Methods; International Conference on  ... (GEM)
+- Genetic Improvement Workshop; International  ... (GI)
+- Genetic Programming; European Conference on  ... (EuroGP)
+- Genetic Programming Theory and Practice (GPTP)
+- GENI Research and Educational Experiment Workshop (GREE)
+- Genomic Signal Processing and Statistics; International Workshop on  ... (GENSiPS)
+- GENSiPS - International Workshop on Genomic Signal Processing and Statistics
+- Geo-informatics in Sustainable Ecosystem and Society; International Conference on  ... (GSES)
+- Geo-Privacy and Data Utility for Smart Societies; International Workshop on  ... (GeoPrivacy)
+</details>
+
+
+<details>
+<summary>H</summary>
+
+- H-WORKLOAD - International Symposium on Human Mental Workload
+- H2RC - International Workshop on Heterogeneous High-performance Reconfigurable Computing
+- Hackathons, and Game Creation Events; International Conference on Game Jams,  ... (ICGJ)
+- HAI - International Conference on Human-Agent Interaction
+- HAICTA - International Conference on Information and Communication Technologies in Agriculture, Food and Environment
+- HAID - Haptic and Audio Interaction Design
+- Haifa Verification Conference (HVC)
+- HAIS - International Conference on Hybrid Artificial Intelligence Systems
+- HAISA - International Symposium on Human Aspects of Information Security and Assurance
+- Halfway to the Future Symposium (HTTF)
+- Hands-free Speech Communication and Microphone Arrays; Joint Workshop on  ... (HSCMA)
+- HANDY - Workshop on Hybrid and Networked Dynamical Systems
+- HAOC - Workshop on High Availability and Observability of Cloud Systems
+- HaPoC - International Conference on History and Philosophy of Computing
+- Haptic and Audio Interaction Design (HAID)
+- Haptic, Audio and Visual Environments and Games; IEEE International Workshop/Symposium on  ... (HAVE)
+- Haptic Human-Computer Interaction (HHCI)
+- HAR - International Conference on Human and Artificial Rationalities
+- Hardware and Architectural Support for Security and Privacy; International Workshop on  ... (HASP)
+- Hardware and Software Architectures for Fault Tolerance
+- Hardware Oriented Security and Trust; IEEE International Symposium on  ... (HOST)
+- Hardware Security; Workshop on Attacks and Solutions in  ... (ASHES)
+- Hardware/Software Codesign and System Synthesis; International Conference on  ... (CODES+ISSS)
+- Hardware/Software Codesign; International Symposium on  ... (CODES)
+- Harmony Search Algorithm; International Conference on  ... (ICHSA)
+- Harnessing Theories for Tool Support for Software; International Workshop on  ... (TTSS)
+- HART - International Workshop on Hybrid and Real-Time Systems
+- HASE - IEEE International Symposium on High-Assurance Systems Engineering
+- Haskell - ACM SIGPLAN International Symposium on Haskell
+- Haskell; ACM SIGPLAN International Symposium on  ... (Haskell)
+- HASP - International Workshop on Hardware and Architectural Support for Security and Privacy
+- HAVE - IEEE International Workshop/Symposium on Haptic, Audio and Visual Environments and Games
+- Hawaii International Conference on System Sciences (HICSS)
+- HBU - International Workshop on Human Behavior Unterstanding
+- HCAIep - Conference on Human Centered Artificial Intelligence: Education and Practice
+- HCC - Human Choice and Computers
+- HCC - International Conference on Human Centered Computing
+- HCCE - Joint International Conference on Human-Centered Computer Environments
+- HCCS - International Conference on Human-Centered Cognitive Systems
+- HCI Education; Symposium on  ... (EduCHI)
+- HCI International - International Conference on Human-Computer Interaction
+- HCI-Aero - International Conference on Human-Computer Interaction in Aerospace
+- HCI-COLLAB - Iberoamerican Workshop on Human-Computer Interaction
+- HCI-SI - Human-Computer Interaction Slovenia Conference
+- HCIEd - International Working Conference of Human-Computer Interaction Educators
+- HCIR - Symposium on Human-Computer Interaction and Information Retrieval
+- HCITOCH - Human-Computer Interaction, Tourism and Cultural Heritage
+- HCM - International Workshop on Human-Centered Multimedia
+- HCMA - International Workshop on Human-centric Multimedia Analysis
+- HCMIR - Workshop on Human-Centric Music Information Retrieval
+- HCOMP - AAAI Conference on Human Computation & Crowdsourcing
+- HCS - IEEE Hot Chips Symposium
+- HCSE - International Conference on Human-Centered Software Engineering
+- HCVS - Workshop on Horn Clauses for Verification and Synthesis
+- HCW - Heterogeneous Computing Workshop
+- HDI - Fachtagung Hochschuldidaktik der Informatik
+- HDI - Hochschuldidaktik der Informatik
+- HDMS - Hellenic Data Management Symposium
+- HDSDA - High Dimensional and Symbolic Data Analysis
+- Health Care and Life Sciences; International Conference on Semantic Web Applications and Tools for  ... (SWAT4HCLS)
+- Health Care; International Workshop on Multimedia for Personal Health and  ... (HealthMedia)
+- Health Care; Machine Learning in  ... (MLHC)
+- Health Data Workshop; International  ... (HEDA)
+- Health, Inference, and Learning; Conference on  ... (CHIL)
+- Health Informatics Conference; Australian National  ... (HIC)
+- Health Informatics Engineering and Systems; International Symposium on Foundations of  ... (FHIES)
+- Health Informatics; European Workshop on Practical Aspects of  ... (PAHI)
+- Health Informatics; International Conference on Biomedical and  ... (BHI)
+- Health Informatics meets Digital Health; Annual Conference on  ... (dHealth)
+- Health Informatics Symposium; International  ... (IHI)
+- Health Information Science; International Conference on  ... (HIS)
+- Health Text Mining and Information Analysis; International Workshop on  ... (Louhi)
+- Healthcare and e-health; IEEE Symposium on Computational Intelligence in  ... (CICARE)
+- Healthcare Data; International Workshop on Knowledge Discovery from  ... (KDH)
+- Healthcare Informatics; IEEE International Conference on  ... (ICHI)
+- Healthcare Informatics, Imaging and Systems Biology; IEEE International Conference on  ... (HISB)
+- Healthcare Information and Knowledge Management; International Workshop on  ... (HIKM)
+- HealthCare; International Conference on Internet of Things Technologies for  ... (HealthyIoT)
+- Healthcare; International Conference on Pervasive Computing Technologies for  ... (PervasiveHealth)
+- Healthcare; International Workshop on Software Engineering in  ... (SEH)
+- Healthcare; Workshop on Visual Analytics in  ... (VAHC)
+- Healthcom - International Conference on e-Health Networking, Applications and Services
+- HealthGrid
+- HealthMedia - International Workshop on Multimedia for Personal Health and Health Care
+- HealthyIoT - International Conference on Internet of Things Technologies for HealthCare
+- HEAR - Holistic Evaluation of Audio Representations Benchmark
+- HEART - International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies
+- Heart; International Workshop on Statistical Atlases and Computational Models of the  ... (STACOM)
+- HEDA - International Health Data Workshop
+- HEFA - Higher Education for All
+- Heinz Nixdorf Symposium (IHNS)
+- Hellenic Conference on Artificial Intelligence (SETN)
+- Hellenic Data Management Symposium (HDMS)
+- Hellenic-European Conference on Computer Mathematics and its Applications (HERCMA)
+- HELMeTO - Higher Education Learning Methodologies and Technologies Online
+- HERCMA - Hellenic-European Conference on Computer Mathematics and its Applications
+- HESSD - Human Error, Safety and Systems Development
+- Heterogeneous Computing Workshop (HCW)
+- Heterogeneous High-performance Reconfigurable Computing; International Workshop on  ... (H2RC)
+- Heterogeneous Information Systems; Interoperability Of  ... (IHIS)
+</details>
+
+
+<details>
+<summary>I</summary>
+
+- I@A - Infotech@Aerospace Conference
+- "I Can't Believe It's Not Better!" Workshop Series (ICBINB)
+- I/O in Parallel and Distributed Systems; Workshop on  ... (IOPADS)
+- i* Workshop; International  ... (iStar)
+- i-CREATe - International Convention on Rehabilitation Engineering & Assistive Technology
+- I-DO - International Conference on Information Technology, Data Science, and Optimization
+- I-ESA - Interoperability for Enterprise Software and Applications
+- I-KNOW - International Conference on Knowledge Management and Knowledge Technologies
+- I-SPAN - International Symposium on Parallel Architectures, Algorithms and Networks
+- I-USED - International Workshop on the Interplay between Usability Evaluation and Software Development
+- i3D - ACM Symposium on Interactive 3D Graphics and Games
+- I3E - IFIP International Conference on e-Business, e-Services, and e-Society
+- I4CS - International Conference on Innovations for Community Services
+- IA - IEEE Symposium on Intelligent Agents
+- IA3 - Workshop on Irregular Applications: Architectures and Algorithms
+- IAAI - Conference on Innovative Applications of Artificial Intelligence
+- IACT - International Workshop on Implicit Author Characterization from Texts for Search and Retrieval
+- IADIS e-Learning - IADIS International Conference on e-Learning
+- IADIS European Conference on Data Mining (IADIS-ECDM)
+- IADIS International Conference Applied Computing (IADIS-AC)
+- IADIS International Conference on Cognition and Exploratory Learning in Digital Age (CELDA)
+- IADIS International Conference on e-Learning (IADIS e-Learning)
+- IADIS International Conference WWW/Internet (IADIS-ICWI)
+- IADIS-AC - IADIS International Conference Applied Computing
+- IADIS-ECDM - IADIS European Conference on Data Mining
+- IADIS-ICWI - IADIS International Conference WWW/Internet
+- IADT - Issues and Applications of Database Technology
+- IAIC - International Artificial Intelligence Conference
+- IAIT - International Conference on Advances in Information Technology
+- IAL - Workshop on Interactive Adaptive Learning
+- IALP - International Conference on Asian Language Processing
+- IAM - International Conference on Informatics and Applied Mathematics
+- IAPR International Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR)
+- IAPR International Workshop on Graphics Recognition (GREC)
+- IAPR International Workshop on Machine Vision Applications (MVA)
+- IAPR TC3 Workshop on Multimodal Pattern Recognition of Social Signals (MPRSS)
+- IAPR TC3 Workshop on Partially Supervised Learning (PSL)
+- IARML - Workshop on the Interactions between Analogical Reasoning and Machine Learning
+- IARWISOI - International Advanced Research Workshop on In Silico Oncology and Cancer Investigation
+- IAS - Intelligent Autonomous Systems
+- IAS - International Conference on Information Assurance and Security
+- IAS Annual Meeting
+- IASSE - International Conference on Intelligent and Adaptive Systems and Software Engineering
+- IASSIST - International Association for Social Science Information Sercices and Technology
+- IASTED Conference on Software Engineering (SE)
+- IASTED Conferences
+- IASTED International Conference on Communication Systems and Networks (CSN)
+- IASTED International Conference on Modelling, Simulation, and Optimization (MSO)
+- IASTED International Conference on Neural Networks and Computational Intelligence (NCI)
+- IASTED International Conference on Visualization, Imaging and Image Processing (VIIP)
+- IASTED International Multi-Conference on Wireless and Optical Communications (WOC)
+- IAT - ACM International Conference on International Agent Technology
+- IATA - Intelligent Agents for Telecommunication Applications
+- IAW - Annual IEEE Information Assurance Workshop
+- IAWTIC - International Conference on Intelligent Agents, Web Technologies and Internet Commerce
+- IBERAMIA - Ibero-American Conference on AI
+- Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)
+- Iberian Robotics Conference (ROBOT)
+- Ibero-American Conference on AI (IBERAMIA)
+- Ibero-American Congress of Smart Cities (ICSC-Cities)
+- Ibero-American Symposium on Computer Graphics (SIACG)
+- Iberoamerican Conference on Applications and Usability of Interactive TV (jAUTI)
+- Iberoamerican Conference on Knowledge Graphs and Semantic Web (KGSWC)
+- Iberoamerican Conference on Software Engineering (CIbSE)
+- Iberoamerican Congress on Pattern Recognition (CIARP)
+- Iberoamerican Workshop on Human-Computer Interaction (HCI-COLLAB)
+- IberSPEECH Conference (IberSPEECH)
+- IBICA - International Conference on Innovations in Bio-inspired Computing and Applications
+- IbPRIA - Iberian Conference on Pattern Recognition and Image Analysis
+- IC - Journées Francophones d'Ingénierie des Connaissances
+- IC BCI - International Scientific Conference on Brain-Computer Interfaces
+- IC Design & Technology; International Conference on  ... (ICICDT)
+- IC-AI - International Conference on Artificial Intelligence
+- IC-NIDC - IEEE International Conference on Network Infrastructure and Digital Content
+- IC2E - International Conference on Cloud Engineering
+- IC2IT - International Conference on Computing and Information Technology
+- IC3 - International Conference on Contemporary Computing
+- IC3D - International Conference on 3D Immersion
+- IC3I - International Conferences on Contemporary Computing and Informatics
+- IC3INA - International Conference on Computer, Control, Informatics and Its Applications
+- IC3K - International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management
+- IC4E - International Conference on E-Education, E-Business, E-Management, and E-Learning
+- ICA - International Conference on Agents
+- ICA3PP - International Conference on Algorithms and Architectures for Parallel Processing
+- ICAA - International Conference on Applied Algorithms
+- ICAA - International Conference on Assured Autonomy
+- ICAAI - International Conference on Advances in Artificial Intelligence
+- ICAART - International Conference on Agents and Artificial Intelligence
+- ICAASE - International Conference on Advanced Aspects of Software Engineering
+- ICABD - International Conference on Algorithms for Big Data
+- ICAC - IEEE International Conference on Autonomic Computing
+- ICAC - International Conference on Automation and Computing
+- ICACCI - International Conference on Advances in Computing, Communications and Informatics
+- ICACDS - International Conference on Advances in Computing and Data Sciences
+- ICACI - International Conference on Advanced Computational Intelligence
+- ICACIE - International Conference on Advanced Computing and Intelligent Engineering
+- ICACIS - International Conference on Advanced Communication and Intelligent Systems
+- ICACIT - International Symposium on Accreditation of Engineering and Computing Education
+- ICACNI - International Conference on Advanced Computing, Networking, and Informatics
+- ICACS - International Conference on Advancements in Computational Sciences
+</details>
+
+
+<details>
+<summary>J</summary>
+
+- JAC - Journées Automates Cellulaires
+- Jahrestagung der Gesellschaft für Informatik (INFORMATIK)
+- Jahrestagung des Verbands Digital Humanities im deutschsprachigen Raum (DHd)
+- JAIIO - Jornadas Argentinas de Informática
+- JAMAICA - Workshop on Joining AcadeMiA and Industry Contributions to Test Automation and Model-Based Testing
+- Japan Conference on Discrete and Computational Geometry, Graphs, and Games (JCDCG3)
+- Japanese Discovery Science Project
+- JARA-HPC Symposium (JHPCS)
+- jAUTI - Iberoamerican Conference on Applications and Usability of Interactive TV
+- Java Grande
+- Java on Smart Cards; International Workshop on  ... (JavaCard)
+- Java Program Analysis; ACM SIGPLAN International Workshop on the State Of the Art in  ... (SOAP)
+- Java Technologies for Real-time and Embedded Systems (JTRES)
+- JavaCard - International Workshop on Java on Smart Cards
+- JBI - Spanish Symposium on Bioinformatics for Personalized Medicine
+- JBIDI - Jornadas de Bibliotecas Digitales
+- JC&S - International Symposium on Joint Communications & Sensing
+- JCAI - IITA International Joint Conference on Artificial Intelligence
+- JCC&BD - Conference on Cloud Computing & Big Data
+- JCDCG3 - Japan Conference on Discrete and Computational Geometry, Graphs, and Games
+- JCDKB - International Conference on Data and Knowledge Bases
+- JCDL - ACM/IEEE Joint Conference on Digital Libraries
+- JCIS - Joint Conference on Information Sciences
+- JCIT - Jerusalem Conference on Information Technology
+- JCKBSE - Joint Conference on Knowledge-Based Software Engineering
+- JCRAI - Joint Conference on Robotics and Artificial Intelligence
+- JCSG - Joint International Conference on Serious Games
+- JCSG - Joint International Conference on Serious Games
+- JCSSE - International Joint Conference on Computer Science and Software Engineering
+- JELIA - European Conference on Logics in Artificial Intelligence
+- JERI - National Study Day on Research on Computer Sciences
+- Jerusalem Conference on Information Technology (JCIT)
+- JFIM - Journées francophones d'informatique médicale
+- JFLA - Journées francophones des langages applicatifs
+- JFPDA - Journées Francophone Planification, Décision et Apprentissage pour la conduite des systèmes
+- JFPLC - Journées Francophones de Programmation Logique par Contraintes
+- JFSMA - Journees Francophones sur les Systemes Multi-Agents
+- JHPCS - JARA-HPC Symposium
+- JIAF - Journées d'Intelligence Artificielle Fondamentale
+- JIC - Joint International Conference on Cognitive and Systematic Musicology
+- JICSLP - Joint International Conference and Symposium on Logic Programming
+- JIISIC - Jornadas Iberoamericanas de Ingeniería de Software e Ingeniería del Conocimiento
+- JINIS - International Conference on Systems Engineering
+- JISBD - Jornadas de Ingeniería del Software y Bases de Datos
+- JIST - Joint International Conference on Semantic Technology
+- JITRE - IEEE Workshop on Just-In-Time Requirements Engineering
+- JMLC - Joint Modular Languages Conference
+- Job Scheduling Strategies for Parallel Processing (JSSPP)
+- JOBIM - International Conference on Biology, Informatics, and Mathematics
+- John Vincent Atanasoff Symposium (JVA)
+- Joining AcadeMiA and Industry Contributions to Test Automation and Model-Based Testing; Workshop on  ... (JAMAICA)
+- Joint Benelux Conference on Artificial Intelligence and Machine Learning (BNAIC)
+- Joint Communications & Sensing; International Symposium on  ... (JC&S)
+- Joint COMPUGRAPH/SEMAGRAPH Workshop on Graph Rewriting and Computation (SEGRAGRA)
+- Joint Computer Conference (FJCC)
+- Joint Conference of the Information Retrieval Communities in Europe (CIRCLE)
+- Joint Conference on Digital Libraries; ACM/IEEE  ... (JCDL)
+- Joint Conference on Information Sciences (JCIS)
+- Joint Conference on Knowledge-Based Software Engineering (JCKBSE)
+- Joint Conference on Lexical and Computational Semantics (*SEM)
+- Joint Conference on Robotics and Artificial Intelligence (JCRAI)
+- Joint European Conference on Networks and Communications and 6G Summit (EuCNC/6G)
+- Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics (ICDL-EpiRob)
+- Joint International Conference and Symposium on Logic Programming (JICSLP)
+- Joint International Conference of the Association for Literary and Linguistic Computing and the Association for Computers and the Humanities (ALLC/ACH)
+- Joint International Conference on Cognitive and Systematic Musicology (JIC)
+- Joint International Conference on Data Science & Management of Data (COMAD)
+- Joint International Conference on Human-Centered Computer Environments (HCCE)
+- Joint International Conference on Semantic Technology (JIST)
+- Joint International Conference on Serious Games (JCSG)
+- Joint International Conference on Serious Games (JCSG)
+- Joint International Conference on Vector and Parallel Processing (CONPAR)
+- Joint International Workshop on Linearity and Trends in Linear Logic and its Applications (LINEARITY&TLLA)
+- Joint Meeting of the Conference on Formal Grammar (FG) and the Conference on Mathematics of Language (MOL) (FGMOL)
+- Joint Modular Languages Conference (JMLC)
+- Joint Multi-Conference on Human-Level Artificial Intelligence (HLAI)
+- Joint Ontology Workshops (JOWO)
+- Joint Seminar on Ontology Research in Brazil / International Workshop on Metamodels, Ontologies and Semantic Technologies (ONTOBRAS-MOST)
+- Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH)
+- Joint Symposium on Semantic Processing (JSSP)
+- Joint Urban Remote Sensing Event (JURSE)
+- Joint WICOW/AIRWeb Workshop on Web Quality (WebQuality)
+- Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL)
+- Joint Workshop on CPS & IoT Security and Privacy (CPSIoTSec)
+- Joint Workshop on Developments in Implicit Computational complExity and Foundational and Practical Aspects of Resource Analysis (DICE-FOPARA)
+- Joint Workshop on Foundations of Mobile Computing (POMC)
+- Joint Workshop on Hands-free Speech Communication and Microphone Arrays (HSCMA)
+- Joint Workshop on Interfaces and Human Decision Making for Recommender Systems (IntRS)
+- Joint Workshop on Theory of Security and Applications (TOSCA)
+- Jornadas Argentinas de Informática (JAIIO)
+- Jornadas de Bibliotecas Digitales (JBIDI)
+- Jornadas de Ingeniería del Software y Bases de Datos (JISBD)
+- Jornadas Iberoamericanas de Ingeniería de Software e Ingeniería del Conocimiento (JIISIC)
+- Jornadas sobre Programación y Lenguajes (PROLE)
+- Journées Automates Cellulaires (JAC)
+- Journées Bases de Données Avancées  (BDA)
+- Journées d'Intelligence Artificielle Fondamentale (JIAF)
+- Journées Francophone Planification, Décision et Apprentissage pour la conduite des systèmes (JFPDA)
+- Journées Francophones de Programmation Logique par Contraintes (JFPLC)
+- Journées francophones des langages applicatifs (JFLA)
+</details>
+
+
+<details>
+<summary>K</summary>
+
+- K - International Workshop on the K Framework and its Applications
+- K Framework and its Applications; International Workshop on the  ... (K)
+- K-CAP - International Conference on Knowledge Capture
+- Kaleidoscope - ITU Kaleidoscope Academic Conference
+- Kaleidoscope Academic Conference; ITU  ... (Kaleidoscope)
+- Karlsruhe Institute of Technology - Proceedings (KIT)
+- KaRS - Knowledge-aware and Conversational Recommender Systems Workshop
+- KBC-LM - Workshop on Knowledge Base Construction from Pre-Trained Language Models
+- KBCS - Knowledge Based Computer Systems
+- kComputational Intelligence and Applications; International Workshop on  ... (IWCIA)
+- KDD - ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+- KDD Workshop on Causal Discovery, Prediction and Decision (CDPD)
+- KDECB - Knowledge Discovery and Emergent Complexity in Bioinformatics
+- KDEX - IEEE Knowledge and Data Engineering Exchange Workshop
+- KDH - International Workshop on Knowledge Discovery from Healthcare Data
+- KDID - International Workshop on Knowledge Discovery in Inductive Databases
+- KDWeb - International Workshop on Knowledge Discovery on the Web
+- KDXD - Knowledge Discovery from XML Documents
+- KELSI - Knowledge Exploration in Life Science Informatics
+- KELVAR - Workshop on K-12 Embodied Learning through Virtual & Augmented Reality
+- Kernel Isolation, Safety and Verification; Workshop on  ... (KISV)
+- KES - International Conference on Knowledge-Based Intelligent Information & Engineering Systems
+- KES Human Centred Intelligent Systems Conference (KES-HCIS)
+- KES International Conference on Innovation in Medicine and Healthcare (InMed)
+- KES International Conference on Intelligent Decision Technologies (KES-IDT)
+- KES-AMSTA - Agent and Multi-Agent Systems: Technologies and Applications
+- KES-HCIS - KES Human Centred Intelligent Systems Conference
+- KES-IDT - KES International Conference on Intelligent Decision Technologies
+- KESW - International Conference on Knowledge Engineering and the Semantic Web
+- KGC - Kurt Gödel Colloquium
+- KGSWC - Iberoamerican Conference on Knowledge Graphs and Semantic Web
+- KI - German Conference on AI
+- KIC - Knowledge Intensive CAD
+- KICSS - International Conference on Knowledge, Information, and Creativity Support Systems
+- KIFS - Künstliche Intelligenz Frühjahrsschule
+- KISV - Workshop on Kernel Isolation, Safety and Verification
+- KIT - Karlsruhe Institute of Technology - Proceedings
+- KKA - Polish Control Conference
+- KKIO Software Engineering Conference (KKIO)
+- KMGov - Knowledge Management in Electronic Government
+- KMO - International Conference on Knowledge Management in Organizations
+- KNOWCON-NSAIS workshop on Business Analytics (KNOWCON)
+- Knowledge Acquisition Workshop; Pacific Rim  ... (PKAW)
+- Knowledge, and Data Applications; International Conference on Advances in Databases,  ... (DBKDA)
+- Knowledge and Data Engineering Exchange Workshop; IEEE  ... (KDEX)
+- Knowledge and Information Visualization
+- Knowledge and Smart Technology; International Conference on  ... (KST)
+- Knowledge and Systems Engineering; International Conference on  ... (KSE)
+- Knowledge Base Construction from Pre-Trained Language Models; Workshop on  ... (KBC-LM)
+- Knowledge Based Computer Systems (KBCS)
+- Knowledge Bases; Compulog Net Meeting on  ... (CNKBS)
+- Knowledge Bases; International Conference on Information Modelling and  ... (EJC)
+- Knowledge Capture; International Conference on  ... (K-CAP)
+- Knowledge Construction in E-learning Context
+- Knowledge Discovery and Data Mining; ACM SIGKDD Conference on  ... (KDD)
+- Knowledge Discovery and Data Mining; Pacific-Asia Conference on  ... (PAKDD)
+- Knowledge Discovery and Data Mining; Workshop on  ... (WKDD)
+- Knowledge Discovery and Emergent Complexity in Bioinformatics (KDECB)
+- Knowledge Discovery from Healthcare Data; International Workshop on  ... (KDH)
+- Knowledge Discovery from XML Documents (KDXD)
+- Knowledge Discovery in Databases; European Conference on Machine Learning and  ... (PKDD)
+- Knowledge Discovery in Inductive Databases; International Workshop on  ... (KDID)
+- Knowledge Discovery; International Conference on Big Data Analytics and  ... (DaWaK)
+- Knowledge Discovery; International Conference on Cyber-Enabled Distributed Computing and  ... (CyberC)
+- Knowledge Discovery, Knowledge Engineering and Knowledge Management; International Joint Conference on  ... (IC3K)
+- Knowledge Discovery on the Web; International Workshop on  ... (KDWeb)
+- Knowledge Discovery; Workshop on Research Issues on Data Mining and  ... (DMKD)
+- Knowledge Diversity; Workshop on  ... (KoDis)
+- Knowledge Engineering and Knowledge Management; International Conference  ... (EKAW)
+- Knowledge Engineering and Knowledge Management; International Joint Conference on Knowledge Discovery,  ... (IC3K)
+- Knowledge Engineering and the Semantic Web; International Conference on  ... (KESW)
+- Knowledge Engineering; International Conference on Artificial Intelligence and  ... (AIKE)
+- Knowledge Engineering; International Conference on Intelligent Systems and  ... (ISKE)
+- Knowledge Engineering; International Conference on Natural Language Processing and  ... (NLPKE)
+- Knowledge Engineering; International Conference on Software Engineering and  ... (SEKE)
+- Knowledge Engineering; Terminology and  ... (TKE)
+- Knowledge Exploration in Life Science Informatics (KELSI)
+- Knowledge Exploration; International Conference on Mining Intelligence and  ... (MIKE)
+- Knowledge Extraction; International Cross-Domain Conference on Machine Learning and  ... (CD-MAKE)
+- Knowledge Graph and Semantic Computing; China Conference on  ... (CCKS)
+- Knowledge Graph; IEEE International Conference on  ... (ICKG)
+- Knowledge Graphs and Semantic Web; Iberoamerican Conference on  ... (KGSWC)
+- Knowledge Graphs; International Joint Conference on  ... (IJCKG)
+- Knowledge in the Internet of Things; International Conference on Identification, Information, and  ... (IIKI)
+- Knowledge, Information, and Creativity Support Systems; International Conference on  ... (KICSS)
+- Knowledge Innovation and Invention; International Conferences on  ... (ICKII)
+- Knowledge Intensive CAD (KIC)
+- Knowledge Management and Knowledge Technologies; International Conference on  ... (I-KNOW)
+- Knowledge Management; Chinese Academy of Sciences Symposium on Data Mining and  ... (CASDMKM)
+- Knowledge Management; Conference on Language Processing and  ... (LPKM)
+- Knowledge Management; European Conference on  ... (ECKM)
+- Knowledge Management in Electronic Government (KMGov)
+- Knowledge Management in Organizations; International Conference on  ... (KMO)
+- Knowledge Management; International Conference Knowledge Engineering and  ... (EKAW)
+- Knowledge Management; International Conference on Applications of Declarative Programming and  ... (INAP)
+- Knowledge Management; International Conference on Information and  ... (CIKM)
+- Knowledge Management; International Conference on Information Technology and  ... (ICITKM)
+- Knowledge Management; International Joint Conference on Knowledge Discovery, Knowledge Engineering and  ... (IC3K)
+- Knowledge Management; International Workshop on Healthcare Information and  ... (HIKM)
+- Knowledge Management; Peer-to-Peer  ... (P2PKM)
+</details>
+
+
+<details>
+<summary>L</summary>
+
+- L@S - ACM Conference on Learning @ Scale
+- L systems
+- L4DC - Conference on Learning for Dynamics & Control
+- LA-CCI - Latin American Conference on Computational Intelligence
+- LA-WEB - Latin American Web Congress
+- LACL - Logical Aspects of Computational Linguistics
+- LADC - Latin-American Symposium on Dependable Computing
+- LADIS - International Workshop on Large-Scale Distributed Systems and Middleware
+- LADS - Languages, Methodologies and Development Tools for Multi-Agent Systems
+- LAGOS - Latin-American Algorithms, Graphs and Optimization Symposium
+- LAK - International Conference on Learning Analytics and Knowledge
+- LALA - Latin American Conference on Learning Analytics
+- LAMAS - Learning and Adaption in Multi-Agent Systems
+- Lambda Network Ph.D. Workshop (LAMBDA-PhD)
+- Lambda-Calculus Symposium (Lambda-Calculus)
+- LAMBDA-PhD - Lambda Network Ph.D. Workshop
+- LAN and MAN Management; Advanced Information Processing Techniques for  ... (AIPT)
+- LANC - International Latin American Networking Conference
+- langages applicatifs; Journées francophones des  ... (JFLA)
+- Langages et Modèles à Objets (LMO)
+- Language and Automata Theory and Applications (LATA)
+- Language and Information; European Summer School in Logic,  ... (ESSLLI)
+- Language and Technology Conference (LTC)
+- Language, Data, and Knowledge; International Conference on  ... (LDK)
+- Language Descriptions, Tools and Applications; Workshop on  ... (LDTA)
+- Language Design and Programming Methodology
+- Language Design for Reliable Software (LDRS)
+- Language Engineering Conference (LEC)
+- Language, Information and Computation; Pacific Asia Conference on  ... (PACLIC)
+- Language, Music, and Computing; International Workshop on  ... (LMAC)
+- Language Processing and Knowledge Management; Conference on  ... (LPKM)
+- Language Processing; Constraint Solving and  ... (CSLP)
+- Language Processing; Symposium on Machine Learning in Speech and  ... (MLSLP)
+- Language Recognition Workshop; Speaker and  ... (Odyssey)
+- Language Resources and Evaluation; International Conference on  ... (LREC)
+- Language Technology for Equality, Diversity and Inclusion; Workshop on  ... (LT-EDI)
+- Language Technology; International Workshop on Future and Emergent Trends in  ... (FETLT)
+- Languages and Compilers for Parallel Computing; International Workshop on  ... (LCPC)
+- Languages, and Organisations Federated Workshops; Multi-Agent Logics,  ... (MALLOW)
+- Languages, Applications and Technologies; Symposium on  ... (SLATE)
+- Languages, Compilers, and Run-Time Systems for Scalable Computers (LCR)
+- Languages, Compilers, and Tools for Embedded Systems; ACM SIGPLAN/SIGBED International Conference on  ... (LCTES)
+- Languages Design And Implementation; ACM SIGPLAN International Workshop on Types In  ... (TLDI)
+- Languages in Biology and Medicine; International Symposium on  ... (LBM)
+- Languages; International Conference on Coordination Models and  ... (COORDINATION)
+- Languages, Methodologies and Development Tools for Multi-Agent Systems (LADS)
+- Langues Naturelles & Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues; Traitement Automatique des  ... (TALN-RÉCITAL)
+- LANMAN - IEEE International Symposium on Local and Metropolitan Area Networks
+- LANMR - Latin American Workshop on Logic/Languages, Algorithms and New Methods of Reasoning
+- LANOMS - Latin American Network Operations and Management Symposium
+- LANSEC - Local Area Network Security
+- LAPTEC - Congress on Logic Applied to Technology
+- Larch; International Workshop on  ...
+- Large Data Analysis and Visualization; IEEE Symposium on  ... (LDAV)
+- Large Generative Models Meet Multimodal Applications; Workshop on  ... (LGM3A)
+- Large Installation System Administration of Windows NT Conference (LISA-NT)
+- Large Installation Systems Administration Conference; USENIX  ... (LISA)
+- Large Language Models; Workshop on Enterprise Knowledge Graphs using  ... (EKG-LLM)
+- Large-Data Visualization and Graphics; IEEE Symposium on Parallel and  ... (PVG)
+- Large-Scale Attack Defense; Workshop on  ... (LSAD)
+- Large-Scale Distributed Systems and Middleware; International Workshop on  ... (LADIS)
+- Large-Scale Environments; 3D Structure from Multiple Images of  ... (SMILE)
+- Large-scale Experiment-in-the-Loop Computing; Annual Workshop on  ... (XLOOP)
+- Large-Scale Exploits and Emergent Threats; USENIX Workshop on  ... (LEET)
+- Large-Scale Knowledge Resources (LKR)
+- Large-Scale Multi-Agent Systems; International Workshop on Software Engineering for  ... (SELMAS)
+- Large-Scale Science; Workshop on Workflows in Support of  ... (WORKS)
+- Large-Scale Scientific Computing (LSSC)
+- Large-Scale Systems; Workshop on Latest Advances in Scalable Algorithms for  ... (ScalA)
+- LARS - Latin American Robotics Symposium
+- LASCAS - Latin American Symposium on Circuits and Systems
+- LASD - International Conference on Lean and Agile Software Development
+- LASER - Workshop on Learning from Authoritative Security Experiment Results
+- LASER Summer School (LASER)
+- LASI Spain - Learning Analytics Summer Institute Spain
+- LATA - Language and Automata Theory and Applications
+- LaTeCH - Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
+- Latent Variable Analysis and Signal Separation (LVA/ICA)
+- Latest trends in Electrical Engineering and Computing Technologies; International Conferences on  ... (INTELLEC)
+- LaTiCE - Learning and Teaching in Computing and Engineering
+- LATIN - Latin American Symposium on Theoretical Informatics
+- Latin America; International Conference on Cryptology and Information Security in  ... (LATINCRYPT)
+- Latin American Computing Conference (CLEI)
+- Latin American Conference on Cloud Computing and Communications (LatinCloud)
+- Latin American Conference on Computational Intelligence (LA-CCI)
+- Latin American Conference on High Performance Computing (CARLA)
+- Latin American Conference on Human Computer Interaction (CLIHC)
+- Latin American Conference on Learning Analytics (LALA)
+- Latin American Conference on Pattern Languages of Programs (SugarLoafPLoP)
+- Latin American Network Operations and Management Symposium (LANOMS)
+- Latin American Robotics Symposium (LARS)
+- Latin American Symposium on Circuits and Systems (LASCAS)
+- Latin American Symposium on Theoretical Informatics (LATIN)
+- Latin American Test Symposium (LATS)
+- Latin American Web Congress (LA-WEB)
+- Latin American Women in Computing; Congress of  ... (LAWCC)
+- Latin American Workshop on Logic/Languages, Algorithms and New Methods of Reasoning (LANMR)
+- Latin-American Algorithms, Graphs and Optimization Symposium (LAGOS)
+- Latin-American Conference on Communications; IEEE  ... (LATINCOM)
+- Latin-American Symposium on Dependable Computing (LADC)
+</details>
+
+
+<details>
+<summary>M</summary>
+
+- M&N - IEEE International Symposium on Measurement and Networking
+- M-CAIT - International Multi-Conference on Artificial Intelligence Technology
+- M-MAPC - International Workshop on Middleware for Pervasive Mobile and Embedded Computing
+- M-Services
+- M2P - International Workshop Modelling to Program
+- M2VIP - International Conference on Mechatronics and Machine Vision in Practice
+- M3E2 - International Conference on Monitoring, Modeling & Management of Emergent Economy
+- M3W - International Workshop on Multimedia Middleware
+- M4M - Workshop on Methods for Modalities
+- MA - International Symposium on Mobile Agents
+- MAAMAW - Modelling Autonomous Agents in a Multi-Agent World
+- MAB - Media Architecture Biennale
+- MABS - International Workshop on Multi-Agent Systems and Agent-Based Simulation
+- MACE - Modelling Autonomic Communications Environments
+- MACH - USENIX MACH Symposium
+- MACH Symposium; USENIX  ... (MACH)
+- Machine Intelligence
+- Machine Intelligence and Digital Interaction Conference (MIDI)
+- Machine Intelligence and Emerging Technologies; International Conference on  ... (MIET)
+- Machine Intelligence; Indo-Japan Conference on Perception and  ... (PerMIn)
+- Machine Intelligence; International Conference on Machine Learning and  ... (MLMI)
+- Machine Intelligence; Pattern Recognition and  ... (PReMI)
+- Machine Learning and Applications; International Conference on  ... (ICMLA)
+- Machine Learning and Big Data Analytics for IoT Security and Privacy; International Conference on  ... (SPIoT)
+- Machine Learning and Computer Application; International Conference on  ... (ICMLCA)
+- Machine Learning and Computing; International Conference on  ... (ICMLC)
+- Machine Learning and Cybernetics; International Conference on  ... (ICMLC)
+- Machine Learning and Data Mining for Sports Analytics; International Workshop on  ... (MLSA)
+- Machine Learning and Data Mining in Pattern Recognition; International Conference on  ... (MLDM)
+- Machine Learning and Intelligent Communications; International Conference on  ... (MLICOM)
+- Machine Learning and Intelligent Systems; International Conference on  ... (MLIS)
+- Machine Learning and Knowledge Discovery in Databases; European Conference on  ... (PKDD)
+- Machine Learning and Knowledge Extraction; International Cross-Domain Conference on  ... (CD-MAKE)
+- Machine Learning and Machine Intelligence; International Conference on  ... (MLMI)
+- Machine Learning and Natural Language Processing; International Conference on  ... (MLNLP)
+- Machine Learning and Soft Computing; International Conference on  ... (ICMLSC)
+- Machine Learning and Systems; Conference on  ... (MLSys)
+- Machine Learning and Systems; Workshop on  ... (EuroMLSys)
+- Machine Learning; Asian Conference on  ... (ACML)
+- Machine Learning Challenges Workshop (MLCW)
+- Machine Learning; European Conference on  ... (ECML)
+- Machine Learning for CAD; Workshop on  ... (MLCAD)
+- Machine Learning for Cyber Physical Systems; International Conference on  ... (ML4CPS)
+- Machine Learning for Cyber Security; International Conference on  ... (ML4CS)
+- Machine Learning for Health Workshop (ML4H)
+- Machine Learning for Multimodal Healthcare Data (ML4MHD)
+- Machine Learning for Multimodal Interaction (MLMI)
+- Machine Learning for Networking; International Conference on  ... (MLN)
+- Machine Learning for Scientific Imaging
+- Machine Learning for Signal Processing; International Workshop on  ... (MLSP)
+- Machine Learning for Trend and Weak Signal Detection in Social Networks and Social Media (TWSDetection)
+- Machine Learning, Image Processing, Network Security and Data Sciences; International Conference on  ... (MIND)
+- Machine Learning in Computational Biology Meeting (MLCB)
+- Machine Learning in Health Care (MLHC)
+- Machine Learning in High Performance Computing Environments; Workshop on  ... (MLHPC)
+- Machine Learning in Medical Imaging; International Workshop on  ... (MLMI)
+- Machine Learning in Speech and Language Processing; Symposium on  ... (MLSLP)
+- Machine Learning in Systems Biology; International Workshop on  ... (MLSB)
+- Machine Learning; International Conference on  ... (ICML)
+- Machine Learning; International Conference on Artificial Neural Networks and  ... (ICANN)
+- Machine Learning; International Conference on Internet of Things and  ... (IML)
+- Machine Learning; International Conference on Signal Processing and  ... (SPML)
+- Machine Learning Methods in Visualisation for Big Data; Workshop on  ... (MLVis)
+- Machine Learning; Models, Technologies and Applications; International Conference on  ... (MLMTA)
+- Machine Learning, Optimization, and Data Science; International Conference on  ... (LOD)
+- Machine Learning Summer School
+- Machine Learning Techniques for Software Quality Evaluation; IEEE Workshop on  ... (MaLTeSQuE)
+- Machine Learning Technologies; International Conference on  ... (ICMLT)
+- Machine Perception; International Workshop on Computer Architectures for  ... (CAMP)
+- Machine Programming; ACM SIGPLAN International Symposium on  ... (MAPS)
+- Machine Reading for Question Answering; Workshop on  ... (MRQA)
+- Machine Translation; China Conference on  ... (CCMT)
+- Machine Translation; China Workshop on  ... (CWMT)
+- Machine Translation; Conference on  ... (WMT)
+- Machine Translation; European Association for  ... (EAMT)
+- Machine Translation in the Americas; Conference of the Association for  ... (AMTA)
+- Machine Translation of Natural Languages; Conference on Theoretical and Methodological Issues in  ... (TMI)
+- Machine Translation Summit (MTSummit)
+- Machine Translation; Workshop on Discourse in  ... (DiscoMT)
+- Machine Vision and Applications; International Conference on  ... (ICMVA)
+- Machine Vision and Human-machine Interface; International Conference on  ... (MVHI)
+- Machine Vision and Image Processing Conference; Irish  ... (IMVIP)
+- Machine Vision Applications; IAPR International Workshop on  ... (MVA)
+- Machine Vision Conference; British  ... (BMVC)
+- Machine Vision in Practice; International Conference on Mechatronics and  ... (M2VIP)
+- Machine Vision; International Conference on  ... (ICMV)
+- Machines, Computations, and Universality (MCU)
+- MACIS - International Conference on Mathematical Aspects of Computer and Information Sciences
+- MACOM - Multiple Access Communications
+- MACRo - International Conference on Recent Achievements in Mechatronics, Automation, Computer Sciences and Robotics
+- Macro-Biology; International Conference on Formal Methods in  ... (FMMB)
+- Macro-Modeling; International Workshop on Data Science for  ... (DSMM)
+- MACS - Workshop on Modeling and Analysis of Concerns in Software
+- MADiMa - International Workshop on Multimedia Assisted Dietary Management
+- MADNES - Secure Mobile Ad-hoc Networks and Sensors
+- MAI - Workshop on Middleware-Application Interaction
+- MAICS - Modern Artificial Intelligence and Cognitive Science Conference
+- Maintenance and Evolution of Service-Oriented and Cloud-Based Systems; International Workshop/Symposium on the  ... (MESOCA)
+- Majorov International Conference on Software Engineering and Computer Systems (MICSECS)
+- Malicious and Unwanted Software; International Conference on  ... (MALWARE)
+</details>
+
+
+<details>
+<summary>N</summary>
+
+- NAA - Numerical Analysis and Its Applications
+- NAACL - North American Chapter of the Association for Computational Linguistics
+- NaBIC - World Congress on Nature and Biologically Inspired Computing
+- NADA - New Hardware Design Methods
+- NAFIPS - Annual Conference on the North American Fuzzy Information Processing Society
+- Nagoya-University World Wisepersons Workshops (Nagoya)
+- NAIS - Symposium of the Norwegian AI Society
+- Named Entity Workshop (NEWS)
+- NaNA - International Conference on Networking and Network Applications
+- Nano, and Micro Technologies; International Conference on Quantum,  ... (ICQNM)
+- NANO, and Smart Systems; International Conference on MEMS,  ... (ICMENS)
+- Nano/Micro Engineered and Molecular Systems; IEEE International Conference on  ... (NEMS)
+- Nano-Networks; International ICST Conference on  ...
+- NANOARCH - IEEE/ACM International Symposium on Nanoscale Architectures
+- NANOCOM - Annual International Conference on Nanoscale Computing and Communication
+- Nanoscale Architectures; IEEE/ACM International Symposium on  ... (NANOARCH)
+- Nanoscale Computing and Communication; Annual International Conference on  ... (NANOCOM)
+- Nanotechnology Systems; IEEE International Symposium on Defect and Fault Tolerance in VLSI and  ... (DFT)
+- NAOMI - Workshop on Next Generation Aspect Oriented Middleware
+- NAPAW - North American Process Algebra Workshop
+- Narrative; Workshop on Computational Models of  ... (CMN)
+- NarSUM - Workshop on User-centric Narrative Summarization of Long Videos
+- NAS - IEEE International Conference on Networking, Architecture and Storages
+- NASA/ESA Conference on Adaptive Hardware and Systems (AHS)
+- NASA Formal Methods (NFM)
+- National Conference on Communications (NCC)
+- National Conference on Computer Vision, Pattern Recognition, Image Processing, and Graphics (NCVPRIPG)
+- National Conference on Social Media Processing (SMP)
+- National Conference on Theoretical Computer Science (NCTCS)
+- National Cyber Summit (NCS)
+- National Study Day on Research on Computer Sciences (JERI)
+- NATO Advanced Research Workshop on Advanced Environments, Tools, and Applications for Cluster Computing (IWCC)
+- Natural and Artificial Computation; International Work-Conference on the Interplay Between  ... (IWINAC)
+- Natural Computation, Fuzzy Systems and Knowledge Discovery; International Conference on  ... (ICNC-FSKD)
+- Natural Computation; International Conference on Unconventional Computation and  ... (UCNC)
+- Natural Computing; International Conference on Theory and Practice of  ... (TPNC)
+- Natural Computing; International Workshop on  ... (IWNC)
+- Natural Language and Speech Processing; International Conference on  ... (ICNLSP)
+- Natural Language and Speech Tools for Italian; International Workshop on Evaluation of  ... (EVALITA)
+- Natural Language for Artificial Intelligence; Workshop on  ... (NL4AI)
+- Natural Language Generation; European Workshop on  ... (ENLG)
+- Natural Language Generation; European Workshop on  ... (EWNLG)
+- Natural Language Generation; International Conference on  ... (INLG)
+- Natural Language Generation; International Workshop on  ... (NLG)
+- Natural Language Generation; Workshop on Computational Creativity in  ... (CC-NLG)
+- Natural Language Interfaces for Web of Data; International Workshop on  ... (NLIWoD)
+- Natural Language Processing and Chinese Computing (NLPCC)
+- Natural Language Processing and Cognitive Science; International Workshop on  ... (NLPCS)
+- Natural Language Processing and Knowledge Engineering; International Conference on  ... (NLPKE)
+- Natural Language Processing; Annual Conference of the Spanish Society for  ... (SEPLN)
+- Natural Language Processing; Conference on  ... (KONVENS)
+- Natural Language Processing; Finite-State Methods and  ... (FSMNLP)
+- Natural Language Processing for Digital Libraries; Joint Workshop on Bibliometric-enhanced Information Retrieval and  ... (BIRNDL)
+- Natural Language Processing for Social Media; International Workshop on  ... (SocialNLP)
+- Natural Language Processing; International Conference on  ... (ICON)
+- Natural Language Processing; International Conference on  ... (NLP)
+- Natural Language Processing; International Conference on  ... (PolTAL)
+- Natural Language Processing; International Joint Conference on  ... (IJCNLP)
+- Natural Language Processing Pacific Rim Symposium (NLPRS)
+- Natural Language Processing; Recent Advances in  ... (RANLP)
+- Natural Language Processing Techniques for Educational Applications; Workshop on  ... (NLP-TEA)
+- Natural Language Processing; Theoretical Issues In  ... (TINLAP)
+- Natural Language Processing Workshop; Clinical  ... (ClinicalNLP)
+- Natural Language Processing; Workshop on Deep Learning Approaches for Low-Resource  ... (DeepLo)
+- Natural Language Processing; Workshop on Digital Humanities and  ... (DHandNLP)
+- Natural Language Processing; Workshop on Frontiers and Connections between Argumentation Theory and  ... (ArgNLP)
+- Natural Language Processing; Workshop on Graph-based Methods for  ... (TextGraphs)
+- Natural Language Semantics; Logic and Engineering of  ... (LENLS)
+- Natural Language to Data Bases; International Conference on Applications of  ... (NLDB)
+- Natural Language Understanding and Logic Programming Workshop (NLULP)
+- Natural Language-Based Software Engineering; International Workshop on  ... (NLBSE)
+- Natural Legal Language Processing (NLLP)
+- Natural Phenomena; Eurographics Workshop on  ... (NPH)
+- Nature and Biologically Inspired Computing; World Congress on  ... (NaBIC)
+- Nature Inspired Cooperative Strategies for Optimization (NICSO)
+- Nature of Computation and Communication; International Conference on  ... (ICTCC)
+- NATW - IEEE North Atlantic Test Workshop
+- Navigation Conference; European  ... (ENC)
+- NBiS - International Conference on Network-Based Information Systems
+- NC - ICSC Symposium on Neural Computation
+- NCA - IEEE International Symposium on Network Computing and Applications
+- NCAA - International Conference on Neural Computing for Advanced Applications
+- NCC - National Conference on Communications
+- NCCA - Symposium on Network/Cloud Computing and Applications
+- NCCET - CCF National Conference on Computer Engineering and Technology
+- NCDHWS - Nordic Conference on Digital Health and Wireless Solutions
+- NCI - IASTED International Conference on Neural Networks and Computational Intelligence
+- NCL - Non-Classical Logics
+- NCM - International Conference on Networked Computing and Advanced Information Management
+- NCMA - Workshop on Non-Classical Models for Automata and Applications
+- NCPW - Neural Computation and Psychology Workshop
+- NCS - National Cyber Summit
+- NCS - Neuromorphic Computing Symposium
+- NCTCS - National Conference on Theoretical Computer Science
+- NCVPRIPG - National Conference on Computer Vision, Pattern Recognition, Image Processing, and Graphics
+- NDA - International Workshop on Network Data Analytics
+- NDDL - New Developments in Digital Libraries
+- nDS - International Workshop on Multidimensional (nD) Systems
+- NDSS - Network and Distributed System Security Symposium
+- NDT - Networked Digital Technologies
+</details>
+
+
+<details>
+<summary>O</summary>
+
+- O-COCOSDA - Oriental COCOSDA International Conference on Speech Database and Assessments
+- OAIR - Open research Areas in Information Retrieval
+- OAS - Workshop on Ontologies in Agent Systems
+- OASC - Open Algorithm Selection Challenge
+- OASIS - International Workshop on Open Challenges in Online Social Networks
+- Oberwolfach Events (MFO)
+- Object Orientation in Databases and Software Engineering; Colloquium on  ... (COODBSE)
+- Object Oriented Information Systems; International Conference on  ... (OOIS)
+- Object Technologies for Advanced Software; International Symposium on  ... (ISOTAS)
+- Object-Based Parallel and Distributed Computation (OBPDC)
+- Object-Oriented Databases; International Conference on Deductive and  ... (DOOD)
+- Object-Oriented Methodologies and Systems; International Symposium on  ... (ISOOMS)
+- Object-Oriented Modeling of Embedded Real-Time Systems (OMER)
+- Object-Oriented Programming; European Conference on  ... (ECOOP)
+- Object-Oriented Programming Systems, Languages, and Applications; ACM SIGPLAN International Conference on  ... (OOPSLA)
+- Object-Oriented Real-Time Dependable Systems; IEEE International Workshop on  ... (WORDS)
+- Object-Oriented Software; Formal Verification of  ... (FoVeOOS)
+- Object-Oriented Technologies and Systems; USENIX Conference on  ... (COOTS)
+- Object-Role Modelling (ORM)
+- Objective Software Quality
+- Objects and Databases; International Conference on  ... (ICOODB)
+- Objects and Databases; International Symposium on  ... (SODB)
+- Objects Represented in Images; Computational Modeling of  ... (CompIMAGE)
+- Objektbanken für Experten
+- OBPDC - Object-Based Parallel and Distributed Computation
+- Observability of Cloud Systems; Workshop on High Availability and  ... (HAOC)
+- OC - Workshop on Organic Computing
+- OCIT - OITS International Conference on Information Technology
+- OCL - International Workshop on OCL and Textual Modelling
+- OCL and Textual Modelling; International Workshop on  ... (OCL)
+- OCTA - Multi-Conference on Organization of Knowledge and Advanced Technologies
+- ODBIS - Workshop on Ontology-based Techniques for DataBases in Information Systems and Knowledge Systems
+- ODLS - Workshop on Ontologies and Data in Life Sciences
+- ODR - International Workshop on Online Dispute Resolution
+- ODRL - Open Digital Rights Language
+- Odyssey - Speaker and Language Recognition Workshop
+- ÖFAI - Austrian Research Institute for Artificial Intelligence
+- OFC - Optical Fiber Communications Conference and Exhibition
+- offensive and defensive techniques in the context of Man At The End (MATE) attacks; Workshop on Research on  ... (Checkmate)
+- Offensive Technologies; Workshop on  ... (WOOT)
+- öffentliche Verwaltung; GI-Fachtagung Recht und  ...
+- ÖGAI - Austrian Conference on Artificial Intelligence
+- OGRS - Open Source Geospatial Research & Education Symposium
+- OHS - International Workshop on Open Hypertext Systems
+- OIC - International Ontology for the Intelligence Community
+- OITS International Conference on Information Technology (OCIT)
+- OKCon - Open Knowledge Conference
+- OL2A - International Conference on Optimization, Learning Algorithms and Applications
+- OLA - International Conferences on Optimization and Learning
+- Olfaction and Electronic Nose; International Symposium on  ... (ISOEN)
+- OM - International Workshop on Ontology Matching
+- OM - Organizational Memories
+- OMER - Object-Oriented Modeling of Embedded Real-Time Systems
+- OMNeT++ Community Summit (OMNeT++)
+- Omni-Layer Intelligent Systems; International Conference on  ... (COINS)
+- On-Chip, Multi-Chip; International Workshop on Interconnection Network Architectures:  ... (INA-OCMC)
+- On-Line Testing and Robust System Design; IEEE International Symposium on  ... (IOLTS)
+- ONDM - International Conference on Optical Network Design and Modelling
+- Online Abuse and Harms; Workshop on  ... (WOAH)
+- Online Databases in History; Doctoral Symposium on Research on  ... (RODBH)
+- Online Dispute Resolution; International Workshop on  ... (ODR)
+- Online Environments; International Conference on Data and Information in  ... (DIONE)
+- Online Recommender Systems and User Modeling; Workshop on  ... (ORSUM)
+- Online Social Networks; Conference on  ... (COSN)
+- Online Social Networks; International Workshop on Open Challenges in  ... (OASIS)
+- Online Social Networks; Workshop on  ... (WOSN)
+- Online Training; International Conference on E-Learning, E-Education, and  ... (eLEOT)
+- Online World Conference on Soft Computing in Industrial Applications (WSC)
+- Online-Systeme im Finanz- und Rechnungswesen
+- OnlineGreenComm - IEEE Online Conference on Green Communications
+- ONS - Open Networking Summit
+- OnTheMove Federated Conferences & Workshops (OTM)
+- Onto4FAIR - Workshop on Ontologies for FAIR and FAIR Ontologies
+- ONTOBRAS-MOST - Joint Seminar on Ontology Research in Brazil / International Workshop on Metamodels, Ontologies and Semantic Technologies
+- Ontologie-basiertes Wissensmanagement (WOW)
+- Ontologies and Data in Life Sciences; Workshop on  ... (ODLS)
+- Ontologies and their Applications; Workshop on  ... (WONTO)
+- Ontologies for Autonomous Robotics; Workshop on  ... (RobOntics)
+- Ontologies in Agent Systems; Workshop on  ... (OAS)
+- Ontology Design and Patterns; Workshop on  ... (WOP)
+- Ontology for the Intelligence Community; International  ... (OIC)
+- Ontology Matching; International Workshop on  ... (OM)
+- Ontology Research in Brazil / International Workshop on Metamodels, Ontologies and Semantic Technologies; Joint Seminar on  ... (ONTOBRAS-MOST)
+- Ontology Workshop; International Planning and  ... (PLATO)
+- Ontology-based Techniques for DataBases in Information Systems and Knowledge Systems; Workshop on  ... (ODBIS)
+- Ontology-based Tools; Workshop on Evaluation of  ... (EON)
+- Onward! - ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software
+- OO-Graphics - Eurographics Workshop on Programming Paradigms in Graphics
+- OOIS - International Conference on Object Oriented Information Systems
+- OOPSLA - ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications
+- OOPSLA Workshop on Reflection and Software Engineering (OORaSE)
+- OOPWORK - SIGPLAN Workshop on Object-Oriented Programming
+- OORaSE - OOPSLA Workshop on Reflection and Software Engineering
+- OPAALS - Open Philosophies for Associative Autopoietic Digital Ecosystems
+- Open Algorithm Selection Challenge (OASC)
+- Open Challenges in Online Social Networks; International Workshop on  ... (OASIS)
+- Open Collaboration; International Symposium on  ... (OpenSym)
+- Open Data; International Workshop on  ... (WOD)
+- Open Digital Rights Language (ODRL)
+- Open Distribute Processing: Enterprise, Computation, Knowledge, Engineering and Realisation (WOODPECKER)
+</details>
+
+
+<details>
+<summary>P</summary>
+
+- P2DS - Workshop on Privacy by Design in Distributed Systems
+- P2P, Parallel, Grid, Cloud and Internet Computing; International Conference on  ... (3PGCIC)
+- P2P Systems; International Conference on Advances in  ... (AP2PS)
+- P2PECON - Workshop on Economics of Peer-to-Peer Systems
+- P2PIR - International Workshop on Information Retrieval in Peer-to-Peer Networks
+- P2PKM - Peer-to-Peer Knowledge Management
+- P3HPC - International Workshop on Performance, Portability and Productivity in HPC
+- PAAM - International Conference and Exhibition on the Practical Application of Intelligent Agents and Multi-Agent Technology
+- PAAMS - International Conference on Practical Applications of Agents and Multi-Agent Systems
+- PAAP - International Symposium on Parallel Architectures, Algorithms and Programming
+- PAAR - Workshop on Practical Aspects of Automated Reasoning
+- PAC - IEEE Symposium on Privacy-Aware Computing
+- PACBB - Practical Applications of Computational Biology & Bioinformatics
+- PACCS - Pacific-Asia Conference on Circuits, Communications and Systems
+- Pacific Asia Conference on Information Systems (PACIS)
+- Pacific Asia Conference on Language, Information and Computation (PACLIC)
+- Pacific Asia Workshop on Intelligence and Security Informatics (PAISI)
+- Pacific Association for Computational Linguistics; International Conference of the  ... (PACLING)
+- Pacific Conference on Computer Graphics and Applications (PG)
+- Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM)
+- Pacific Rim Conference on Multimedia (PCM)
+- Pacific Rim International Conference on Artificial Intelligence (PRICAI)
+- Pacific Rim International Symposium on Dependable Computing (PRDC)
+- Pacific Rim Knowledge Acquisition Workshop (PKAW)
+- Pacific Symposium on Biocomputing (PSB)
+- Pacific Visualization Symposium; IEEE  ... (PacificVis)
+- Pacific-Asia Conference on Circuits, Communications and Systems (PACCS)
+- Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
+- Pacific-Rim Symposium on Image and Video Technology (PSIVT)
+- PacificVis - IEEE Pacific Visualization Symposium
+- PACIIA - IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial Application
+- PACIS - Pacific Asia Conference on Information Systems
+- Packet Video Workshop; International  ... (PV)
+- PACLIC - Pacific Asia Conference on Language, Information and Computation
+- PACLING - International Conference of the Pacific Association for Computational Linguistics
+- PACPL - International Conference on the Practical Application of Constraint Technologies and Logic Programming
+- PACRIM - Pacific Rim Conference on Communications, Computers and Signal Processing
+- PACS - Power-Aware Computer Systems
+- PACT - International Conference on Parallel Architectures and Compilation Techniques
+- PACT - International Conference on the Practical Application of Constraint Technology
+- PaCT - Parallel Computing Technologies
+- Paderborner Frühjahrstagung (PBFT)
+- PADL - International Symposium on Practical Aspects of Declarative Languages
+- PADO - Symposium on Programs as Data Objects
+- PAHI - European Workshop on Practical Aspects of Health Informatics
+- PAINT - International Workshop on Programming Abstractions and Interactive Notations, Tools, and Environments
+- PaIR - Workshop on Patent Information Retrieval
+- Pairing-Based Cryptography (Pairing)
+- PAIS - International Conference on Pattern Analysis and Intelligent Systems
+- PAIS - International Workshop on Privacy and Anonymity in Information Society
+- PAISI - Pacific Asia Workshop on Intelligence and Security Informatics
+- PAKDD - Pacific-Asia Conference on Knowledge Discovery and Data Mining
+- PAKM - Practical Aspects of Knowledge Management
+- PAM - International Conference on Passive and Active Measurement
+- Pan African Conference on Artificial Intelligence (PanAfriCon AI)
+- Pan-Sydney Area Workshop on Visual Information Processing (VIP)
+- PanAfriCon AI - Pan African Conference on Artificial Intelligence
+- Panhellenic Conference on Informatics (PCI)
+- PAP - International Conference and Exhibition on Practical Applications of Prolog
+- PaPEC - Workshop on the Principles and Practice of Eventual Consistency
+- PAPIs - International Conference on Predictive Applications and APIs
+- PAPM-PROBMIV - Process Algebra and Probabilistic Methods, Performance Modeling and Verification
+- PaPoC - Workshop on Principles and Practice of Consistency for Distributed Data
+- PARA - International Conference on Applied Parallel and Scientific Computing
+- Paraconsistent Computational Logic (PCL)
+- Parallel Algorithms and Architectures
+- Parallel Algorithms for Irregularly Structured Problems; Workshop on  ... (IRREGULAR)
+- Parallel and Distributed Computing; Advances / Applications in  ... (APDC)
+- Parallel and Distributed Computing and Communications Systems (PDCCS)
+- Parallel and Distributed Computing and Networks (PDCN)
+- Parallel and Distributed Computing and Systems (PDPCS)
+- Parallel and Distributed Computing: Applications and Technologies; International Conference on  ... (PDCAT)
+- Parallel and Distributed Computing; Canada-France Conference on  ... (CFCP)
+- Parallel and Distributed Computing; International Symposium on  ... (ISPDC)
+- Parallel and Distributed Debugging; Workshop on  ...
+- Parallel and Distributed Information Systems; International Conference on  ... (PDIS)
+- Parallel and Distributed Model Checking; International Workshop on  ... (PDMC)
+- Parallel and Distributed Processing; IEEE Symposium on  ... (SPDP)
+- Parallel and Distributed Processing Symposium; IEEE International  ... (IPDPS)
+- Parallel and Distributed Processing Techniques and Applications; International Conference on  ... (PDPTA)
+- Parallel and Distributed Systems (Euro-PDS)
+- Parallel and Distributed Systems; International Conference on  ... (ICPADS)
+- Parallel and Distributed Systems ; International Symposium on Databases in  ... (DPDS)
+- Parallel and Distributed Systems; International Symposium on Software Engineering for  ... (PDSE)
+- Parallel and Distributed Tools; Symposium on  ... (SPDT)
+- Parallel and Large-Data Visualization and Graphics; IEEE Symposium on  ... (PVG)
+- Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)
+- Parallel Architectures, Algorithms and Networks; International Symposium on  ... (I-SPAN)
+- Parallel Architectures, Algorithms and Programming; International Symposium on  ... (PAAP)
+- Parallel Architectures and Compilation Techniques; International Conference on  ... (PACT)
+- Parallel Architectures and Languages Europe (PARLE)
+- Parallel CFD - Conference on Parallel Computational Fluid Dynamics
+- Parallel Computational Fluid Dynamics; Conference on  ... (Parallel CFD)
+- Parallel Computer Routing and Communication (PCRCW)
+- Parallel Computing in Electrical Engineering; International Conference on  ... (PARELEC)
+- Parallel Computing; International Conference on  ... (PARCO)
+- Parallel Computing; Programming Environments for  ... (PEPC)
+- Parallel Computing Technologies (PaCT)
+- Parallel Data Systems Workshop; International  ... (PDSW)
+- Parallel, Distributed and Network-Based Processing; International Euromicro Conference on  ... (PDP)
+</details>
+
+
+<details>
+<summary>Q</summary>
+
+- Q-DATA - Workshop on Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications
+- Q-SE - Workshop on Quantum Software Engineering
+- QAPL - Workshop on Quantitative Aspects of Programming Languages and Systems
+- QCAV - International Conference on Quality Control by Artificial Vision
+- QCE - International Conference on Quantum Computing and Engineering
+- QCQC - Quantum Computing and Quantum Communications
+- QDB - International Workshop on Quality in Databases
+- QEST - International Conference on Quantitative Evaluation of Systems
+- QI - Quantum Interaction
+- QLSC - Quantitative Logic and Soft Computing
+- QMPD - Workshop on Quantitative Models for Performance and Dependability
+- QofIS - Quality of Future Internet Services
+- QoMEX - International Conference on Quality of Multimedia Experience
+- QoS-IP - Quality of Service in Multiservice IP Networks
+- QoSA - International ACM SIGSOFT Conference on Quality of Software Architectures
+- QP4SE - International Workshop on Quantum Programming for Software Engineering
+- QPL - International Conference on Quantum Physics and Logic
+- QRS - International Conference on Software Quality, Reliability and Security
+- QSHINE - EAI International Conference on Quality, Reliability, Security and Robustness in Heterogeneous Systems
+- QSIC - International Conference on Quality Software
+- QSQW - Quantum Simulation and Quantum Walks
+- QSW - International Conference on Quantum Software
+- QTNA - International Conference on Queueing Theory and Network Applications
+- QuaCon - Quality of Context
+- Quality Control by Artificial Vision; International Conference on  ... (QCAV)
+- Quality Electronic Design; IEEE International Symposium on  ... (ISQED)
+- Quality in Databases; International Workshop on  ... (QDB)
+- Quality of Context (QuaCon)
+- Quality of Future Internet Services (QofIS)
+- Quality of Information and Communications Technology (QUATIC)
+- Quality of Multimedia Experience; International Conference on  ... (QoMEX)
+- Quality of Numerical Software
+- Quality of Service; IEEE/ACM International Workshop on  ... (IWQoS)
+- Quality of Service in Multiservice IP Networks (QoS-IP)
+- Quality of Service in the Internet; Architectures for  ... (Art-QoS)
+- Quality of Service-Oriented Software Systems; International Workshop on the  ... (QUASOSS)
+- Quality of Software Architectures; International ACM SIGSOFT Conference on  ... (QoSA)
+- Quality, Reliability, Security and Robustness in Heterogeneous Systems; EAI International Conference on  ... (QSHINE)
+- Quality Software; International Conference on  ... (QSIC)
+- QUANSWER - International Workshop on the QuANtum SoftWare Engineering & pRogramming
+- Quantitative Aspects of Programming Languages and Systems; Workshop on  ... (QAPL)
+- Quantitative Ethnography; International Conference on  ... (ICQE)
+- Quantitative Evaluation of Systems; International Conference on  ... (QEST)
+- Quantitative Logic and Soft Computing (QLSC)
+- Quantitative Management; International Conference on Information Technology and  ... (ITQM)
+- Quantitative Models for Performance and Dependability; Workshop on  ... (QMPD)
+- Quantum Communication and Quantum Networking (QuantumComm)
+- Quantum Communications; Quantum Computing and  ... (QCQC)
+- Quantum Computation, Communication, and Cryptography; Theory of  ... (TQC)
+- Quantum Computing and Engineering; International Conference on  ... (QCE)
+- Quantum Computing and Quantum Communications (QCQC)
+- Quantum Computing and Quantum-Inspired Technology for Data-Intensive Systems and Applications; Workshop on  ... (Q-DATA)
+- Quantum Interaction (QI)
+- Quantum, Nano, and Micro Technologies; International Conference on  ... (ICQNM)
+- Quantum Networking; Quantum Communication and  ... (QuantumComm)
+- Quantum Physics and Logic; International Conference on  ... (QPL)
+- Quantum Simulation and Quantum Walks (QSQW)
+- QuANtum SoftWare Engineering & pRogramming; International Workshop on the  ... (QUANSWER)
+- Quantum Software Engineering; Workshop on  ... (Q-SE)
+- Quantum Software; International Conference on  ... (QSW)
+- QuantumComm - Quantum Communication and Quantum Networking
+- QuaRAP - International Workshop on Quality Requirements in Agile Projects
+- QUASOSS - International Workshop on the Quality of Service-Oriented Software Systems
+- QUATIC - Quality of Information and Communications Technology
+- Question Answering; New Directions in  ...
+- Question Answering; Workshop on Machine Reading for  ... (MRQA)
+- Queueing Theory and Network Applications; International Conference on  ... (QTNA)
+- QUIC; Workshop on Evolution, Performance and Interoperability of  ... (EPIQ)
+- Qurator - Conference on Digital Curation Technologies
+- QuWeDa - Workshop on Storing, Querying and Benchmarking Knowledge Graphs
+- R3 in Geomatics; International Workshop on  ... (R3GEO)
+- R3GEO - International Workshop on R3 in Geomatics
+- RA - Robotics and Applications
+- RAAD - International Conference on Robotics in Alpe-Adria-Danube Region
+- RAAI Summer School
+- RACS - Research in Adaptive and Convergent Systems
+- Radar and Remote Sensing; Tyrrhenian Workshop on Advances in  ... (TyWRRS)
+- Radiation Effects and Fault Tolerance in Nanometer Technologies; Workshop on  ... (WREFT)
+- Radical Agent Concepts; Workshop on  ... (WRAC)
+- Radical Innovations of Software and Systems Engineering in the Future (RISSEF)
+- Radio and Wireless Symposium; IEEE  ... (RWS)
+- Radio Communications; IEEE International Symposium on Personal, Indoor and Mobile  ... (PIMRC)
+- RADIOELEKTRONIKA - International Conference Radioelektronika
+- Radioelektronika ; International Conference  ... (RADIOELEKTRONIKA)
+- RAID - International Symposium on Recent Advances in Intrusion Detection
+- RAIL - Workshop on Resources for African Indigenous Languages
+- RAISE - International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering
+- RAIT - International Conference on Recent Advances in Information Technology
+- RAM - IEEE Conference on Robotics, Automation and Mechatronics
+- RAMiCS - International Conference on Relational and Algebraic Methods in Computer Science
+- RANDOM - International Workshop Randomization and Approximation Techniques in Computer Science
+- Random and Exhaustive Generation of Combinatorial Structures; International Conference on  ... (GASCom)
+- Random Walks; Discrete  ... (DRW)
+- Randomization and Approximation Techniques in Computer Science; International Workshop  ... (RANDOM)
+- Randomization, and Combinatorial Optimization. Algorithms and Techniques; International Workshop on Approximation,  ... (APPROX)
+- RANLP - Recent Advances in Natural Language Processing
+- Rapid Continuous Software Engineering; International Workshop on  ... (RCoSE)
+- Rapid Integration of Software Engineering Techniques (RISE)
+- Rapid Malcode; ACM Workshop on  ... (WORM)
+- Rapid Mashup Challenge; International  ... (RMC)
+</details>
+
+
+<details>
+<summary>R</summary>
+
+- R3 in Geomatics; International Workshop on  ... (R3GEO)
+- R3GEO - International Workshop on R3 in Geomatics
+- RA - Robotics and Applications
+- RAAD - International Conference on Robotics in Alpe-Adria-Danube Region
+- RAAI Summer School
+- RACS - Research in Adaptive and Convergent Systems
+- Radar and Remote Sensing; Tyrrhenian Workshop on Advances in  ... (TyWRRS)
+- Radiation Effects and Fault Tolerance in Nanometer Technologies; Workshop on  ... (WREFT)
+- Radical Agent Concepts; Workshop on  ... (WRAC)
+- Radical Innovations of Software and Systems Engineering in the Future (RISSEF)
+- Radio and Wireless Symposium; IEEE  ... (RWS)
+- Radio Communications; IEEE International Symposium on Personal, Indoor and Mobile  ... (PIMRC)
+- RADIOELEKTRONIKA - International Conference Radioelektronika
+- Radioelektronika ; International Conference  ... (RADIOELEKTRONIKA)
+- RAID - International Symposium on Recent Advances in Intrusion Detection
+- RAIL - Workshop on Resources for African Indigenous Languages
+- RAISE - International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering
+- RAIT - International Conference on Recent Advances in Information Technology
+- RAM - IEEE Conference on Robotics, Automation and Mechatronics
+- RAMiCS - International Conference on Relational and Algebraic Methods in Computer Science
+- RANDOM - International Workshop Randomization and Approximation Techniques in Computer Science
+- Random and Exhaustive Generation of Combinatorial Structures; International Conference on  ... (GASCom)
+- Random Walks; Discrete  ... (DRW)
+- Randomization and Approximation Techniques in Computer Science; International Workshop  ... (RANDOM)
+- Randomization, and Combinatorial Optimization. Algorithms and Techniques; International Workshop on Approximation,  ... (APPROX)
+- RANLP - Recent Advances in Natural Language Processing
+- Rapid Continuous Software Engineering; International Workshop on  ... (RCoSE)
+- Rapid Integration of Software Engineering Techniques (RISE)
+- Rapid Malcode; ACM Workshop on  ... (WORM)
+- Rapid Mashup Challenge; International  ... (RMC)
+- Rapid Prototyping
+- Rapid Simulation and Performance Evaluation; Workshop on  ... (RAPIDO)
+- Rapid System Prototyping; International Workshop on  ... (RSP)
+- RAPIDO - Workshop on Rapid Simulation and Performance Evaluation
+- RASTA - Regulated Agent-Based Social Systems
+- Rationality and Knowledge; Theoretical Aspects of  ... (TARK)
+- RAW - Reconfigurable Architectures Workshop
+- RBAC - ACM Workshop on Role-Based Access Control
+- RC - International Conference on Reversible Computation
+- RCAI - Russian Conference on Artificial Intelligence
+- RCAR - International Conference on Real-time Computing and Robotics
+- RCIS - Research Challenges in Information Science
+- RCoSE - International Workshop on Rapid Continuous Software Engineering
+- RCRA - Workshop on Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion
+- RCRA Incontri E Confronti Workshop (RiCeRcA)
+- RCVE - International Conference on Robotics, Control and Vision Engineering
+- RDP - International Conference on Rewriting, Deduction, and Programming
+- RE - IEEE International Requirements Engineering Conference
+- RE@RunTime - International Workshop on Requirements@Run.Time
+- RE4SuSy - Requirements Engineering for Sustainable Systems
+- Reachability Problems; International Conference on  ... (RP)
+- REACTION - International Workshop on Real-Time and Distributed Computing in Emerging Applications
+- Reactive and Event-Based Languages and Systems; International Workshop on  ... (REBLS)
+- Reading and Learning
+- Real Time Technology and Applications Symposium; IEEE  ... (RTAS)
+- Real-Time and Distributed Computing in Emerging Applications; International Workshop on  ... (REACTION)
+- Real-time and Embedded Systems; Java Technologies for  ... (JTRES)
+- Real-Time and Fault-Tolerant Systems; Formal Techniques in  ... (FTRTFT)
+- Real-Time and Network Systems; International Conference on  ... (RTNS)
+- Real-Time; Automatic Learning and  ... (ALaRT)
+- Real-Time Business Intelligence and Analytics (BIRTE)
+- Real-time Computing and Robotics; International Conference on  ... (RCAR)
+- Real-Time Computing Systems and Applications; IEEE International Conference on Embedded and  ... (RTCSA)
+- Real-Time Databases (RTDB)
+- Real-Time Image and Video Processing
+- Real-Time Systems; AMAST Workshop on  ... (ARTS)
+- Real-Time Systems; Euromicro Conference on  ... (ECRTS)
+- Real-Time Systems Symposium; IEEE  ... (RTSS)
+- RealComp - Workshop on Real Number Computation
+- Realizing Artificial Intelligence Synergies in Software Engineering; International Workshop on  ... (RAISE)
+- REALMAN - International Workshop on Multi-Hop Ad Hoc Networks
+- Realtime Interactive Systems; Workshop on Software Engineering and Architectures for  ... (SEARIS)
+- REALWSN - eal-World Embedded Wireless Systems and Networks
+- RealXR - Workshop on Prototyping and Developing Real-World Applications for Extended Reality
+- Reason Maintenance
+- Reasoning; International Conference on Principles of Knowledge Representation and  ... (KR)
+- Reasoning; Non-Monotonic  ... (NMR)
+- Reasoning Web Summer School (RW)
+- Reasoning with Uncertainty in Robotics (RUR)
+- REBLS - International Workshop on Reactive and Event-Based Languages and Systems
+- Rebooting Computing; International Conference on  ... (ICRC)
+- REBPM - International Workshop on the Interrelations between Requirements Engineering and Business Process Management
+- Recent Achievements in Mechatronics, Automation, Computer Sciences and Robotics; International Conference on  ... (MACRo)
+- Recent Advances in Internet of Things; International Conference on  ... (RIoT)
+- Recent Advances in Natural Language Processing (RANLP)
+- Recent Advances in Slavonic Natural Languages Processing
+- Recent Trends and Applications in Computer Science and Information Technology; International Conference on  ... (RTA-CSIT)
+- Recent Trends in Business Administration and Information Processing; International Conference on  ... (BAIP)
+- Recent Trends in Image Processing and Pattern Recognition; International Conference on  ... (RTIP2R)
+- Rechenzentren
+- Recherche d'Infomations et Applications; Conférence en  ... (CORIA)
+- Rechner-Gestützter Unterricht (RGU)
+- Rechnergestützter Entwurf und Architektur mikroelektronischer Systeme
+- Recht und öffentliche Verwaltung; GI-Fachtagung  ...
+- Recognition; International Conference on Image Analysis and  ... (ICIAR)
+- RECOMB - Annual International Conference on Research in Computational Molecular Biology
+- RECOMB Comparative Genomics Satellite Conference (RECOMB-CG)
+- RECOMB-CG - RECOMB Comparative Genomics Satellite Conference
+- Recommendation Systems for Software Engineering; International Workshop on  ... (RSSE)
+- Recommender Systems; ACM Conference on  ... (RecSys)
+</details>
+
+
+<details>
+<summary>S</summary>
+
+- S+SSPR - International Workshop on Structural and Syntactic Pattern Recognition
+- S-BPM ONE - International Conference on Subject-Oriented Business Process Management
+- S-CUBE - International Workshop on European Software Services and Systems Research
+- S-CUBE - Sensor Systems and Software
+- S³ - ACM Wireless of the Students, by the Students, and for the Students Workshop
+- S3 - Self-Sustaining Systems
+- S3C - Sustainable, Secure, and Smart Collaboration Workshop
+- SA - International Conference on Societal Automation
+- SAB - Simulation of Adaptive Behavior
+- SAC - ACM Symposium on Applied Computing
+- SAC - Selected Areas in Cryptography
+- SACAIR - Southern African Conference for Artificial Intelligence Research
+- SACH - Summit on Arabic and Chinese Handwriting Recognition
+- SACI - International Symposium on Applied Computational Intelligence and Informatics
+- SACMAT - ACM Symposium on Access Control Models and Technologies
+- SADASC - International Conference on Smart Applications and Data Analysis
+- SADFE - Systematic Approaches to Digital Forensic Engineering
+- SADPI - International Workshop on Semantically Aware Document Processing And Indexing
+- SAFE - Workshop on Explainable and Safety Bounded, Fidelitous, Machine Learning for Networking
+- Safe, Secure, Ethical, Responsible Technologies and Emerging Applications; International Conference on  ... (SEFER-TEA)
+- SafeCert - Workshop on Certification of Safety-Critical Software Controlled Systems
+- SAFECOMP - International Conference on Computer Safety, Reliability, and Security
+- SafeConfig - Workshop on Automated Decision Making for Active Cyber Defense
+- Safety, and Sustainability; International Conference on Global Security,  ... (ICGS3)
+- Safety Critical Systems and Software; Australian Workshop on  ... (SCS)
+- Safety; International Conference on System Reliability and  ... (ICSRS)
+- Safety, Security, and Rescue Robotics; IEEE International Symposium on  ... (SSRR)
+- Safety & Security; Automotive -  ... (Automotive)
+- Safety-Critical Systems; International Workshop on Formal Techniques for  ... (FTSCS)
+- Safety-critical Systems Symposium (SSS)
+- SAG - Scientific Applications of Grid Computing
+- SAGA - Symposium on Stochastic Algorithms: Foundations and Applications
+- Sagamore Computer Conference
+- SAGEO - Conférence internationale annuelle Spatial Analysis and GEOmatics
+- SAGT - Algorithmic Game Theory
+- SAI - Science and Information Conference
+- SAICSIT - Research Conference of the South African Institute of Computer Scientists and Information Technologists
+- SAIG - Semantics, Applications, and Implementation of Program Generation
+- SAINT - International Symposium on Applications and the Internet
+- SAIS - Annual Workshop of the Swedish Artificial Intelligence Society
+- SAM - IEEE Sensor Array and Multichannel Signal Processing Workshop
+- SAM - International Conference on Security and Management
+- SAM - International Workshop on Socially-Aware Multimedia
+- SAM - International Workshop on Software Architecture and Metrics
+- SAM - International Workshop on Software Architectures and Mobility
+- SAM - Software Audit and Metrics
+- SAM - System Analysis and Modeling
+- SAMOS - Embedded Computer Systems: Architectures, Modeling and Simulation
+- SAMT - International Conference on Semantics and Digital Media Technologies
+- SAND - Symposium on Algorithmic Foundations of Dynamic Networks
+- Sandbox - Symposium on Video Games (Sandbox)
+- SANER - IEEE International Conference on Software Analysis, Evolution, and Reengineering
+- SANER - International Conference on Software Analysis, Evolution and Reengineering
+- Sanskrit Computational Linguistics
+- SAP - ACM Symposium on Applied Perception
+- SAPIR - International Workshop on Service Assurance with Partial and Intermittent Resources
+- SAR Image Analysis, Modeling, and Techniques (SAR)
+- SARA - Symposium on Abstraction, Reformulation and Approximation
+- Sarnoff Symposium
+- SAS - International Static Analysis Symposium
+- SAS - Sensors Applications Symposium
+- SASB - Static Analysis and Systems Biology
+- SASHIMI - International Workshop on Simulation and Synthesis in Medical Imaging
+- SASN - ACM Workshop on Security of ad hoc and Sensor Networks
+- SASO - IEEE International Conference on Self-Adaptive and Self-Organizing Systems
+- SASP - IEEE Symposium on Application Specific Processors
+- SAST - Brazilian Symposium on Systematic and Automated Software Testing
+- SAT - International Conference on Theory and Applications of Satisfiability Testing
+- SatCom - Workshop on Satellite Networking and Computing
+- SATE - International Conference on Software Analysis, Testing and Evolution
+- Satellite Multimedia Systems Conference / Signal Processing for Space Communications Workshop; Advanced  ... (ASMS/SPSC)
+- Satisfiability Checking and Symbolic Computation Workshop (SC-Square)
+- Satisfiability Modulo Theories; International Workshop on  ... (SMT)
+- Satisfiability Testing; International Conference on Theory and Applications of  ... (SAT)
+- SaTML - Conference on Secure and Trustworthy Machine Learning
+- SaTS - Workshop on Secure and Trustworthy Superapps
+- SATToSE - Seminar on Advanced Techniques and Tools for Software Evolution
+- SAVCBS - International Workshop on Specification and Verification of Component-Based Systems
+- SBAC-PAD - Symposium on Computer Architecture and High Performance Computing
+- SBBD - Brazilian Symposium on Databases
+- SBC - International Workshop on Security in Blockchain and Cloud Computing
+- SBCARS - Brazilian Symposium on Software Components, Architectures and Reuse
+- SBCCI - Symposium on Integrated Circuits and Systems Design
+- SBD - International Workshop on Semantic Big Data
+- SBES - Brazilian Symposium on Software Engineering
+- SBESC - Brazilian Symposium on Computing System Engineering
+- SBGAMES - Brazilian Symposium on Computer Games and Digital Entertainment
+- SBIA - Brazilian Symposium on Artificial Intelligence
+- SBIM - International Symposium on Sketch-Based Interfaces and Modeling
+- SBLP - Brazilian Symposium on Programming Languages
+- SBMF - Brazilian Symposium on Formal Methods
+- SBP - International Conference on Social, Cultural, and Behavioral Modeling
+- SBP-BRiMS - International Conference on Social, Cultural, and Behavioral Modeling
+- SBQS - Brazilian Symposium on Software Quality
+- SBRC - Brazilian Symposium on Computer Networks and Distributed Systems
+- SBRN - Brazilian Symposium on Neural Networks
+- SBS - Shaping the Broadband Society
+- SBSC - Brazilian Symposium on Collaborative Systems
+- SBSI - Brazilian Symposium on Information Systems
+- SBST - International Workshop on Search-Based Software Testing
+</details>
+
+
+<details>
+<summary>T</summary>
+
+- T2FUZZ - IEEE Symposium on Type-2 Fuzzy Logic Systems
+- T4E - International Conference on Technology for Education
+- TA - IFAC Symposium on Telematics Applications
+- TAAI - International Conference on Technologies and Applications of Artificial Intelligence
+- TABLEAUX - International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
+- Tabulation in Parsing and Deduction (TAPD)
+- TAC - Text Analysis Conference
+- TACAS - International Conference on Tools and Algorithms for Construction and Analysis of Systems
+- TACC - Tunisian-Algerian Joint Conference on Applied Computing
+- TACL - International Conference on Topology, Algebra and Categories in Logic
+- TACoS - International Workshop on Test and Analysis of Component-Based Systems
+- TACS - Theoretical Aspects of Computer Software
+- TADA - International Workshop on Trading Agents Design and Analysis
+- TADDS - Workshop on Theoretical Aspects of Dynamic Distributed Systems
+- TAFA - International Workshop on Theorie and Applications of Formal Argumentation
+- TAG+ - International Workshop on Tree Adjoining Grammars and Related Formalisms
+- TAG-ML - Annual Workshop on Topology, Algebra, and Geometry in Machine Learning
+- Tagging, Mining and Retrieval of Human Related Activity Information; Workshop on  ... (TMR)
+- Tagung der Austrian Computer Graphics Association (Austrographics)
+- Tagung der Fachgruppe SIDAR der Gesellschaft für Informatik (SIDAR)
+- TAHRI - International Symposium on Technological Advances in Human-Robot Interaction
+- TAIC PART - Testing: Academic & Industrial Conference - Practice And Research Techniques
+- TAILOR - International Workshop on Trustworthy AI - Integrating Learning, Optimization and Reasoning
+- TAINN - Turkish Symposium on Artificial Intelligence and Neural Networks
+- Taiwan Conference on Computational Linguistics and Speech Processing (ROCLING)
+- TALE - International Conference on Teaching, Assessment, and Learning for Engineering
+- TALN-RÉCITAL - Traitement Automatique des Langues Naturelles & Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues
+- TAMC - Theory and Applications of Models of Computation
+- TAMoCo - Techniques and Applications for Mobile Commerce
+- TAMODIA - International Workshop on Task Models and Diagrams for User Interface Design
+- Tangible, Embedded, and Embodied Interaction; International Conference on  ... (TEI)
+- TAP - International Conference of Tests and Proofs
+- TAPAS - Theory and Practice of Algorithms in (Computer) Systems
+- TAPAS - Tools for Automatic Program Analysis
+- TAPD - Tabulation in Parsing and Deduction
+- Tapia  - Richard Tapia Celebration of Diversity in Computing Conference
+- TaPP - Workshop on the Theory and Practice of Provenance
+- TAPSOFT - Theory and Practice of Software Development
+- Target Reader Populations; Workshop on Predicting and Improving Text Readability for  ... (PITR)
+- TARK - Theoretical Aspects of Rationality and Knowledge
+- TAROS - Towards Autonomous Robotic Systems
+- TAS - International Conference Symposium on Trustworthy Autonomous Systems
+- TASE - Theoretical Aspects of Software Engineering
+- Task Models and Diagrams for User Interface Design; International Workshop on  ... (TAMODIA)
+- TAT - Transputer-Anwender-Treffen
+- Tbilisi Symposium on Logic, Language, and Computation (TbiLLC)
+- TbiLLC - Tbilisi Symposium on Logic, Language, and Computation
+- TCC - Theory of Cryptography Conference
+- TCCE - International Conference on Trends in Computational and Cognitive Engineering
+- TCGOV - International Conference on E-Government
+- Tcl/Tk Conference
+- TCoB - Technologies for Collaborative Business Process Management
+- TCS - IFIP International Conference on Theoretical Computer Science
+- TDB  - Workshop on Temporal Databases
+- TDIT - IFIP WG 8.6 International Working Conference on Transfer and Diffusion of IT
+- TDM - Twente Data Management Workshop
+- TDS - Workshop on Time-Delay Systems
+- TE - ISTE International Conference on Transdisciplinary Engineering
+- TEA - International Conference on Technology Enhanced Assessment
+- TEAA - Trends in Enterprise Application Architecture
+- Teaching, Assessment, and Learning for Engineering; International Conference on  ... (TALE)
+- Teaching Machine Learning Workshop
+- Team Tutoring Workshop (TTW)
+- TEAR - Trends in Enterprise Architecture Research and Practice-Driven Research on Enterprise Transformation
+- TECH-EDU - International Conference on Technology and Innovation in Learning, Teaching and Education
+- TechDebt - International Conference on Technical Debt
+- Technical Debt; International Conference on  ... (TechDebt)
+- Technical Symposium on Computer Science Education (SIGCSE)
+- Techniques and Applications for Mobile Commerce (TAMoCo)
+- Technological Advances in Human-Robot Interaction; International Symposium on  ... (TAHRI)
+- Technological Ecosystem for Enhancing Multiculturality (TEEM)
+- Technologies; ACM Symposium on Access Control Models and  ... (SACMAT)
+- Technologies and Applications of Artificial Intelligence; International Conference on  ... (TAAI)
+- Technologies for Collaborative Business Process Management (TCoB)
+- Technologies for E-Services (TES)
+- Technology and Applications; International Conference on Data Science,  ... (DATA)
+- Technology and Innovation in Learning, Teaching and Education; International Conference on  ... (TECH-EDU)
+- Technology and Innovation in Sports, Health and Wellbeing; International Conference on  ... (TISHW)
+- Technology and Society; International Symposium on  ... (ISTAS)
+- Technology Enablers and Innovative Applications for Smart Cities and Communities; ACM International Workshop on  ... (TESCA)
+- Technology, Engineering and Mathematics; Scholar's Yearly Symposium of  ... (SYSTEM)
+- Technology Enhanced Assessment; International Conference on  ... (TEA)
+- Technology Enhanced Learning Environments for Blended Education; Workshop on  ... (teleXbe)
+- Technology Enhanced Learning; European Conference on  ... (EC-TEL)
+- Technology Enhanced Learning; International Conference on Methodologies and Intelligent Systems for  ... (MIS4TEL)
+- Technology Ethics; Conference on  ... (Tethics)
+- Technology for Education; International Conference on  ... (T4E)
+- Technology, Mind, and Society Conference (APAScience)
+- Technology-Enhanced Learning in Laboratories Workshop (TELL)
+- Tecnologías e Innovación; Congreso Internacional de  ... (CITI)
+- TEEM - Technological Ecosystem for Enhancing Multiculturality
+- TEI - International Conference on Tangible, Embedded, and Embodied Interaction
+- Tele-Care and Collaborative Virtual Communities in Elderly Care (TELECARE)
+- TELECARE - Tele-Care and Collaborative Virtual Communities in Elderly Care
+- Telecommuncations Systems; International Conference on Advanced Networks and  ... (ANTS)
+- Telecommunication Applications; Intelligent Agents for  ... (IATA)
+- Telecommunication, Media and Internet Techno-Economics; Conference of  ... (CTTE)
+- Telecommunication Systems; IEEE/ACM International Symposium on Modeling, Analysis, and Simulation On Computer and  ... (MASCOTS)
+- Telecommunication Technologies and Mathematical Modeling of High-Tech Systems; International Conference on Information and  ... (ITTMM)
+- Telecommunication Technologies; Asia-Pacific Symposium on Information and  ... (APSITT)
+</details>
+
+
+<details>
+<summary>U</summary>
+
+- UAI - Conference on Uncertainty in Artificial Intelligence
+- UAVM - Workshop on UAVs in Multimedia
+- UAVs in Multimedia; Workshop on  ... (UAVM)
+- UbiComp - ACM International Joint Conference on Pervasive and Ubiquitous Computing
+- UbiMob - Journées Francophones Mobilité et Ubiquité
+- ubiPCMM - Internaltional Workshop on Personalized Context Modeling and Management for UbiComp Applications
+- Ubiquitäre Informationssysteme; Mobile und  ... (MMS)
+- Ubiquitous and Future Networks; International Conference on  ... (ICUFN)
+- Ubiquitous, and Intelligent Computing; International Conference on Mobile,  ... (MUSIC)
+- Ubiquitous and Intelligent Infrastructures; International Conference on Future Access Enablers for  ... (FABULOUS)
+- Ubiquitous Computing; Advances in Computer Science and  ... (CSA/CUTE)
+- Ubiquitous Computing and Ambient Intelligence; International Conference on  ... (UCAmI)
+- Ubiquitous Computing and Multimedia Applications; International Conference on  ... (UCMA)
+- Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)
+- Ubiquitous Computing; International Conference on  ... (ICUC)
+- Ubiquitous Computing; International Conference on Innovative Mobile and Internet Services in  ... (IMIS)
+- Ubiquitous Computing; International Workshop on  ... (IWUC)
+- Ubiquitous Computing Systems (UCS)
+- Ubiquitous Computing; Workshop on Universal Accessibility of  ... (WUAUC)
+- Ubiquitous Convergence Technology; International Conference on  ... (ICUCT)
+- Ubiquitous Data Management; International Workshop on  ... (UDM)
+- Ubiquitous Engineering; International Conference on Multimedia and  ... (MUE)
+- Ubiquitous Era; International Conference on Entertainment and Media in the  ... (Mindtrek)
+- Ubiquitous Information Management and Communication; International Conference on  ... (IMCOM)
+- Ubiquitous Intelligence and Computing; International Conference on  ... (UIC)
+- Ubiquitous Networking; International Conference on Mobile Computing and  ... (ICMU)
+- Ubiquitous Networking; International Symposium on  ... (UNet)
+- Ubiquitous Networks; ACM International Workshop on Performance Evaluation of Wireless Ad Hoc, Sensor, and  ... (PE-WASUN)
+- Ubiquitous Positioning, Indoor Navigation, and Location Based Service (UPINLBS)
+- Ubiquitous Robots and Ambient Intelligence; International Conference on  ... (URAI)
+- Ubiquitous Security; International Conference on  ... (UbiSec)
+- Ubiquitous Systems; International Conference on Wireless and  ... (ICWUS)
+- Ubiquitous Virtual Reality; International Symposium on  ... (ISUVR)
+- Ubiquitous Wireless Broadband; International Conference on  ... (ICUWB)
+- UbiSec - International Conference on Ubiquitous Security
+- UCAmI - International Conference on Ubiquitous Computing and Ambient Intelligence
+- UCC - International Conference on Utility and Cloud Computing
+- UCET - UK/China Emerging Technologies
+- UCMA - International Conference on Ubiquitous Computing and Multimedia Applications
+- UCMedia - User Centric Media
+- UCNC - International Conference on Unconventional Computation and Natural Computation
+- UCS - Ubiquitous Computing Systems
+- UD - International Conference on Universal Design
+- UDM - International Workshop on Ubiquitous Data Management
+- UDMV - Eurographics Workshop on Urban Data Modelling and Visualisation
+- UDW - Universal Dependencies Workshop
+- UEMCON - Ubiquitous Computing, Electronics & Mobile Communication Conference
+- UH - Unternehmen Hochschule
+- UHDL - Research and Education in Urban History in the Age of Digital Libraries
+- UIC - International Conference on Ubiquitous Intelligence and Computing
+- UIDIS - User Interfaces to Data Intensive Systems
+- UIS - Umweltinformationssysteme
+- UIST - ACM Symposium on User Interface Software and Technology
+- UITP - Workshop on User Interfaces for Theorem Provers
+- UK Academy for Information Systems Annual Conference (UKAIS)
+- UK/China Emerging Technologies (UCET)
+- UK Conference on Hypertext (Hypertext)
+- UK Conference on Logic Programming (ALPUK)
+- UK & Ireland Computing Education Research Conference (UKICER)
+- UK Parallel
+- UK Performance Engineering Workshops (UKPEW)
+- UK Workshop on Case-Based Reasoning
+- UK Workshop on Computational Intelligence (UKCI)
+- UKAIS - UK Academy for Information Systems Annual Conference
+- UKCI - UK Workshop on Computational Intelligence
+- UKICER - UK & Ireland Computing Education Research Conference
+- UKMAS - Workshop on Foundations and Applications of Multi-Agent Systems
+- UKPEW - UK Performance Engineering Workshops
+- UkrPROG - International Scientific and Practical Conference of Programming
+- UKSim - International Conference on Computer Modelling and Simulation
+- ULPAA - Upper Layer Protocols, Architectures and Applications
+- ULSSIS - International Workshop on Ultra-Large-Scale Software-Intensive Systems
+- Ultra Modern Telecommunications and Control Systems; International Conference on  ... (ICUMT)
+- Ultra-Large-Scale Software-Intensive Systems; International Workshop on  ... (ULSSIS)
+- Ulusal Yazılım Mühendisliği Sempozyumu (UYMS)
+- UMAP - International Conference on User Modeling, Adaptation, and Personalization
+- UMAP - User Modeling, Adaptation, and Personalization
+- UMC - Unconventional Models of Computation
+- UML - International Conference on the Unified Modeling Language
+- Umweltinformationssysteme (UIS)
+- Uncertain Data; International VLDB Workshop on Management of  ... (MUD)
+- Uncertainty Formalisms; Applications of  ...
+- Uncertainty in Artificial Intelligence; Conference on  ... (UAI)
+- Unconventional Computation and Natural Computation; International Conference on  ... (UCNC)
+- Unconventional Models of Computation (UMC)
+- Unconventional Programming Paradigms (UPP)
+- Underserved Areas; Innovation and Interdisciplinary Solutions for  ... (InterSol)
+- Underwater Networks & Systems; Workshop/Conference on  ... (WUWNet)
+- Unendliche Bibliothek; Die  ...
+- UNESCO-CEPES Publications (UNESCO-CEPES)
+- UNet - International Symposium on Ubiquitous Networking
+- UNIF - International Workshop on Unification
+- Unification; International Workshop on  ... (UNIF)
+- Unified Modeling Language; International Conference on the  ... (UML)
+- Uniform Approaches to Graphical Process Specification Techniques (UNIGRA)
+- Unifying Representations in Neural Models; Workshop on  ... (UniReps)
+- Unifying Theories of Programming (UTP)
+- UNIGRA - Uniform Approaches to Graphical Process Specification Techniques
+- UniReps - Workshop on Unifying Representations in Neural Models
+- UNISCON - International United Information Systems Conference
+</details>
+
+
+<details>
+<summary>V</summary>
+
+- VAAM - International Workshop on Video Analytics for Audience Measurement
+- VACE - International Workshop on Variability and Complexity in Software Design
+- VAHC - Workshop on Visual Analytics in Healthcare
+- Validated Numerics; International Symposium on Scientific Computing, Computer Arithmetic, and  ... (SCAN)
+- Validation and Verification of Knowledge Based Systems; European Symposium on  ... (EUROVAV)
+- Validation; International Conference on Software Testing, Verification, and  ... (ICST)
+- Validation; Leveraging Applications of Formal Methods, Verification and  ... (ISoLA)
+- Validation of Stochastic Systems
+- Validation Strategies for Software Evolution (VSSE)
+- Value Modeling and Business Ontologies; International Workshop on  ... (VMBO)
+- VALUETOOLS - International Conference on Performance Evaluation Methodolgies and Tools
+- VaMoS - International Working Conference on Variability Modelling of Software-Intensive Systems
+- Vampire Workshop (Vampire)
+- VANET - International Workshop on Vehicular Inter-Networking, Systems, and Applications
+- VarDial - Workshop on NLP for Similar Languages, Varieties and Dialects
+- VARE - International Conference on Virtual and Augmented Reality in Education
+- Variability and Complexity in Software Design; International Workshop on  ... (VACE)
+- Variability & Composition; International Workshop on  ... (VariComp)
+- VARiability for You Workshop - Variability Modeling Made Useful for Everyone (VARY)
+- Variability Modeling Made Useful for Everyone; VARiability for You Workshop -  ... (VARY)
+- Variability Modelling of Software-Intensive Systems; International Working Conference on  ... (VaMoS)
+- Variable Neighborhood Search; International Conference on  ... (ICVNS)
+- Variable Structure Systems; International Workshop on  ... (VSS)
+- Variational, Geometric, and Level Set Methods in Computer Vision (VLSM)
+- VariComp - International Workshop on Variability & Composition
+- Varieties and Dialects; Workshop on NLP for Similar Languages,  ... (VarDial)
+- VARY - VARiability for You Workshop - Variability Modeling Made Useful for Everyone
+- VAST - IEEE Conference on Visual Analytics Science and Technology
+- VBC - International Conference on Visualization in Biomedical Computing
+- VCBM - Eurographics Workshop on Visual Computing for Biology and Medicine
+- VCC - Virtual Conference on Communications
+- VCHCI - Vienna Conference on Human Computer Interaction
+- VCIP - Visual Communications and Image Processing
+- VDA - Visualization and Data Analysis
+- VDAT - International Symposium on VLSI Design and Test
+- VDB - Visual Database Systems
+- VDBS - Workshop on Verifiable Database Systems
+- VDI/VDE-Fachtagung Useware (Useware)
+- VDM, and Z; International Conference on Abstract State Machines, Alloy, B, TLA,  ... (ABZ)
+- VDMB - VLDB Workshop on Data Mining in Bioinformatics
+- VDTS - Workshop on Virtualization Technology for Dependable Systems
+- VECIMS - IEEE International Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems
+- VECoS -  International Conference on Verification and Evaluation of Computer and Communication Systems
+- VECPAR - International Conference on High Performance Computing for Computational Science
+- Vector and Parallel Processing; Joint International Conference on  ... (CONPAR)
+- Vector-Space Representations for NLP; Workshop on Evaluating  ... (RepEval)
+- VEE - International Conference on Virtual Execution Environments
+- Vehicle Technology and Intelligent Transport Systems; International Conference on  ... (VEHITS)
+- Vehicles and Transportation Systems; IEEE Symposium on Computational Intelligence in  ... (CIVTS)
+- Vehicles and Vehicular Systems; IEEE Workshop on Computational Intelligence in  ... (CIVVS)
+- Vehicles; Communication Technologies for  ... (Nets4Workshops)
+- Vehicular Electronics and Safety; International Conference on  ... (ICVES)
+- Vehicular Inter-Networking, Systems, and Applications; International Workshop on  ... (VANET)
+- Vehicular Networking Conference; IEEE  ... (VNC)
+- Vehicular Technology Conference; IEEE  ... (VTC)
+- Vehicular Technology; IEEE Symposium on Communications and  ... (SCVT)
+- Vehicular Technology, Information Theory and Aerospace & Electronic Systems; International Conference on Wireless Communications,  ... (VITAE)
+- VEHITS - International Conference on Vehicle Technology and Intelligent Transport Systems
+- VEM - Workshops on Software Visualization, Evolution and Maintenance
+- Verifiable Database Systems; Workshop on  ... (VDBS)
+- Verification and Analysis; Automated Technology for  ... (ATVA)
+- Verification and Evaluation of Computer and Communication Systems;  International Conference on  ... (VECoS)
+- Verification and Monitoring at Runtime Execution; International Workshop on  ... (VORTEX)
+- Verification and Program Transformation; International Workshop on  ... (VPT)
+- Verification and Security Workshop; International  ... (IVSW)
+- Verification, and Validation; International Conference on Software Testing,  ... (ICST)
+- Verification and Validation; Leveraging Applications of Formal Methods,  ... (ISoLA)
+- Verification and Validation of Enterprise Information Systems; Modelling, Simulation,  ... (MSVVEIS)
+- Verification; International Workshop on Microprocessor/SoC Test, Security and  ... (MTV)
+- Verification Methods; Conference on Correct Hardware Design and  ... (CHARME)
+- Verification, Model Checking and Abstract Interpretation; International Conference on  ... (VMCAI)
+- Verification of Infinite-State Systems; International Workshop on  ... (INFINITY)
+- Verification of Infinite-State Systems with Applications to Security (VISSAS)
+- Verification of Interactive Systems; International Workshop on Design, Specification, and  ... (DSV-IS)
+- Verification of Web Sites; International Workshop on Automated Specification and  ... (WWV)
+- Verification; Process Algebra and Probabilistic Methods, Performance Modeling and  ... (PAPM-PROBMIV)
+- Verified Software: Theories, Tools, Experiments (VSTTE)
+- Verläßliche IT-Systeme (VIS)
+- Very Large Corpora; Workshop on  ... (VLC)
+- Very Large Data Bases Conference (VLDB)
+- Very Large Data Search; International Workshop on  ... (VLDS)
+- Very Large Scale Integration of System-on-Chip; IEEE/IFIP International Conference on  ... (VLSI-SOC)
+- Very Low Bitrate Video Coding (VLBV)
+- VG - IEEE VGTC / Eurographics International Symposium on Volume Graphics
+- Video Analytics for Audience Measurement; International Workshop on  ... (VAAM)
+- Video and Image Ground Truth in Computer Vision Applications; International Workshop on  ... (VIGTA)
+- Video and Image Processing; International Conference on  ... (ICVIP)
+- Video Retrieval Evaluation; TREC  ... (TRECVID)
+- Video, Signal and Image Processing; International Conference on  ... (VSIP)
+- Video Surveillance and Sensor Networks; International Workshop on  ... (VSSN)
+- Videogames Sciences; Conference of the Spanish Association for  ... (CoSECivi)
+- Videojuegos; Congreso Español de  ... (CEV)
+- Vienna Conference on Human Computer Interaction (VCHCI)
+- Vienna Summer of Logic (VSL)
+- VIETCRYPT - International Conference on Cryptology in Vietnam
+- VIEW - Visual Information Expert Workshop
+- VIEWS - Workshop on Materialized Views
+- Views on Designing Complex Architectures; International Workshop on  ... (VODCA)
+- ViGIL - Visually Grounded Interaction and Language Workshop
+- VIGTA - International Workshop on Video and Image Ground Truth in Computer Vision Applications
+</details>
+
+
+<details>
+<summary>W</summary>
+
+- W-MUST - Workshop on Measurements Up the Stack
+- W2GIS - Web and Wireless Geographical Information Systems
+- W3C Web Ontology Language (OWL) Experiences and Directions Workshop (OWLED)
+- W3C Workshops (W3C)
+- W4A - International Web for All Conference
+- WAA - Wavelet Analysis and Its Applications
+- WABI - Workshop on Algorithms in Bioinformatics
+- WAC - Workshop on Autonomic Communication
+- WAC - Workshop on Web as Corpus
+- WAC - World Automation Congress
+- WACC - Work Activities Coordination and Collaboration
+- WACC - Workshop on Cross-Organisational Workflow Management and Co-ordination
+- WACCPD - Workshop on Accelerator Programming using Directives
+- WACG - Workshop on Applied Computational Geometry
+- WACT - Workshop on Algebra, Coalgebra and Topology
+- WACV - IEEE/CVF Winter Conference on Applications of Computer Vision
+- WADAS - Washington Ada Symposium
+- WADGMM - Workshop on Applications of Discrete Geometry and Mathematical Morphology
+- WADL - Web Archiving and Digital Libraries
+- WADS - nternational Symposium on Algorithms and Data Structures
+- WADS - Workshop on Architecting Dependable Systems
+- WADT - Workshop on Recent Trends in Algebraic Development Techniques
+- WAE - Workshop on Algorithm Engineering
+- WAF - Workshop of Physical Agents
+- WAFR - Workshop on the Algorithmic Foundations of Robotics
+- WAGA - Attribute Grammars and their Applications
+- WAHC - Workshop on Encrypted Computing & Applied Homomorphic Cryptography
+- WAIFI - International Workshop on Arithmetic of Finite Fields
+- WAIM - International Joint Conference on Web and Big Data
+- WAIN - Workshop on AI Engineering - Software Engineering for AI
+- WALCOM - International Conference and Workshops on Algorithms and Computation
+- WALTD - Workshop on Advanced Learning Technologies for Disabled and Non-Disabled People
+- WAMTA - International Workshop on Asynchronous Many-Task Systems and Applications
+- WAOA - Workshop on Approximation and Online Algorithms
+- WAPA - Workshop on Applications of Pattern Analysis
+- WAPCV - nternational Workshop on Attention in Cognitive Systems
+- WAPI - International Workshop on API Usage and Evolution
+- WASA - Wireless Algorithms, Systems, and Applications
+- WASA - Workshop on Applications of Software Agents
+- Washington Ada Symposium (WADAS)
+- WASPAA - IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+- WASSA - Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis
+- WAT - Workshop on Asian Translation
+- Watermarking; International Worksho on Digital Forensics and  ... (IWDW)
+- Wavelet Analysis and Its Applications (WAA)
+- WAW - Workshop on Algorithms and Models for the Web-Graph
+- WBDB - Workshop on Big Data Benchmarking
+- WBIR - Workshop on Biomedical Image Registration
+- WBL - Workshop on Blended Learning
+- WBMA - Brazilian Workshop on Agile Methods
+- WCAE - Workshop On Computer Architecture Education
+- WCAT - International Workshop on Coordination and Adaption Techniques for Software Entities
+- WCC - IFIP World Computer Congress
+- WCC - International Workshop on Coding and Cryptography
+- WCCCE - Western Canadian Conference on Computing Education
+- WCCE - IFIP World Conference on Computers in Education
+- WCCI - IEEE World Congress on Computational Intelligence
+- WCE - World Congress on Engineering
+- WCES - Workshop on Control and Embedded Systems
+- WCET - Worst-Case Execution Time Analysis
+- WCFLP - Workshop on Curry and Functional Logic Programming
+- WCGO - World Congress on Global Optimization
+- WCI - International Symposium on Women in Computing and Informatics
+- WCICSS - World Congress on Industrial Control Systems Security
+- WCII - International Workshop on Conditionals, Information, and Inference
+- WCIT - World Conference on Information Technology
+- WCITD - Wireless in Developing Countries and Networks of the Future
+- WCLP - Workshop on Constraint Logic Programming
+- WCNC - IEEE Wireless Communications and Networking Conference
+- WCNC - Workshop on Computer Networks and Communications
+- WCNIS - IEEE International Conference on Wireless Communications, Networking and Information Security
+- WCO - Workshop on Computational Optimization
+- WCSC - World Conference on Soft Computing
+- WCSP - International Conference on Wireless Communications and Signal Processing
+- WCSS - World Congress on Social Simulation
+- WCW - Web Content Caching and Distribution Workshop
+- WD - Wireless Days
+- WDAM - Workshop on Data Analysis in Medicine
+- WDAS - Distributed Data and Structures
+- WDC - Workshop on Security Implications of Deepfakes and Cheapfakes
+- WDDDM - Workshop on Dependable Distributed Data Management
+- WDFIA - International Workshop on Digital Forensics and Incident Analysis
+- WDIA - International Workshop on Advances in Depth Image Analysis and Applications
+- WDTN - Workshop on Delay-Tolerant Networking
+- WEA - Workshop on Engineering Applications
+- WEAH - IEEE Workshop on Evolvable and Adaptive Hardware
+- Weak Signal Detection in Social Networks and Social Media; Machine Learning for Trend and  ... (TWSDetection)
+- Wearable and Implantable Body Sensor Networks; International Conference on  ... (BSN)
+- Wearable Computers; IEEE International Symposium on  ... (ISWC)
+- Wearable Computing Systems; Asia-Pacific Conference on  ... (APWCS)
+- Wearable Micro and Nano Technologies for Personalised Health; International Conference on  ... (pHealth)
+- WEB - Workshop on E-Business
+- Web and Big Data; International Joint Conference on  ... (WAIM)
+- Web and Databases; International Workshop on the  ... (WebDB)
+- Web and Information Technologies; International Conference on  ... (ICWIT)
+- Web and Internet Economics; International Conference on  ... (WINE)
+- Web and Social Media; International Conference on  ... (ICWSM)
+- Web and Wireless Geographical Information Systems (W2GIS)
+- Web APIs and Services Mashups; International Workshop on  ... (Mashups)
+- Web Application Development; USENIX Conference on  ... (WebApps)
+</details>
+
+
+<details>
+<summary>X</summary>
+
+- xAI - World Conference on Explainable Artificial Intelligence
+- XAILA - EXplainable AI in Law Workshop
+- XChange Reality! (XCR)
+- XCR - XChange Reality!
+- XDOMO - International Workshop on Security and Dependability of Multi-Domain Infrastructures
+- XFree86 Technical Conference
+- XIME-P - International Workshop on XQuery Implementation, Experience and Perspectives
+- XLOOP - Annual Workshop on Large-scale Experiment-in-the-Loop Computing
+- XM - Workshop on Extreme Modeling
+- XMIDX - XML Technologies für Middleware - Middleware für XML-Anwendungen
+- XML - Intelligent Search on XML Data
+- XML; ACM SIGPLAN Workshop on Programming Language Technologies for  ... (PLAN-X)
+- XML, and Digital Typography; TEX,  ... (TEX)
+- XML Data; Intelligent Search on  ... (XML)
+- XML Database Symposium; International  ... (XSym)
+- XML Documents; Knowledge Discovery from  ... (KDXD)
+- XML Information on the Web; Workshop on Database Technologies for Handling  ... (DataX)
+- XML Retrieval; International Workshop of the Initiative for the Evaluation of  ... (INEX)
+- XML Security; ACM Workshop on  ...
+- XML Technologien für das Semantic Web (XSW)
+- XML Technologies für Middleware - Middleware für XML-Anwendungen (XMIDX)
+- XML Tools and Techniques; Efficiency and Effectiveness of  ... (EEXTT)
+- XML; Workshop on NLP and  ...
+- Xonference on Analysis of Neural Network Applications (ANNA)
+- XoveTIC Conference (XoveTIC)
+- XP - International Conference on Agile Software Development
+- XP/Agile Universe
+- XP Workshops on Relational Database Theory (XP)
+- XPS - German Conference on Knowledge-Based Systems
+- XQuery Implementation, Experience and Perspectives; International Workshop on  ... (XIME-P)
+- XR - International Conference on Extended Reality
+- XSW - XML Technologien für das Semantic Web
+- XSym - International XML Database Symposium
+- YAWL Symposium
+- Young Computer Scientists; International Conference for  ... (ICYCS)
+- Young Computer Scientists; International Meeting of  ... (IMYCS)
+- Young Scientists in Computer Science & Software Engineering; Workshop for  ... (CS&SE@SW)
+- Young Scientists' International Workshop on Trends in Information Processing (YSIP)
+- YSIP - Young Scientists' International Workshop on Trends in Information Processing
+- Z; International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and  ... (ABZ)
+- ZEUS - Central-European Workshop on Services and their Composition
+- ZiF Workshop (ZiF)
+</details>
+
+
+<details>
+<summary>Y</summary>
+
+- YAWL Symposium
+- Young Computer Scientists; International Conference for  ... (ICYCS)
+- Young Computer Scientists; International Meeting of  ... (IMYCS)
+- Young Scientists in Computer Science & Software Engineering; Workshop for  ... (CS&SE@SW)
+- Young Scientists' International Workshop on Trends in Information Processing (YSIP)
+- YSIP - Young Scientists' International Workshop on Trends in Information Processing
+- Z; International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and  ... (ABZ)
+- ZEUS - Central-European Workshop on Services and their Composition
+- ZiF Workshop (ZiF)
+</details>
+
+
+<details>
+<summary>Z</summary>
+
+- Z; International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and  ... (ABZ)
+- ZEUS - Central-European Workshop on Services and their Composition
+- ZiF Workshop (ZiF)
+</details>
+
+
+</details>
+
+<details>
+<summary>Journals</summary>
+
+<details>
+<summary>A</summary>
+
+- AAIML - Advances in Artificial Intelligence and Machine Learning
+- Access; IEEE  ...
+- Accessibility and Computing; ACM SIGACCESS  ...
+- Accessible Computing; ACM Transactions on  ... (TACCESS)
+- Accounting, Finance and Management; Intelligent Systems in  ...
+- ACI - Applied Clinical Informatics
+- ACIS International Journal of Computer & Information Science
+- ACM Communications in Computer Algebra
+- ACM Computing Surveys
+- ACM/IMS Transactions on Data Science (TDS)
+- ACM Inroads
+- ACM Journal of Computer Documentation (JCD)
+- ACM Journal of Experimental Algorithmics (JEA)
+- ACM Journal on Computing and Cultural Heritage
+- ACM Journal on Emerging Technologies in Computing Systems
+- ACM Letters on Programming Languages and Systems (LOPLAS)
+- ACM on Computer Graphics and Interactive Techniques; Proceedings of the  ...
+- ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies; Proceedings of the  ... (IMWUT)
+- ACM on Measurement and Analysis of Computing Systems; Proceedings of the  ... (POMACS)
+- ACM Queue
+- ACM SIGACCESS Accessibility and Computing
+- ACM SIGAPL APL Quote Quad
+- ACM SIGCHI Bulletin
+- (ACM SIGCOMM); Computer Communication Review  ...
+- ACM SIGCSE Bulletin
+- ACM SIGLOG News
+- ACM SIGMIS Database
+- ACM SIGMOD Digital Review
+- ACM SIGMOD Digital Symposium Collection
+- ACM SIGOPS: Operating Systems Review
+- ACM SIGPLAN Notices
+- ACM SIGPLAN OOPS Messenger
+- ACM SIGSOFT Software Engineering Notes
+- ACM SIGSPATIAL Special
+- ACM StandardView
+- ACM Transactions on Accessible Computing (TACCESS)
+- ACM Transactions on Algorithms (TALG)
+- ACM Transactions on Applied Perception (TAP)
+- ACM Transactions on Architecture and Code Optimization (TACO)
+- ACM Transactions on Asian and Low-Resource Language Information Processing
+- ACM Transactions on Autonomous and Adaptive Systems (TAAS)
+- ACM Transactions on Computation Theory (ToCT)
+- ACM Transactions on Computational Logic (TOCL)
+- ACM Transactions on Computer Systems (TOCS)
+- ACM Transactions on Computer-Human Interaction (TOCHI)
+- ACM Transactions on Computing Education (TOCE)
+- ACM Transactions on Computing for Healthcare (HEALTH)
+- ACM Transactions on Cyber-Physical Systems (TCPS)
+- ACM Transactions on Database Systems (TODS)
+- ACM Transactions on Design Automation of Electronic Systems (TODAES)
+- ACM Transactions on Economics and Computation
+- ACM Transactions on Embedded Computing Systems
+- ACM Transactions on Evolutionary Learning and Optimization
+- ACM Transactions on Graphics (TOG)
+- ACM Transactions on Human-Robot Interaction (THRI)
+- ACM Transactions on Information Systems (TOIS)
+- ACM Transactions on Intelligent Systems and Technology (TIST)
+- ACM Transactions on Interactive Intelligent Systems
+- ACM Transactions on Internet of Things (TIOT)
+- ACM Transactions on Internet Technology (TOIT)
+- ACM Transactions on Knowledge Discovery from Data (TKDD)
+- ACM Transactions on Management Information Systems
+- ACM Transactions on Mathematical Software (TOMS)
+- ACM Transactions on Modeling and Computer Simulation (TOMACS)
+- ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)
+- ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+- ACM Transactions on Parallel Computing
+- ACM Transactions on Privacy and Security (TOPS)
+- ACM Transactions on Programming Languages and Systems (TOPLAS)
+- ACM Transactions on Reconfigurable Technology and Systems
+- ACM Transactions on Sensor Networks (TOSN)
+- ACM Transactions on Social Computing (TSC)
+- ACM Transactions on Software Engineering and Methodology (TOSEM)
+- ACM Transactions on Spatial Algorithms and Systems (TSAS)
+- ACM Transactions on Speech and Language Processing (TSLP)
+- ACM Transactions on Storage
+- ACM Transactions on the Web
+- Acquisition; International Journal of Information  ...
+- Acta Cybernetica
+- Acta Informatica
+- Acta Informatica Pragensia
+- Acta Numerica
+- Actor-Network Theory and Technological Innovation; International Journal of  ... (IJANTTI)
+- Actuator Networks; Journal of Sensor and  ...
+- Ad Hoc and Ubiquitous Computing; International Journal of  ... (IJAHUC)
+- Ad Hoc Networks
+- Ad Hoc & Sensor Wireless Networks
+- ADAM - The Art of Discrete and Applied Mathematics
+- Adaptive Behaviour
+- Adaptive Communications Systems; International Journal of Autonomous and  ... (IJAACS)
+- Adaptive, Resilient and Autonomic Systems; International Journal of  ... (IJARAS)
+- Adult Education and Technology; International Journal of  ... (IJAET)
+- Advanced Corporate Learning; International Journal of  ... (iJAC)
+- Advanced Engineering and Computation; Journal of  ... (JAEC)
+- Advanced Engineering Informatics
+- Advanced Intelligence Paradigms; International Journal of  ... (IJAIP)
+- Advanced Intelligent Systems
+- Advanced Media and Communication; International Journal of  ... (IJAMC)
+- Advanced Modeling and Simulation in Engineering Sciences
+- Advanced Operations Management; International Journal of  ... (IJAOM)
+</details>
+
+
+<details>
+<summary>B</summary>
+
+- Baltic Journal of Modern Computing (BJMC)
+- BDCC - Big Data and Cognitive Computing
+- Behavioral Robotics; Paladyn, Journal of  ...
+- Behaviour; Adaptive  ...
+- Behaviour & Information Technology
+- Bell Labs Technical Journal
+- BIAA - Bulletin d'Informatique Approfondie et Applications
+- Bifurcation and Chaos; International Journal of  ...
+- Big Data
+- Big Data and Cognitive Computing (BDCC)
+- Big Data; IEEE Transactions on  ...
+- Big Data Intelligence and Applications; International Journal of  ... (IJBDIA)
+- Big Data Intelligence; International Journal of  ... (IJBDI)
+- Big Data; Journal of  ...
+- Big Data Mining and Analytics
+- Big Data; Open Journal of  ...
+- Big Data Research
+- Big Data & Society
+- Bio-Algorithms and Med-Systems
+- Bio-Inspired Computation; International Journal of  ... (IJBIC)
+- BioData Mining
+- Bioinformatics
+- Bioinformatics; Advances in  ...
+- Bioinformatics and Computational Biology; Journal of  ...
+- Bioinformatics and Systems Biology; EURASIP Journal on  ...
+- Bioinformatics; Briefings in  ...
+- Bioinformatics; International Journal of Data Mining and  ... (IJDMB)
+- Bioinformatics; International Journal of Knowledge Discovery in  ... (IJKDB)
+- Bioinformatics; Network Modeling Analysis in Health Informatics and  ...
+- Bioinformatics Research and Applications; International Journal of  ... (IJBRA)
+- Biological and Multi-Scale Communications; IEEE Transactions on Molecular,  ...
+- Biological Cybernetics
+- Biological Databases and Curation; Database - The Journal of  ...
+- Biology and Drug Design; International Journal of Computational  ... (IJCBDD)
+- Biology and Medicine; Computers in  ...
+- Biology and Medicine; Source Code for  ...
+- Biology; In Silico  ...
+- Biology; PLoS Computational  ...
+- Biomechanics and Biomedical Engineering: Imaging & Visualization; Computer Methods in  ...
+- Biomedical and Health Informatics; IEEE Journal of  ...
+- Biomedical Circuits and Systems; IEEE Transactions on  ...
+- Biomedical Engineering; IEEE Transactions on  ...
+- Biomedical Engineering: Imaging & Visualization; Computer Methods in Biomechanics and  ...
+- Biomedical Imaging; International Journal of  ...
+- Biomedical Semantics; Journal of  ...
+- Biomedical Signal Processing and Control
+- Biomedicine; Computer Methods and Programs in  ...
+- Biometrics, Behavior, and Identity Science; IEEE Transactions on  ...
+- Biometrics; IET  ...
+- Biometrics; International Journal of  ... (IJBM)
+- Biosciences; Theory in  ...
+- Biosystems
+- BISE - Business & Information Systems Engineering
+- BIT - A Nordic Computer Related Journal
+- BJET - British Journal of Educational Technology
+- BJMC - Baltic Journal of Modern Computing
+- Blockchain; Frontiers in  ...
+- BMC Bioinformatics
+- BMC Genomics
+- BMC Medical Imaging
+- BMC Medical Informatics & Decision Making
+- BMC Systems Biology
+- Brain Connectivity
+- Brain Informatics
+- Brazilian Computer Society; Journal of the  ...
+- Brazilian Journal of Information Systems
+- Briefings in Bioinformatics
+- British Journal of Educational Technology (BJET)
+- Broadband Technologies; International Journal of Wireless Networks and  ... (IJWNBT)
+- Broadcasting; IEEE Transactions on  ...
+- Broadcasting; Journal of Virtual Reality and  ...
+- Bulletin d'Informatique Approfondie et Applications (BIAA)
+- Bulletin; IEEE Data Engineering  ...
+- Bulletin of Mathematical Linguistics; The Prague  ...
+- Bulletin of Symbolic Logic; The  ...
+- Bulletin of the EATCS
+- Bulletin of the ICA
+- Bulletin of the IEEE Technical Committee on Digital Libraries (TCDL Bulletin)
+- Business and Information Management; International Journal of Asian  ... (IJABIM)
+- Business Data Communications and Networking; International Journal of  ... (IJBDCN)
+- Business & Information Systems Engineering (BISE)
+- Business Information Systems; International Journal of  ... (IJBIS)
+- Business Intelligence and Data Mining; International Journal of  ...
+- Business Intelligence Research; International Journal of  ... (IJBIR)
+- Business Performance and Supply Chain Modelling; International Journal of  ... (IJBPSCM)
+- Business Process Integration and Management; International Journal of  ... (IJBPIM)
+- Business Process Management Journal
+- CAAI Transactions on Intelligence Technology
+- CAD - Computer-Aided Design
+- CAIS - Communications of the Association for Information Systems
+- CAM - Computational and Applied Mathematics
+- Cartographica: The International Journal for Geographic Information and Geovisualization
+- Case-Based Reasoning; Transactions on  ...
+- Cases on Information Technology; Journal of  ... (JCIT)
+- CASM - Complex Adaptive Systems Modeling
+- Categorical Structures; Applied  ...
+- CCF Transactions on High Performance Computing
+- CCF Transactions on Networking
+- CCF Transactions on Pervasive Computing and Interaction
+- Cellular Automata; Journal of  ...
+</details>
+
+
+<details>
+<summary>C</summary>
+
+- CAAI Transactions on Intelligence Technology
+- CAD - Computer-Aided Design
+- CAIS - Communications of the Association for Information Systems
+- CAM - Computational and Applied Mathematics
+- Cartographica: The International Journal for Geographic Information and Geovisualization
+- Case-Based Reasoning; Transactions on  ...
+- Cases on Information Technology; Journal of  ... (JCIT)
+- CASM - Complex Adaptive Systems Modeling
+- Categorical Structures; Applied  ...
+- CCF Transactions on High Performance Computing
+- CCF Transactions on Networking
+- CCF Transactions on Pervasive Computing and Interaction
+- Cellular Automata; Journal of  ...
+- Central European Journal of Operations Research
+- CGF - Computer Graphics Forum
+- CGT - Computing in Geometry and Topology
+- Change Management; International Journal of Information Systems and  ... (IJISCM)
+- Chemical Information and Modeling; Journal of  ...
+- Cheminformatics; Journal of  ...
+- Chemoinformatics and Chemical Engineering; International Journal of  ... (IJCCE)
+- Chicago Journal of Theoretical Computer Science
+- Child-Computer Interaction; International Journal of  ...
+- Chinese Language Processing; International Journal of Computational Linguistics &  ...
+- CiC - IACR Communications in Cryptology
+- Circuit Theory and Applications; International Journal of  ...
+- Circuits and Systems
+- Circuits and Systems for Video Technology; IEEE Transactions on  ...
+- Circuits and Systems I: Regular Papers; IEEE Transactions on  ...
+- Circuits and Systems; IEEE Journal of Emerging and Selected Topics in  ...
+- Circuits and Systems II: Express Briefs; IEEE Transactions on  ...
+- Circuits, Devices & Systems; IET  ...
+- Circuits, Systems, and Computers; Journal of  ...
+- Circuits, Systems, and Signal Processing
+- CiSE - Computing in Science and Engineering
+- Classification; Journal of  ...
+- CLEI electronic journal
+- Clinical Bioinformatics; Journal of  ...
+- Cloud Applications and Computing; International Journal of  ... (IJCAC)
+- Cloud Computing; IEEE  ...
+- Cloud Computing; IEEE Transactions on  ...
+- Cloud Computing; International Journal of  ... (IJCC)
+- Cloud Computing; Journal of  ...
+- Cloud Computing; Open Journal of  ...
+- CLSR - Computer Law & Security Review
+- Cluster Computing
+- Code Optimization; ACM Transactions on Architecture and  ... (TACO)
+- Codes and Cryptography; Designs,  ...
+- Coding Theory; International Journal of Information and  ... (IJICoT)
+- Cognition; Journal of Numerical  ...
+- Cognition, Technology & Work
+- Cognitive and Developmental Systems; IEEE Transactions on  ...
+- Cognitive Communications and Networking; IEEE Transactions on  ... (TCCN)
+- Cognitive Communications; EAI Endorsed Transactions on  ...
+- Cognitive Computation
+- Cognitive Computation and Systems
+- Cognitive Informatics and Natural Intelligence; International Journal of  ... (IJCINI)
+- Cognitive Neuroscience; Journal of  ...
+- Cognitive Processing
+- Cognitive Science
+- Cognitive Science; Topics in  ...
+- Cognitive Systems Research
+- COLA - Journal of Computer Languages
+- Collaborative Computing; EAI Endorsed Transactions on  ...
+- College & Research Libraries
+- Combinatorial Optimization; Journal of  ...
+- Combinatorial Theory
+- Combinatorial Theory, Series A; Journal of  ... (JCTA)
+- Combinatorial Theory, Series B; Journal of  ... (JCTB)
+- Combinatorica
+- Combinatorical Optimization Problems and Informatics; International Journal of  ... (IJCOPI)
+- Combinatorics; Australasian Journal of  ...
+- Combinatorics; Graphs and  ...
+- Combinatorics, Probability & Computing
+- Combinatorics; The Electronic Journal of  ...
+- Communication Convergence Engineering; Journal of Information and  ...
+- Communication; IEEE Transactions on Professional  ... (TPC)
+- Communication; International Journal of Advanced Media and  ... (IJAMC)
+- Communication; Journal of Computer-Mediated  ...
+- Communication Networks and Distributed Systems; International Journal of  ... (IJCNDS)
+- Communication Networks and Information Security (IJCNIS); International Journal of  ...
+- Communication Networks; Security and  ...
+- Communication Research
+- Communication Systems; International Journal of  ...
+- Communication Technologies; Network and  ...
+- Communication Technology; International Journal of Information and  ... (IJICT)
+- Communications; Advances in Mathematics of  ... (AMC)
+- Communications and Convergence; International Journal of Information Technology,  ... (IJITCC)
+- Communications and Information Networks; Journal of  ...
+- Communications and Network
+- Communications and Networking; IEEE Transactions on Green  ...
+- Communications and Networks; Journal of  ...
+- Communications; IEEE Transactions on  ...
+- Communications; IEEE Transactions on Molecular, Biological and Multi-Scale  ...
+- Communications; IEICE Transactions on  ...
+- Communications; IET  ...
+- Communications in Information and Systems
+- Communications in Nonlinear Science and Numerical Simulation
+- Communications in Statistics - Simulation and Computation
+- Communications; Journal of  ...
+- Communications; Journal of Computer Networks and  ...
+</details>
+
+
+<details>
+<summary>D</summary>
+
+- D&D - Dialogue and Discourse
+- D&T - IEEE Design & Test
+- D-Lib Magazine
+- Dagstuhl Artifacts Series (DARTS)
+- Dagstuhl Manifestos
+- Dagstuhl Reports
+- DARTS - Dagstuhl Artifacts Series
+- Data
+- Data Analysis and Classification; Advances in  ...
+- Data Analysis; Intelligent  ...
+- Data Analysis Techniques and Strategies; International Journal of  ... (IJDATS)
+- Data and Information Management (DIM)
+- Data and Information Quality; Journal of  ...
+- Data and Information Science; Journal of  ... (JDIS)
+- Data Engineering Bulletin; IEEE  ...
+- Data Engineering; IEEE Transactions on Knowledge and  ...
+- Data Intelligence
+- Data & Knowledge Engineering
+- Data Mining and Bioinformatics; International Journal of  ... (IJDMB)
+- Data Mining and Knowledge Discovery
+- Data Mining and Knowledge Discovery; WIREs  ...
+- Data Mining & Digital Humanities; Journal of  ... (JDMDH)
+- Data Mining; International Journal of Business Intelligence and  ...
+- Data Mining; International Journal of Knowledge Engineering and  ... (IJKEDM)
+- Data Mining, Modelling and Management; International Journal of  ...
+- Data Mining; Statistical Analysis and  ...
+- Data Privacy; Transactions on  ...
+- Data Quality (DQ)
+- Data Science
+- Data Science and Analytics; International Journal of  ...
+- Data Science and Engineering
+- Data Science; EPJ  ...
+- Data Science in the Mathematical Sciences; International Journal of  ... (IJDSMS)
+- Data Science Journal
+- Data Science; Knowledge Engineering and  ... (KEDS)
+- Data Semantics; Journal on  ... (JoDS)
+- Data Semantics; LNCS Journal on  ...
+- Data Systems; Industrial Management and  ...
+- Data Technologies and Applications
+- Data Warehousing and Mining; International Journal of  ...
+- Database - The Journal of Biological Databases and Curation
+- Database Management; Journal of  ...
+- Database Systems; ACM Transactions on  ... (TODS)
+- Database Systems; International Journal of Intelligent Information and  ... (IJIIDS)
+- Databases; Foundations and Trends in  ...
+- Databases; Open Journal of  ... (OJDB)
+- Datenbank Rundbrief (GI-FG 2.5.1)
+- Datenbank-Spektrum
+- Datenschutz und Datensicherheit (dud)
+- Decision Analysis
+- Decision Analysis; Risk and  ...
+- Decision Analytics
+- Decision Making; BMC Medical Informatics &  ...
+- Decision Sciences
+- Decision Sciences; Advances in  ...
+- Decision Sciences; International Journal of Strategic  ... (IJSDS)
+- Decision Support System Technology; International Journal of  ... (IJDSST)
+- Decision Support Systems
+- Decision Systems; Journal of  ...
+- Decision Technologies; Intelligent  ...
+- Defence Support Systems; International Journal of Intelligent  ... (IJIDSS)
+- Dependable and Secure Computing; IEEE Transactions on  ...
+- Dependable and Trustworthy Information Systems; International Journal of  ... (IJDTIS)
+- Design Automation for Embedded Systems
+- Design Automation of Electronic Systems; ACM Transactions on  ... (TODAES)
+- Design; Electronic Publishing - Origination, Dissemination and  ... (EPodd)
+- Design Technologies; International Journal of Art, Culture and  ... (IJACDT)
+- Designs, Codes and Cryptography
+- Development; Information Technology for  ...
+- Development; Journal of Software Engineering Research and  ... (JSERD)
+- Devices & Systems; IET Circuits,  ...
+- DGOV - Digital Government: Research and Practice
+- Dialogue and Discourse (D&D)
+- Didactics; Rhino  ...
+- Digital
+- Digital Applications in Archaeology and Cultural Heritage
+- Digital Communications and Networks
+- Digital Competence; International Journal of Digital Literacy and  ... (IJDLDC)
+- Digital Content Technology and its Applications; Journal of  ...
+- Digital Creativity
+- Digital Crime and Forensics; International Journal of  ... (IJDCF)
+- Digital Curation; International Journal of  ... (IJDC)
+- Digital Earth; International Journal of  ...
+- Digital Economy; International Journal of Innovation in the  ... (IJIDE)
+- Digital Evidence; International Journal of  ...
+- Digital Forensic Practice; Journal of  ...
+- Digital Forensics, Security and Law; Journal of  ...
+- Digital Government: Research and Practice (DGOV)
+- Digital Humanities; Frontiers in  ...
+- Digital Humanities; Journal of Data Mining &  ... (JDMDH)
+- Digital Humanities Quarterly
+- Digital Information; Journal of  ... (JoDI)
+- Digital Information Management; Journal of  ...
+- Digital Investigation; Forensic Science International:  ...
+- Digital Libraries; Bulletin of the IEEE Technical Committee on  ... (TCDL Bulletin)
+- Digital Libraries; International Journal on  ... (JODL)
+- Digital Libraries Journal; Russian  ...
+- Digital Library Perspectives
+- Digital Library Systems; International Journal of  ... (IJDLS)
+- Digital Literacy and Digital Competence; International Journal of  ... (IJDLDC)
+</details>
+
+
+<details>
+<summary>E</summary>
+
+- E-Adoption; International Journal of  ... (IJEA)
+- e-Business; EAI Endorsed Transactions on  ...
+- E-Business Management; Information Systems and  ... (ISeB)
+- E-Business Research; International Journal of  ... (IJEBR)
+- e-Collaboration; International Journal of  ... (IJeC)
+- E-Entrepreneurship and Innovation; International Journal of  ...
+- E-Health and Medical Communications; International Journal of  ... (IJEHMC)
+- e-Informatica Software Engineering Journal
+- e-Minds: International Journal on Human-Computer Interaction
+- E-Politics; International Journal of  ... (IJEP)
+- E-Services and Mobile Applications; International Journal of  ... (IJESMA)
+- e-Technology; International Arab Journal of  ...
+- EAI Endorsed Transactions on Ambient Systems
+- EAI Endorsed Transactions on Cloud Systems
+- EAI Endorsed Transactions on Cognitive Communications
+- EAI Endorsed Transactions on Collaborative Computing
+- EAI Endorsed Transactions on Complex Systems
+- EAI Endorsed Transactions on Context-aware Systems and Applications
+- EAI Endorsed Transactions on Creative Technologies
+- EAI Endorsed Transactions on e-Business
+- EAI Endorsed Transactions on e-Learning
+- EAI Endorsed Transactions on Energy Web
+- EAI Endorsed Transactions on Future Intelligent Educational Environments
+- EAI Endorsed Transactions on Industrial Networks and Intelligent Systems
+- EAI Endorsed Transactions on Mobile Communications and Applications
+- EAI Endorsed Transactions on Pervasive Health and Technology
+- EAI Endorsed Transactions on Scalable Information Systems
+- EAI Endorsed Transactions on Security and Safety
+- EAI Endorsed Transactions on Self-Adaptive Systems
+- EAI Endorsed Transactions on Serious Games
+- EAI Endorsed Transactions on Ubiquitous Environments
+- EAI Endorsed Transactions on Wireless Spectrum
+- Earth Science Informatics
+- EASST; Electronic Communication of the  ...
+- EATCS; Bulletin of the  ...
+- ECCC - Electronic Colloquium on Computational Complexity
+- Ecological Informatics
+- Economic Theory; Journal of  ...
+- Economics and Computation; ACM Transactions on  ...
+- Economy; International Journal of Innovation in the Digital  ... (IJIDE)
+- Education and Information Technologies
+- Education; Computer Applications in Engineering  ...
+- Education for Information
+- Education; Informatics in  ...
+- Education; International Journal of Artificial Intelligence in  ...
+- Education; International Journal of Cyber Ethics in  ... (IJCEE)
+- Education; International Journal of Learning Analytics and Artificial Intelligence for  ... (iJAI)
+- Education; International Journal of Quality Assurance in Engineering and Technology  ... (IJQAETE)
+- Education; Journal of Information Systems  ...
+- Educational Environments; EAI Endorsed Transactions on Future Intelligent  ...
+- Educational Marketing; International Journal of Technology and  ... (IJTEM)
+- Educational Technology; British Journal of  ... (BJET)
+- Educational Technology & Society; Journal of  ...
+- Edutainment; Transactions on  ...
+- EG - Electronic Government, an International Journal
+- Egyptian Computer Science Journal
+- EJIS - European Journal of Information Systems
+- EJISDC - Electronic Journal of Information Systems in Developing Countries
+- EJLT - European Journal of Law and Technology
+- eLearn Magazine
+- Electrical and Computer Engineering; Journal of  ...
+- Electrical Engineering and Computer Science; Periodica Polytechnica  ...
+- Electrical Engineering and Computer Sciences; Turkish Journal of  ...
+- Electronic Business; International Journal of  ... (IJEB)
+- Electronic Business Management; International Journal of  ... (IJEBM)
+- Electronic Colloquium on Computational Complexity (ECCC)
+- Electronic Commerce in Organizations; Journal of  ... (JECO)
+- Electronic Commerce; International Journal of  ...
+- Electronic Commerce; Journal of Organizational Computing and  ...
+- Electronic Commerce Research
+- Electronic Commerce Research and Applications
+- Electronic Commerce Research; Journal of  ...
+- Electronic Communication of the EASST
+- Electronic Design Automation; Foundations and Trends in  ...
+- Electronic Express; IEICE  ...
+- Electronic Government, an International Journal (EG)
+- Electronic Government Research; International Journal of  ... (IJEGR)
+- Electronic Healthcare; International Journal of  ... (IJEH)
+- Electronic Imaging; Journal of  ...
+- electronic journal; CLEI  ...
+- Electronic Journal of Combinatorics; The  ...
+- Electronic Journal of Graph Theory and Applications
+- Electronic Journal of Information Systems in Developing Countries (EJISDC)
+- Electronic Library; The  ...
+- Electronic Markets
+- Electronic Notes in Discrete Mathematics
+- Electronic Publishing - Origination, Dissemination and Design (EPodd)
+- Electronic Publishing; Journal of  ... (JEP)
+- Electronic Security and Digital Forensics; International Journal of  ... (IJESDF)
+- Electronic Systems; ACM Transactions on Design Automation of  ... (TODAES)
+- Electronic Systems; IEEE Transactions on Aerospace and  ...
+- Electronic Testing; Journal of  ...
+- Electronic Transactions on Artificial Intelligence (ETAI)
+- Electronics; IEICE Transactions on  ...
+- Elektrotechnik und Informationstechnik
+- Embedded and Real-Time Communication Systems; International Journal of  ... (IJERTCS)
+- Embedded Computing; Journal of  ...
+- Embedded Computing Systems; ACM Transactions on  ...
+- Embedded Systems; Design Automation for  ...
+- Embedded Systems; IACR Transactions on Cryptographic Hardware and  ... (TCHES)
+</details>
+
+
+<details>
+<summary>F</summary>
+
+- F1000Research
+- Field Robotics
+- Field Robotics; Journal of  ...
+- Finance; Algorithmic  ...
+- Finance and Management; Intelligent Systems in Accounting,  ...
+- Finance and Stochastics
+- Financial Mathematics; SIAM Journal on  ...
+- Finite Fields and Their Applications
+- First Monday
+- Fog Computing; International Journal of  ... (IJFC)
+- FoMaC - LNCS Transactions on Foundations for Mastering Change
+- Forensic Practice; Journal of Digital  ...
+- Forensic Science International: Digital Investigation
+- Forensics and Security; IEEE Transactions on Information  ...
+- Forensics; International Journal of Digital Crime and  ... (IJDCF)
+- Forensics; International Journal of Electronic Security and Digital  ... (IJESDF)
+- Formal Aspects of Computing
+- Formal Logic; Notre Dame Journal of  ...
+- Formal Methods in System Design
+- Formal Proofs; Archive of  ...
+- Formalized Mathematics
+- Formalized Reasoning; Journal of  ...
+- Foundations and Trends in Communications and Information Theory
+- Foundations and Trends in Computer Graphics and Vision
+- Foundations and Trends in Databases
+- Foundations and Trends in Electronic Design Automation
+- Foundations and Trends in Human-Computer Interaction
+- Foundations and Trends in Information Retrieval
+- Foundations and Trends in Information Systems
+- Foundations and Trends in Machine Learning
+- Foundations and Trends in Microeconomics
+- Foundations and Trends in Networking
+- Foundations and Trends in Optimization
+- Foundations and Trends in Privacy and Security
+- Foundations and Trends in Programming Languages
+- Foundations and Trends in Robotics
+- Foundations and Trends in Signal Processing
+- Foundations and Trends in Stochastic Systems
+- Foundations and Trends in Systems and Control
+- Foundations and Trends in Technology, Information and Operations Management
+- Foundations and Trends in Theoretical Computer Science
+- Foundations and Trends in Web Science
+- Foundations for Mastering Change; LNCS Transactions on  ... (FoMaC)
+- Foundations of Computational Mathematics
+- Foundations of Computer Science; International Journal of  ... (IJFCS)
+- Franklin Institute; Journal of the  ...
+- Frontiers in Applied Mathematics and Statistics
+- Frontiers in Artificial Intelligence
+- Frontiers in Big Data
+- Frontiers in Bioinformatics
+- Frontiers in Blockchain
+- Frontiers in Computational Neuroscience
+- Frontiers in Computer Science
+- Frontiers in Digital Health
+- Frontiers in Digital Humanities
+- Frontiers in ICT
+- Frontiers in Neuroinformatics
+- Frontiers in Neurorobotics
+- Frontiers in Research Metrics and Analytics
+- Frontiers in Robotics and AI
+- Frontiers in Virtual Reality
+- Frontiers of Computer Science
+- Frontiers of Information Technology & Electronic Engineering
+- Functional and Logic Programming; Journal of  ...
+- Functional Informatics and Personalised Medicine; International Journal of  ... (IJFIPM)
+- Functional Programming; Journal of  ...
+- Fundamenta Informaticae
+- Fundamentals of Electronics, Communications and Computer Sciences; IEICE Transactions on  ...
+- Future Generation Computer Systems
+- Future Intelligent Educational Environments; EAI Endorsed Transactions on  ...
+- Future Internet
+- Fuzziness and Knowledge-Based Systems; International Journal of Uncertainty,  ...
+- Fuzzy Logic and Intelligent Systems; International Journal of  ...
+- Fuzzy Optimization and Decision Making
+- Fuzzy Sets and Systems
+- Fuzzy Sets and Systems; Transactions on  ... (TFSS)
+- Fuzzy System Applications; International Journal of  ... (IJFSA)
+- Fuzzy Systems; Advances in  ...
+- Fuzzy Systems; IEEE Transactions on  ...
+- Fuzzy Systems; International Journal of  ... (IJFS)
+- Game Development; Journal of  ... (JOGD)
+- Game Studies
+- Game Theory; International Journal of  ...
+- Game Theory Review; International  ...
+- Game-Based Learning; International Journal of  ... (IJGBL)
+- Games
+- Games and Applications; Dynamic  ...
+- Games and Culture
+- Games and Economic Behavior
+- Games Association; Journal of the International Computer  ...
+- Games: Research and Practice
+- Games & Simulation; International Journal of Intelligent  ...
+- Gaming and Computer-Mediated Simulations; International Journal of  ... (IJGCMS)
+- General Systems; International Journal of  ...
+- Genetic Programming and Evolvable Machines
+- Genomics, Proteomics & Bioinformatics
+- Geo-Information; ISPRS International Journal of  ...
+- Geo-spatial Information Science
+- Geographic Information System; Journal of  ...
+- Geographical Information Science; International Journal of  ... (IJGIS)
+</details>
+
+
+<details>
+<summary>G</summary>
+
+- Game Development; Journal of  ... (JOGD)
+- Game Studies
+- Game Theory; International Journal of  ...
+- Game Theory Review; International  ...
+- Game-Based Learning; International Journal of  ... (IJGBL)
+- Games
+- Games and Applications; Dynamic  ...
+- Games and Culture
+- Games and Economic Behavior
+- Games Association; Journal of the International Computer  ...
+- Games: Research and Practice
+- Games & Simulation; International Journal of Intelligent  ...
+- Gaming and Computer-Mediated Simulations; International Journal of  ... (IJGCMS)
+- General Systems; International Journal of  ...
+- Genetic Programming and Evolvable Machines
+- Genomics, Proteomics & Bioinformatics
+- Geo-Information; ISPRS International Journal of  ...
+- Geo-spatial Information Science
+- Geographic Information System; Journal of  ...
+- Geographical Information Science; International Journal of  ... (IJGIS)
+- Geographical Systems; Journal of  ...
+- GeoInformatica
+- Geoinformatik; AGIT - Journal für Angewandte  ...
+- Geoinformation; International Journal of Applied Earth Observation and  ...
+- Géomatique; Revue Internationale de  ...
+- Geoscience and Remote Sensing; IEEE Transactions on  ...
+- Geoscience and Remote Sensing Letters; IEEE  ...
+- Geospatial Research; International Journal of Applied  ... (IJAGR)
+- GetMobile: Mobile Computing and Communications
+- GIS; Annals of  ...
+- GIS; Transactions in  ...
+- Global Information Management; Journal of  ... (JGIM)
+- Global Optimization; Journal of  ...
+- Glottometrics
+- Government Information Quarterly
+- Government Research; International Journal of Electronic  ... (IJEGR)
+- Grammars
+- Granular Computing, Rough Sets and Intelligent Systems; International Journal of  ... (IJGCRSIS)
+- Graph Algorithms and Applications; Journal of  ...
+- Graph Theory and Applications; Electronic Journal of  ...
+- Graph Theory; Discussiones Mathematicae  ...
+- Graph Theory; Journal of  ...
+- Graphical Models
+- Graphics; ACM Transactions on  ... (TOG)
+- Graphics and Visual Computing
+- Graphics Tools; Journal of  ...
+- Graphs and Combinatorics
+- Graphs and Combinatorics; AKCE International Journal of  ...
+- Green Communications and Networking; IEEE Transactions on  ...
+- Green Computing; International Journal of  ... (IJGC)
+- Grey Systems: Theory and Application
+- Grid and High Performance Computing; International Journal of  ... (IJGHPC)
+- Grid and Utility Computing; International Journal of  ... (IJGUC)
+- Grid Computing; Journal of  ...
+- Grid Services; International Journal of Web and  ... (IJWGS)
+- Grid Systems; Multiagent and  ...
+- Groups Complexity Cryptology
+- Handheld Computing Research; International Journal of  ... (IJHCR)
+- Haptics; IEEE Transactions on  ...
+- Hardware and Systems Security; Journal of  ...
+- HCIS - Human-centric Computing and Information Sciences
+- HEALTH - ACM Transactions on Computing for Healthcare
+- Health Informatics and Bioinformatics; Network Modeling Analysis in  ...
+- Health Informatics Journal
+- Health Information Science and Systems
+- Healthcare Information Systems and Informatics; International Journal of  ... (IJHISI)
+- Healthcare; International Journal of Computers in  ... (IJCIH)
+- Healthcare; International Journal of Electronic  ... (IJEH)
+- Heuristics; Journal of  ...
+- High Performance Computing and Networking; International Journal of  ... (IJHPCN)
+- High Performance Computing Applications; International Journal of  ...
+- High Performance Systems Architecture; International Journal of  ... (IJHPSA)
+- High Speed Computing; International Journal of  ...
+- High Speed Networks; Journal of  ...
+- High Technology Law; Journal on Telecommunications and  ...
+- Higher Education; Journal of Computing in  ...
+- Higher-Order and Symbolic Computation
+- History and Computing
+- History of Computing; IEEE Annals of the  ...
+- HMD - Praxis der Wirtschaftsinformatik
+- Human Capital and Information Technology Professionals; International Journal of  ... (IJHCITP)
+- Human Computation
+- Human Computer Interaction; International Journal of Mobile  ... (IJMHCI)
+- Human Development; International Journal of Information Communication Technologies and  ... (IJICTHD)
+- Human Factors
+- Human Interaction; International Journal of Technology and  ... (IJTHI)
+- Human-centric Computing and Information Sciences (HCIS)
+- Human-Centric Intelligent Systems
+- Human-Computer Interaction
+- Human-Computer Interaction; Advances in  ...
+- Human-Computer Interaction; AIS Transactions on  ... (AIS THCI)
+- Human-Computer Interaction; e-Minds: International Journal on  ...
+- Human-Computer Interaction; International Journal of  ...
+- Human-Computer Interaction; Proceedings of the ACM on  ...
+- Human-Computer Studies; International Journal of  ...
+- Human-Machine Systems; IEEE Transactions on  ...
+- Human-Robot Interaction; ACM Transactions on  ... (THRI)
+- Humanities and Arts Computing; International Journal of  ...
+- Humanities Quarterly; Digital  ...
+- Humanized Computing; Journal of Ambient Intelligence and  ...
+</details>
+
+
+<details>
+<summary>H</summary>
+
+- Handheld Computing Research; International Journal of  ... (IJHCR)
+- Haptics; IEEE Transactions on  ...
+- Hardware and Systems Security; Journal of  ...
+- HCIS - Human-centric Computing and Information Sciences
+- HEALTH - ACM Transactions on Computing for Healthcare
+- Health Informatics and Bioinformatics; Network Modeling Analysis in  ...
+- Health Informatics Journal
+- Health Information Science and Systems
+- Healthcare Information Systems and Informatics; International Journal of  ... (IJHISI)
+- Healthcare; International Journal of Computers in  ... (IJCIH)
+- Healthcare; International Journal of Electronic  ... (IJEH)
+- Heuristics; Journal of  ...
+- High Performance Computing and Networking; International Journal of  ... (IJHPCN)
+- High Performance Computing Applications; International Journal of  ...
+- High Performance Systems Architecture; International Journal of  ... (IJHPSA)
+- High Speed Computing; International Journal of  ...
+- High Speed Networks; Journal of  ...
+- High Technology Law; Journal on Telecommunications and  ...
+- Higher Education; Journal of Computing in  ...
+- Higher-Order and Symbolic Computation
+- History and Computing
+- History of Computing; IEEE Annals of the  ...
+- HMD - Praxis der Wirtschaftsinformatik
+- Human Capital and Information Technology Professionals; International Journal of  ... (IJHCITP)
+- Human Computation
+- Human Computer Interaction; International Journal of Mobile  ... (IJMHCI)
+- Human Development; International Journal of Information Communication Technologies and  ... (IJICTHD)
+- Human Factors
+- Human Interaction; International Journal of Technology and  ... (IJTHI)
+- Human-centric Computing and Information Sciences (HCIS)
+- Human-Centric Intelligent Systems
+- Human-Computer Interaction
+- Human-Computer Interaction; Advances in  ...
+- Human-Computer Interaction; AIS Transactions on  ... (AIS THCI)
+- Human-Computer Interaction; e-Minds: International Journal on  ...
+- Human-Computer Interaction; International Journal of  ...
+- Human-Computer Interaction; Proceedings of the ACM on  ...
+- Human-Computer Studies; International Journal of  ...
+- Human-Machine Systems; IEEE Transactions on  ...
+- Human-Robot Interaction; ACM Transactions on  ... (THRI)
+- Humanities and Arts Computing; International Journal of  ...
+- Humanities Quarterly; Digital  ...
+- Humanized Computing; Journal of Ambient Intelligence and  ...
+- Humanoid Robotics; International Journal of  ...
+- Hybrid Intelligent Systems; International Journal of  ...
+- Hypermedia
+- Hypermedia and Multimedia; New Review of  ... (NRHM)
+- i-com - Journal of Interactive Media
+- IACR Communications in Cryptology (CiC)
+- IACR Cryptology ePrint Archive
+- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
+- IACR Transactions on Symmetric Cryptology (ToSC)
+- IAJIT - International Arab Journal of Information Technology
+- Iberoamericana de Tecnologías del Aprendizaje; Revista  ...
+- IBiS - Informatische Bildung in Schulen
+- IBIS - International Journal of Interoperability in Business Information Systems
+- IBM Journal of Research and Development
+- IBM Systems Journal
+- ICT Express
+- ICT; Frontiers in  ...
+- ICT Research and Development in Africa; International Journal of  ... (IJICTRDA)
+- ICT Research in Africa and the Middle East; International Journal of  ... (IJICTRAME)
+- ICT Standardization; Journal of  ...
+- Identification and Control; International Journal of Modelling,  ... (IJMIC)
+- IEE Proceedings - Software
+- IEEE Access
+- IEEE/ACM Transactions on Audio, Speech and Language Processing
+- IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
+- IEEE/ACM Transactions on Networking (TON)
+- IEEE Annals of the History of Computing
+- IEEE/CAA Journal of Automatica Sinica
+- IEEE Cloud Computing
+- IEEE Communications Letters
+- IEEE Communications Magazine
+- IEEE Communications Standards Magazine
+- IEEE Communications Surveys and Tutorials
+- IEEE Computational Intelligence Magazine
+- IEEE Computer
+- IEEE Computer Architecture Letters
+- IEEE Computer Graphics and Applications
+- IEEE Concurrency
+- IEEE Consumer Electronics Magazine
+- IEEE Control Systems Letters
+- IEEE Data Engineering Bulletin
+- IEEE Design & Test (D&T)
+- IEEE Distributed Systems Online
+- IEEE Embedded Systems Letters
+- IEEE Geoscience and Remote Sensing Letters
+- IEEE Instrumentation & Measurement Magazine
+- IEEE Intelligent Informatics Bulletin
+- IEEE Intelligent Systems
+- IEEE Intelligent Transportation Systems Magazine
+- IEEE Internet Computing
+- IEEE Internet of Things Journal
+- IEEE Internet of Things Magazine
+- IEEE Journal of Biomedical and Health Informatics
+- IEEE Journal of Emerging and Selected Topics in Circuits and Systems
+- IEEE Journal of Selected Areas in Communications
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- IEEE Journal of Selected Topics in Signal Processing
+</details>
+
+
+<details>
+<summary>I</summary>
+
+- i-com - Journal of Interactive Media
+- IACR Communications in Cryptology (CiC)
+- IACR Cryptology ePrint Archive
+- IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES)
+- IACR Transactions on Symmetric Cryptology (ToSC)
+- IAJIT - International Arab Journal of Information Technology
+- Iberoamericana de Tecnologías del Aprendizaje; Revista  ...
+- IBiS - Informatische Bildung in Schulen
+- IBIS - International Journal of Interoperability in Business Information Systems
+- IBM Journal of Research and Development
+- IBM Systems Journal
+- ICT Express
+- ICT; Frontiers in  ...
+- ICT Research and Development in Africa; International Journal of  ... (IJICTRDA)
+- ICT Research in Africa and the Middle East; International Journal of  ... (IJICTRAME)
+- ICT Standardization; Journal of  ...
+- Identification and Control; International Journal of Modelling,  ... (IJMIC)
+- IEE Proceedings - Software
+- IEEE Access
+- IEEE/ACM Transactions on Audio, Speech and Language Processing
+- IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
+- IEEE/ACM Transactions on Networking (TON)
+- IEEE Annals of the History of Computing
+- IEEE/CAA Journal of Automatica Sinica
+- IEEE Cloud Computing
+- IEEE Communications Letters
+- IEEE Communications Magazine
+- IEEE Communications Standards Magazine
+- IEEE Communications Surveys and Tutorials
+- IEEE Computational Intelligence Magazine
+- IEEE Computer
+- IEEE Computer Architecture Letters
+- IEEE Computer Graphics and Applications
+- IEEE Concurrency
+- IEEE Consumer Electronics Magazine
+- IEEE Control Systems Letters
+- IEEE Data Engineering Bulletin
+- IEEE Design & Test (D&T)
+- IEEE Distributed Systems Online
+- IEEE Embedded Systems Letters
+- IEEE Geoscience and Remote Sensing Letters
+- IEEE Instrumentation & Measurement Magazine
+- IEEE Intelligent Informatics Bulletin
+- IEEE Intelligent Systems
+- IEEE Intelligent Transportation Systems Magazine
+- IEEE Internet Computing
+- IEEE Internet of Things Journal
+- IEEE Internet of Things Magazine
+- IEEE Journal of Biomedical and Health Informatics
+- IEEE Journal of Emerging and Selected Topics in Circuits and Systems
+- IEEE Journal of Selected Areas in Communications
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- IEEE Journal of Selected Topics in Signal Processing
+- IEEE Journal of Solid-State Circuits
+- IEEE Journal on Selected Areas in Information Theory
+- IEEE Micro
+- IEEE MultiMedia
+- IEEE Network
+- IEEE Networking Letters
+- IEEE Open Journal of Circuits and Systems
+- IEEE Open Journal of the Communications Society
+- IEEE Open Journal of the Computer Society
+- IEEE Pervasive Computing
+- IEEE; Proceedings of the  ...
+- IEEE Robotics and Automation Letters
+- IEEE Robotics & Automation Magazine
+- IEEE Security & Privacy
+- IEEE Signal Processing Letters
+- IEEE Signal Processing Magazine
+- IEEE Software
+- IEEE Systems Journal
+- IEEE Technical Committee on Digital Libraries; Bulletin of the  ... (TCDL Bulletin)
+- IEEE Technology and Society Magazine
+- IEEE Transactions on Aerospace and Electronic Systems
+- IEEE Transactions on Affective Computing
+- IEEE Transactions on Artificial Intelligence
+- IEEE Transactions on Automatic Control
+- IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Big Data
+- IEEE Transactions on Biomedical Circuits and Systems
+- IEEE Transactions on Biomedical Engineering
+- IEEE Transactions on Biometrics, Behavior, and Identity Science
+- IEEE Transactions on Broadcasting
+- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Circuits and Systems I: Regular Papers
+- IEEE Transactions on Circuits and Systems II: Express Briefs
+- IEEE Transactions on Cloud Computing
+- IEEE Transactions on Cognitive and Developmental Systems
+- IEEE Transactions on Cognitive Communications and Networking (TCCN)
+- IEEE Transactions on Communications
+- IEEE Transactions on Computational Imaging
+- IEEE Transactions on Computational Social Systems
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+- IEEE Transactions on Computers
+- IEEE Transactions on Consumer Electronics
+- IEEE Transactions on Control of Network Systems
+- IEEE Transactions on Control Systems Technology (TCST)
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Dependable and Secure Computing
+- IEEE Transactions on Education
+</details>
+
+
+<details>
+<summary>J</summary>
+
+- JACIII - Journal of Advanced Computational Intelligence and Intelligent Informatics
+- JAEC - Journal of Advanced Engineering and Computation
+- JAIR - Journal of Artificial Intelligence Research
+- JAIS - Journal of the Association for Information Systems
+- JAISCR - Journal of Artificial Intelligence and Soft Computing Research
+- JAMC - Journal of Applied Mathematics and Computing
+- JAMIA - Journal of the American Medical Informatics Association
+- JAMRIS - Journal of Automation, Mobile Robotics and Intelligent Systems
+- Japan; Systems and Computers in  ...
+- JASIST - Journal of the Association for Information Science and Technology
+- JCB - Journal of Computational Biology
+- JCD - ACM Journal of Computer Documentation
+- JCGS - Journal of Computational and Graphical Statistics
+- JCIS - Journal of Computer Information Systems
+- JCIT - Journal of Cases on Information Technology
+- JCP - Journal of Cybersecurity and Privacy
+- JCS - Journal of Computer Science
+- JCS&T - Journal of Computer Science and Technology
+- JCSE - Journal of Computing Science and Engineering
+- JCSS - Journal of Computational Social Science
+- JCSS - Journal of Computer and System Sciences
+- JCST - Journal of Computer Science and Technology
+- JCTA - Journal of Combinatorial Theory, Series A
+- JCTB - Journal of Combinatorial Theory, Series B
+- JDIS - Journal of Data and Information Science
+- JDMDH - Journal of Data Mining & Digital Humanities
+- JDSSV - Journal of Data Science, Statistics, and Visualisation
+- JEA - ACM Journal of Experimental Algorithmics
+- JEC - Journal of Edge Computing
+- JECO - Journal of Electronic Commerce in Organizations
+- JEP - Journal of Electronic Publishing
+- JETAI - Journal of Experimental and Theoretical Artificial Intelligence
+- JGIM - Journal of Global Information Management
+- JIDM - Journal of Information and Data Management
+- JIHMSP - Journal of Information Hiding and Multimedia Signal Processing
+- JIIS - Journal of Intelligent Information Systems
+- JILSA - Journal of Intelligent Learning Systems and Applications
+- JILT - Journal of Information, Law and Technology
+- JIS - Journal of Integer Sequences
+- JIS - Journal on Interactive Systems
+- JISIS - Journal of Internet Services and Information Security
+- JIT - Journal of Information and Telecommunication
+- JITE:DC - Journal of Information Technology Education: Discussion Cases
+- JITE:IIP - Journal of Information Technology Education: Innovations in Practice
+- JITE:Research - Journal of Information Technology Education: Research
+- JITM - Journal of Information Technology Management
+- JITR - Journal of Information Technology Research
+- JITTA - Journal of Information Technology Theory and Application
+- JLA - Journal of Learning Analytic
+- JLCL - Journal for Language Technology and Computational Linguistics
+- JMC - Journal of Membrane Computing
+- JMIHI - Journal of Medical Imaging and Health Informatics
+- JMIS - Journal of Multimedia Information System
+- JMLR - Journal of Machine Learning Research
+- JMM - Journal of Mobile Multimedia
+- JNI - Journal of Network Intelligence
+- JNIT - Journal of Next Generation Information Technology
+- JoCG - Journal of Computational Geometry
+- JOCN - Journal of Optical Communications and Networking
+- JoDI - Journal of Digital Information
+- JODL - International Journal on Digital Libraries
+- JoDS - Journal on Data Semantics
+- JOEUC - Journal of Organizational and End User Computing
+- JOGD - Journal of Game Development
+- JOLIS - Journal of Librarianship and Information Science
+- JoLLI - Journal of Logic, Language and Information
+- JOLPE - Journal of Low Power Electronics
+- JOOP - Journal of Object-Oriented Programming
+- JOSIS - Journal of Spatial Information Science
+- JOSS - Journal of Open Source Software
+- Journal; Bell Labs Technical  ...
+- Journal; Business Process Management  ...
+- journal; CLEI electronic  ...
+- Journal; Computer Music  ...
+- Journal; Data Science  ...
+- Journal; Digital Technical  ...
+- Journal for Language Technology and Computational Linguistics (JLCL)
+- Journal für Angewandte Geoinformatik; AGIT -  ...
+- Journal; Information Resources Management  ... (IRMJ)
+- Journal of 3-D Information Modeling; International  ... (IJ3DIM)
+- Journal of Actor-Network Theory and Technological Innovation; International  ... (IJANTTI)
+- Journal of Ad Hoc and Ubiquitous Computing; International  ... (IJAHUC)
+- Journal of Adaptive, Resilient and Autonomic Systems; International  ... (IJARAS)
+- Journal of Advanced Computational Intelligence and Intelligent Informatics (JACIII)
+- Journal of Advanced Corporate Learning; International  ... (iJAC)
+- Journal of Advanced Engineering and Computation (JAEC)
+- Journal of Advanced Intelligence Paradigms; International  ... (IJAIP)
+- Journal of Advanced Media and Communication; International  ... (IJAMC)
+- Journal of Advanced Operations Management; International  ... (IJAOM)
+- Journal of Advanced Pervasive and Ubiquitous Computing; International  ... (IJAPUC)
+- Journal of Advances in Information Fusion
+- Journal of Aerospace Information Systems
+- Journal of Agent Technologies and Systems; International  ... (IJATS)
+- Journal of Agent-Oriented Software Engineering; International  ... (IJAOSE)
+- Journal of Agricultural and Environmental Information Systems; International  ... (IJAEIS)
+- Journal of Algebra and Computation; International  ... (IJAC)
+- Journal of Algorithms
+- Journal of Ambient Computing and Intelligence; International  ... (IJACI)
+- Journal of Ambient Intelligence and Humanized Computing
+- Journal of Ambient Intelligence and Smart Environments
+</details>
+
+
+<details>
+<summary>K</summary>
+
+- KAIS - Knowledge and Information Systems
+- KEDS - Knowledge Engineering and Data Science
+- KER - The Knowledge Engineering Review
+- KI - Künstliche Intelligenz
+- King Saud University - Computer and Information Sciences; Journal of  ...
+- Knowledge and Data Engineering; IEEE Transactions on  ...
+- Knowledge and Information Systems (KAIS)
+- Knowledge and Learning; International Journal of  ...
+- Knowledge and Systems Science; International Journal of  ... (IJKSS)
+- Knowledge and Web Intelligence; International Journal of  ... (IJKWI)
+- Knowledge Development; International Journal of Sociotechnology and  ... (IJSKD)
+- Knowledge Discovery from Data; ACM Transactions on  ... (TKDD)
+- Knowledge Discovery in Bioinformatics; International Journal of  ... (IJKDB)
+- Knowledge Engineering and Data Mining; International Journal of  ... (IJKEDM)
+- Knowledge Engineering and Data Science (KEDS)
+- Knowledge Engineering and Soft Data Paradigms; International Journal of  ... (IJKESDP)
+- Knowledge Engineering; Expert Systems - The Journal of  ...
+- Knowledge Engineering; International Journal of Software Engineering and  ... (IJSEKE)
+- Knowledge Engineering Review; The  ... (KER)
+- Knowledge Extraction; Machine Learning and  ...
+- Knowledge Management; International Journal of  ... (IJKM)
+- Knowledge Management; Journal of  ...
+- Knowledge, Systems Management; Information,  ...
+- Knowledge-Based and Intelligent Engineering Systems; International Journal of  ...
+- Knowledge-Based Organizations; International Journal of  ... (IJKBO)
+- Knowledge-Based Systems
+- Knowledge-Based Systems; International Journal of Uncertainty, Fuzziness and  ...
+- Kognitionswissenschaft
+- KSII Transactions on Internet and Information Systems
+- Künstliche Intelligenz (KI)
+- Kybernetes
+- Kybernetika
+- Language and Linguistics Compass
+- Language Learning and Teaching; International Journal of Computer-Assisted  ... (IJCALLT)
+- Language Modelling; Journal of  ...
+- Language Resources and Evaluation (LRE)
+- Language Technology and Computational Linguistics; Journal for  ... (JLCL)
+- Languages; Journal of Computer  ... (COLA)
+- Large-Scale Data- and Knowledge-Centered Systems; Transactions on  ...
+- Law and Information Technology; International Journal of  ...
+- Law and Technology; European Journal of  ... (EJLT)
+- Law; Artificial Intelligence and  ...
+- Law; Journal of Digital Forensics, Security and  ...
+- Law; Journal on Telecommunications and High Technology  ...
+- Le Monde des Utilisateurs de L'Analyse de Données (Modulad)
+- Learned Publishing
+- Learning Analytics and Artificial Intelligence for Education; International Journal of  ... (iJAI)
+- Learning and Cybernetics; International Journal of Machine  ...
+- Learning and Teaching Technologies; International Journal of Web-Based  ... (IJWLTT)
+- Learning Environments; Interactive  ...
+- Learning Environments; International Journal of Social Media and Interactive  ... (IJSMILE)
+- Learning Environments; International Journal of Virtual and Personal  ... (IJVPLE)
+- Learning; International Journal of Cyber Behavior, Psychology and  ... (IJCBPL)
+- Learning; International Journal of Knowledge and  ...
+- Learning Systems and Applications; Journal of Intelligent  ... (JILSA)
+- Learning Technologies; IEEE Transactions on  ... (TLT)
+- Learning Technology; International Journal of  ... (IJLT)
+- Ledger
+- Leibniz Transactions on Embedded Systems (LITES)
+- Letters; Engineering  ...
+- Letters; IEEE Communications  ...
+- Letters; IEEE Embedded Systems  ...
+- Letters; Internet Technology  ...
+- Letters; JSIAM  ...
+- Letters on Programming Languages and Systems; ACM  ... (LOPLAS)
+- Librarianship and Information Science; Journal of  ... (JOLIS)
+- Libraries; International Journal on Digital  ... (JODL)
+- Library Hi Tech
+- Library Systems; International Journal of Digital  ... (IJDLS)
+- Library Trends
+- Linear Algebra with Applications; Numerical  ...
+- Linguamática
+- Linguistics & Chinese Language Processing; International Journal of Computational  ...
+- Linguistics Compass; Language and  ...
+- Literacy and Digital Competence; International Journal of Digital  ... (IJDLDC)
+- LITES - Leibniz Transactions on Embedded Systems
+- LMS Journal of Computation and Mathematics
+- LNCS Journal on Data Semantics
+- LNCS Transactions on Aspect-Oriented Software Development (ToMC)
+- LNCS Transactions on Foundations for Mastering Change (FoMaC)
+- LNCS Transactions on Modularity and Composition (ToMC)
+- L'OBJET: Logiciel, Base de données, Réseaux (L'OBJET)
+- Location Based Services; Journal of  ...
+- LOG IN
+- Logic and Analysis; Journal of  ...
+- Logic and Computation; Journal of  ...
+- Logic in Computer Science; Methods of  ...
+- Logic; Journal of Mathematical  ...
+- Logic Journal of the IGPL
+- Logic, Language and Information; Journal of  ... (JoLLI)
+- Logic Programming; Journal of  ...
+- Logica; Studia  ...
+- Logica Universalis
+- Logical and Algebraic Methods in Programming; Journal of  ...
+- Logical Methods in Computer Science
+- Logics and their Applications; IfCoLog Journal of  ...
+- ;login:
+- Logistics; EURO Journal on Transportation and  ...
+- Logistics; International Journal of Applied  ... (IJAL)
+- Logistics Research
+</details>
+
+
+<details>
+<summary>L</summary>
+
+- Language and Linguistics Compass
+- Language Learning and Teaching; International Journal of Computer-Assisted  ... (IJCALLT)
+- Language Modelling; Journal of  ...
+- Language Resources and Evaluation (LRE)
+- Language Technology and Computational Linguistics; Journal for  ... (JLCL)
+- Languages; Journal of Computer  ... (COLA)
+- Large-Scale Data- and Knowledge-Centered Systems; Transactions on  ...
+- Law and Information Technology; International Journal of  ...
+- Law and Technology; European Journal of  ... (EJLT)
+- Law; Artificial Intelligence and  ...
+- Law; Journal of Digital Forensics, Security and  ...
+- Law; Journal on Telecommunications and High Technology  ...
+- Le Monde des Utilisateurs de L'Analyse de Données (Modulad)
+- Learned Publishing
+- Learning Analytics and Artificial Intelligence for Education; International Journal of  ... (iJAI)
+- Learning and Cybernetics; International Journal of Machine  ...
+- Learning and Teaching Technologies; International Journal of Web-Based  ... (IJWLTT)
+- Learning Environments; Interactive  ...
+- Learning Environments; International Journal of Social Media and Interactive  ... (IJSMILE)
+- Learning Environments; International Journal of Virtual and Personal  ... (IJVPLE)
+- Learning; International Journal of Cyber Behavior, Psychology and  ... (IJCBPL)
+- Learning; International Journal of Knowledge and  ...
+- Learning Systems and Applications; Journal of Intelligent  ... (JILSA)
+- Learning Technologies; IEEE Transactions on  ... (TLT)
+- Learning Technology; International Journal of  ... (IJLT)
+- Ledger
+- Leibniz Transactions on Embedded Systems (LITES)
+- Letters; Engineering  ...
+- Letters; IEEE Communications  ...
+- Letters; IEEE Embedded Systems  ...
+- Letters; Internet Technology  ...
+- Letters; JSIAM  ...
+- Letters on Programming Languages and Systems; ACM  ... (LOPLAS)
+- Librarianship and Information Science; Journal of  ... (JOLIS)
+- Libraries; International Journal on Digital  ... (JODL)
+- Library Hi Tech
+- Library Systems; International Journal of Digital  ... (IJDLS)
+- Library Trends
+- Linear Algebra with Applications; Numerical  ...
+- Linguamática
+- Linguistics & Chinese Language Processing; International Journal of Computational  ...
+- Linguistics Compass; Language and  ...
+- Literacy and Digital Competence; International Journal of Digital  ... (IJDLDC)
+- LITES - Leibniz Transactions on Embedded Systems
+- LMS Journal of Computation and Mathematics
+- LNCS Journal on Data Semantics
+- LNCS Transactions on Aspect-Oriented Software Development (ToMC)
+- LNCS Transactions on Foundations for Mastering Change (FoMaC)
+- LNCS Transactions on Modularity and Composition (ToMC)
+- L'OBJET: Logiciel, Base de données, Réseaux (L'OBJET)
+- Location Based Services; Journal of  ...
+- LOG IN
+- Logic and Analysis; Journal of  ...
+- Logic and Computation; Journal of  ...
+- Logic in Computer Science; Methods of  ...
+- Logic; Journal of Mathematical  ...
+- Logic Journal of the IGPL
+- Logic, Language and Information; Journal of  ... (JoLLI)
+- Logic Programming; Journal of  ...
+- Logica; Studia  ...
+- Logica Universalis
+- Logical and Algebraic Methods in Programming; Journal of  ...
+- Logical Methods in Computer Science
+- Logics and their Applications; IfCoLog Journal of  ...
+- ;login:
+- Logistics; EURO Journal on Transportation and  ...
+- Logistics; International Journal of Applied  ... (IJAL)
+- Logistics Research
+- London Mathematical Society; Journal of the  ...
+- LOPLAS - ACM Letters on Programming Languages and Systems
+- Low Power Electronics; Journal of  ... (JOLPE)
+- LRE - Language Resources and Evaluation
+- Machine Intelligence; IEEE Transactions on Pattern Analysis and  ... (TPAMI)
+- Machine Intelligence Research
+- Machine Learning
+- Machine Learning and Cybernetics; International Journal of  ...
+- Machine Learning and Data Mining; Transactions on  ...
+- Machine Learning and Knowledge Extraction
+- Machine Learning; Foundations and Trends in  ...
+- Machine Learning Research; Journal of  ... (JMLR)
+- Machine Learning Research; Transactions on  ... (TMLR)
+- Machine Learning: Science and Technology
+- Machine Translation
+- Machine Vision and Applications
+- Management; Information Systems  ...
+- Management Information Systems; ACM Transactions on  ...
+- Management Information Systems; Journal of  ...
+- Management; Intelligent Systems in Accounting, Finance and  ...
+- Management; International Journal of Information Systems for Crisis Response and  ... (IJISCRAM)
+- Management; International Journal of Information Technology and  ... (IJITM)
+- Management; International Journal of Multimedia Data Engineering and  ... (IJMDEM)
+- Management; International Journal of Services Technology and  ... (IJSTM)
+- Management of Data; Proceedings of the ACM on  ...
+- Management Science
+- Manufacturing; Journal of Intelligent  ...
+- Manufacturing, Materials, and Mechanical Engineering; International Journal of  ... (IJMMME)
+- Manufacturing Research; International Journal of  ... (IJMR)
+- Manufacturing & Service Operations Management
+- Manufacturing Technology and Management; International Journal of  ... (IJMTM)
+- Maple Transactions
+</details>
+
+
+<details>
+<summary>M</summary>
+
+- Machine Intelligence; IEEE Transactions on Pattern Analysis and  ... (TPAMI)
+- Machine Intelligence Research
+- Machine Learning
+- Machine Learning and Cybernetics; International Journal of  ...
+- Machine Learning and Data Mining; Transactions on  ...
+- Machine Learning and Knowledge Extraction
+- Machine Learning; Foundations and Trends in  ...
+- Machine Learning Research; Journal of  ... (JMLR)
+- Machine Learning Research; Transactions on  ... (TMLR)
+- Machine Learning: Science and Technology
+- Machine Translation
+- Machine Vision and Applications
+- Management; Information Systems  ...
+- Management Information Systems; ACM Transactions on  ...
+- Management Information Systems; Journal of  ...
+- Management; Intelligent Systems in Accounting, Finance and  ...
+- Management; International Journal of Information Systems for Crisis Response and  ... (IJISCRAM)
+- Management; International Journal of Information Technology and  ... (IJITM)
+- Management; International Journal of Multimedia Data Engineering and  ... (IJMDEM)
+- Management; International Journal of Services Technology and  ... (IJSTM)
+- Management of Data; Proceedings of the ACM on  ...
+- Management Science
+- Manufacturing; Journal of Intelligent  ...
+- Manufacturing, Materials, and Mechanical Engineering; International Journal of  ... (IJMMME)
+- Manufacturing Research; International Journal of  ... (IJMR)
+- Manufacturing & Service Operations Management
+- Manufacturing Technology and Management; International Journal of  ... (IJMTM)
+- Maple Transactions
+- Marketing; International Journal of Technology and Educational  ... (IJTEM)
+- Marketing Science
+- Markup Languages
+- Mass-Data Analysis of Images and Signals; Transactions on  ...
+- Mathematica Hungarica; Periodica  ...
+- Mathematical Analysis; SIAM Journal on  ...
+- Mathematical and Computational Forestry & Natural-Resource Sciences (MCFNS)
+- Mathematical and Computer Modelling
+- Mathematical Control and Information; IMA Journal of  ...
+- Mathematical Cryptology; Journal of  ...
+- Mathematical Foundations of Computing (MFC)
+- Mathematical Imaging and Vision; Journal of  ...
+- Mathematical Logic; Journal of  ...
+- Mathematical Logic Quarterly
+- Mathematical Logic; Reports on  ...
+- Mathematical Methods of Operations Research
+- Mathematical Modelling and Algorithms in Operations Research; Journal of  ...
+- Mathematical Modelling and Analysis
+- Mathematical Modelling and Numerical Optimisation; International Journal of  ... (IJMNO)
+- Mathematical Monthly; The American  ...
+- Mathematical Morphology - Theory and Applications (MMTA)
+- Mathematical Optimization; Open Journal of  ... (OJMO)
+- Mathematical Organization Theory; Computational &  ...
+- Mathematical Programming
+- Mathematical Programming Computation
+- Mathematical Sciences; International Journal of Mathematics and  ...
+- Mathematical Social Sciences
+- Mathematical Software; ACM Transactions on  ... (TOMS)
+- Mathematical Structures in Computer Science (MSCS)
+- Mathematics; American Journal of Computational  ...
+- Mathematics and Computers in Simulation
+- Mathematics and Mathematical Sciences; International Journal of  ...
+- Mathematics and Natural Computation; New  ...
+- Mathematics; Experimental  ...
+- Mathematics in Computer Science
+- Mathematics in Operational Research; International Journal of  ... (IJMOR)
+- Mathematics; International Journal of Computing Science and  ... (IJCSM)
+- Mathematics; Journal of Numerical  ...
+- Mathematics of Communications; Advances in  ... (AMC)
+- Mathematics of Computation
+- Mathematics of Control, Signals, and Systems
+- Mathematics of Data Science; SIAM Journal on  ... (SIMODS)
+- Mathematics of Operations Research
+- Mathematik; Numerische  ...
+- Matrix Analysis and Applications; SIAM Journal on  ...
+- MCFNS - Mathematical and Computational Forestry & Natural-Resource Sciences
+- Measurement and Analysis of Computing Systems; Proceedings of the ACM on  ... (POMACS)
+- Measurement Magazine; IEEE Instrumentation &  ...
+- Measurement Technologies and Instrumentation Engineering; International Journal on  ... (IJMTIE)
+- Mechanical Engineering; International Journal of Manufacturing, Materials, and  ... (IJMMME)
+- Mechanical Translation and Computational Linguistics
+- Mechatronic Systems and Control
+- Mechatronic Systems and Control
+- Mechatronics and Automation; International Journal of  ... (IJMA)
+- Media Psychology - Theories, Methods, and Applications; Journal of  ...
+- Medical and Biological Engineering and Computing
+- Medical Communications; International Journal of E-Health and  ... (IJEHMC)
+- Medical Engineering and Informatics; International Journal of  ... (IJMEI)
+- Medical Image Analysis
+- Medical Imaging; BMC  ...
+- Medical Imaging; IEEE Transactions on  ...
+- Medical Informatics Association; Journal of the American  ... (JAMIA)
+- Medical Informatics & Decision Making; BMC  ...
+- Medical Robotics Research; Journal of  ...
+- Medical Systems; Journal of  ...
+- Medicine; Computers in Biology and  ...
+- Medicine; Journal of Imaging Informatics in  ...
+- Meetings on Acoustics; Proceedings of  ... (POMA)
+- Memetic Computing
+- Metadata, Semantics and Ontologies; International Journal of  ...
+- Metaheuristic Computing; International Journal of Applied  ... (IJAMC)
+- Metaheuristics; International Journal of  ... (IJMHeur)
+</details>
+
+
+<details>
+<summary>N</summary>
+
+- Nano Communication Networks
+- Nanotechnology and Molecular Computation; International Journal of  ... (IJNMC)
+- National Academy of Sciences of the USA; Proceedings of the  ... (PNAS)
+- Natural Computation; New Mathematics and  ...
+- Natural Computing
+- Natural Computing Research; International Journal of  ... (IJNCR)
+- Natural Intelligence; International Journal of Cognitive Informatics and  ... (IJCINI)
+- Natural Language Engineering
+- Natural Language Processing Journal
+- Natural-Resource Sciences; Mathematical and Computational Forestry &  ... (MCFNS)
+- Nature
+- Nature Computational Science
+- Nature Machine Intelligence
+- Network
+- Network and Communication Technologies
+- Network and Computer Applications; Journal of  ...
+- Network and Service Management; IEEE Transactions on  ...
+- Network and Systems Management; Journal of  ...
+- Network Communications; Photonic  ...
+- Network; IEEE  ...
+- Network Intelligence; Journal of  ... (JNI)
+- Network Management; International Journal of  ...
+- Network Modeling Analysis in Health Informatics and Bioinformatics
+- Network Protocols and Algorithms
+- Network Science
+- Network Science and Engineering; IEEE Transactions on  ...
+- Network Science; Applied  ...
+- Network Security
+- Network Security; International Journal of  ...
+- Networked and Distributed Computing; International Journal of  ... (IJNDC)
+- Networking and Computing; International Journal of  ... (IJNC)
+- Networking and Information Systems Journal (NIS)
+- Networking and Virtual Organisations; International Journal of  ... (IJNVO)
+- Networking; EURASIP Journal on Wireless Communications and  ...
+- Networking; Foundations and Trends in  ...
+- Networking; IEEE/ACM Transactions on  ... (TON)
+- Networking; IEEE Transactions on Green Communications and  ...
+- Networking; International Journal of High Performance Computing and  ... (IJHPCN)
+- Networking; International Journal of Satellite Communications and  ...
+- Networking Letters; IEEE  ...
+- Networking; Proceedings of the ACM on  ... (PACMNET)
+- Networks
+- Networks and Communications; Journal of Computer  ...
+- Networks and Heterogeneous Media
+- Networks; IEEE Transactions on Signal and Information Processing over  ...
+- Networks; IET  ...
+- Networks; Journal of  ...
+- Networks; Journal of Communications and  ...
+- Networks; Journal of Communications and Information  ...
+- Neue Einsichten eines Informatikers von geringem Verstande
+- Neural Computation
+- Neural Computing and Applications
+- Neural Networks
+- Neural, Parallel & Scientific Computations
+- Neural Processing Letters
+- Neural Systems; Advances in Artificial  ...
+- Neural Systems; International Journal of  ... (IJNS)
+- Neurocomputing
+- NeuroImage
+- Neuroinformatics
+- Neuroinformatics; Frontiers in  ...
+- Neuromorphic Computing and Engineering
+- Neurorobotics; Frontiers in  ...
+- Neuroscience; Frontiers in Computational  ...
+- Neuroscience; Journal of Computational  ...
+- New Generation Computing
+- New Mathematics and Natural Computation
+- New Media & Society
+- New Review of Hypermedia and Multimedia (NRHM)
+- Next Generation Information Technology; Journal of  ... (JNIT)
+- Next-Generation Computing; International Journal of  ... (IJNGC)
+- NII Shonan Meeting Report
+- NIS - Networking and Information Systems Journal
+- NJC - Nordic Journal of Computing
+- Non-Classical Logics; Journal of Applied  ...
+- Nonlinear Science and Numerical Simulation; Communications in  ...
+- Nonlinear Science; Journal of  ...
+- Nordic Journal of Computing (NJC)
+- Notre Dame Journal of Formal Logic
+- npj Digital Medicine
+- NRHM - New Review of Hypermedia and Multimedia
+- Nucleic Acids Research
+- Numerical Algorithms
+- Numerical Analysis; Advances in  ...
+- Numerical Analysis; SIAM Journal on  ...
+- Numerical Cognition; Journal of  ...
+- Numerical Linear Algebra with Applications
+- Numerical Mathematics; Journal of  ...
+- Numerical Optimisation; International Journal of Mathematical Modelling and  ... (IJMNO)
+- Numerical Simulation; Communications in Nonlinear Science and  ...
+- Numerische Mathematik
+- Object Oriented Systems
+- Object Technology; Journal of  ...
+- Object-Oriented Programming; Journal of  ... (JOOP)
+- of Riga Technical University, Series Computer Sciences; Scientific Journal  ...
+- OJDB - Open Journal of Databases
+- OJMO - Open Journal of Mathematical Optimization
+- OMICS: A Journal of Integrative Biology
+- Online and Biomedical Engineering; International Journal of  ... (iJOE)
+- Online; IEEE Distributed Systems  ...
+</details>
+
+
+<details>
+<summary>O</summary>
+
+- Object Oriented Systems
+- Object Technology; Journal of  ...
+- Object-Oriented Programming; Journal of  ... (JOOP)
+- of Riga Technical University, Series Computer Sciences; Scientific Journal  ...
+- OJDB - Open Journal of Databases
+- OJMO - Open Journal of Mathematical Optimization
+- OMICS: A Journal of Integrative Biology
+- Online and Biomedical Engineering; International Journal of  ... (iJOE)
+- Online; IEEE Distributed Systems  ...
+- Online Information Review
+- Online Marketing; International Journal of  ... (IJOM)
+- Online Pedagogy and Course Design; International Journal of  ... (IJOPCD)
+- Online Social Networks and Media (OSNEM)
+- Ontology; Applied  ...
+- OOPS Messenger; ACM SIGPLAN  ...
+- Open Computer Science
+- Open Journal of Big Data
+- Open Journal of Cloud Computing
+- Open Journal of Databases (OJDB)
+- Open Journal of Information Systems
+- Open Journal of Internet of Things
+- Open Journal of Mathematical Optimization (OJMO)
+- Open Journal of Semantic Web
+- Open Journal of Web Technologies
+- Open Source Software; Journal of  ... (JOSS)
+- Open Source Software & Processes; International Journal of  ...
+- Open Systems & Information Dynamics
+- Operating Systems Review; ACM SIGOPS:  ...
+- Operational Research
+- Operational Research; Asia-Pacific Journal of  ...
+- Operational Research; INFOR: Information Systems and  ...
+- Operational Research; International Transactions in  ... (ITOR)
+- Operational Research Society; Journal of the  ...
+- Operations Management; International Journal of Advanced  ... (IJAOM)
+- Operations Research
+- Operations Research; 4OR: Quarterly Journal of  ...
+- Operations Research; Advances in  ...
+- Operations Research and Decisions
+- Operations Research and Information Systems; International Journal of  ... (IJORIS)
+- Operations Research; Annals of  ...
+- Operations Research; Central European Journal of  ...
+- Operations Research Forum
+- Operations Research; Journal of Mathematical Modelling and Algorithms in  ...
+- Operations Research Letters
+- Operations Research; Mathematical Methods of  ...
+- Operations Research; Mathematics of  ...
+- Operations Research; RAIRO -  ...
+- Optical Communications and Networking; Journal of  ... (JOCN)
+- Optical Switching and Networking
+- Optimization; Journal of Global  ...
+- Optimization Letters
+- Optimization Methods and Software
+- Optimization Problems and Informatics; International Journal of Combinatorical  ... (IJCOPI)
+- Optimization; SIAM Journal on  ...
+- Optimization Theory and Applications; Journal of  ...
+- OR Insight
+- OR Spectrum
+- Order - A Journal on the Theory of Ordered Sets and its Applications
+- Ordered Sets and its Applications; Order - A Journal on the Theory of  ...
+- Organisation; International Journal of Mobile Learning and  ... (IJMLO)
+- Organization Science
+- Organizational and End User Computing; Journal of  ... (JOEUC)
+- Organizational & Collective Intelligence; International Journal of  ...
+- Organizational Computing and Electronic Commerce; Journal of  ...
+- Oriental Languages; International Journal of Computer Processing of  ...
+- Origination, Dissemination and Design; Electronic Publishing -  ... (EPodd)
+- OSNEM - Online Social Networks and Media
+- Pacific Asia Journal of the Association for Information Systems (PAJAIS)
+- PACMNET - Proceedings of the ACM on Networking
+- PAJAIS - Pacific Asia Journal of the Association for Information Systems
+- Paladyn, Journal of Behavioral Robotics
+- Parallel and Distributed Computing; Journal of  ...
+- Parallel and Distributed Systems; IEEE Transactions on  ... (TPDS)
+- Parallel Computing
+- Parallel Computing; ACM Transactions on  ...
+- Parallel Databases; Distributed and  ...
+- Parallel, Emergent and Distributed Systems; International Journal of  ...
+- Parallel Processing Letters
+- Parallel Programming; International Journal of  ...
+- Parallel & Scientific Computations; Neural,  ...
+- Pattern Analysis and Applications
+- Pattern Analysis and Machine Intelligence; IEEE Transactions on  ... (TPAMI)
+- Pattern Languages of Programming; Transactions on  ... (TPLOP)
+- Pattern Recognition
+- Pattern Recognition and Artificial Intelligence; International Journal of  ... (IJPRAI)
+- Pattern Recognition; International Journal of Applied  ... (IJAPR)
+- Pattern Recognition Letters
+- Patterns
+- Pedagogy; International Journal of Engineering  ... (iJEP)
+- Peer-to-Peer Networking and Applications
+- PeerJ Computer Science
+- PeerJ PrePrints
+- People-Oriented Programming; International Journal of  ... (IJPOP)
+- Performance Evaluation
+- Performance Evaluation of Computing Systems; ACM Transactions on Modeling and  ... (TOMPECS)
+- Performance Evaluation Review; SIGMETRICS  ...
+- Periodica Mathematica Hungarica
+- Periodica Polytechnica Electrical Engineering and Computer Science
+- Personal and Ubiquitous Computing
+- Personal Communications; Wireless  ...
+</details>
+
+
+<details>
+<summary>P</summary>
+
+- Pacific Asia Journal of the Association for Information Systems (PAJAIS)
+- PACMNET - Proceedings of the ACM on Networking
+- PAJAIS - Pacific Asia Journal of the Association for Information Systems
+- Paladyn, Journal of Behavioral Robotics
+- Parallel and Distributed Computing; Journal of  ...
+- Parallel and Distributed Systems; IEEE Transactions on  ... (TPDS)
+- Parallel Computing
+- Parallel Computing; ACM Transactions on  ...
+- Parallel Databases; Distributed and  ...
+- Parallel, Emergent and Distributed Systems; International Journal of  ...
+- Parallel Processing Letters
+- Parallel Programming; International Journal of  ...
+- Parallel & Scientific Computations; Neural,  ...
+- Pattern Analysis and Applications
+- Pattern Analysis and Machine Intelligence; IEEE Transactions on  ... (TPAMI)
+- Pattern Languages of Programming; Transactions on  ... (TPLOP)
+- Pattern Recognition
+- Pattern Recognition and Artificial Intelligence; International Journal of  ... (IJPRAI)
+- Pattern Recognition; International Journal of Applied  ... (IJAPR)
+- Pattern Recognition Letters
+- Patterns
+- Pedagogy; International Journal of Engineering  ... (iJEP)
+- Peer-to-Peer Networking and Applications
+- PeerJ Computer Science
+- PeerJ PrePrints
+- People-Oriented Programming; International Journal of  ... (IJPOP)
+- Performance Evaluation
+- Performance Evaluation of Computing Systems; ACM Transactions on Modeling and  ... (TOMPECS)
+- Performance Evaluation Review; SIGMETRICS  ...
+- Periodica Mathematica Hungarica
+- Periodica Polytechnica Electrical Engineering and Computer Science
+- Personal and Ubiquitous Computing
+- Personal Communications; Wireless  ...
+- Personalised Medicine; International Journal of Functional Informatics and  ... (IJFIPM)
+- Pervasive and Mobile Computing
+- Pervasive and Ubiquitous Computing; International Journal of Advanced  ... (IJAPUC)
+- Pervasive Computing and Communications; International Journal of  ...
+- Pervasive Computing; IEEE  ...
+- Pervasive Health and Technology; EAI Endorsed Transactions on  ...
+- Pervasive Networks; Journal of Ubiquitous Systems and  ...
+- Philosophical Logic; Journal of  ...
+- Phonetica
+- Photonic Network Communications
+- Physical Communication
+- PIK - Praxis der Informationsverarbeitung und Kommunikation
+- PLoS Computational Biology
+- PLQ - Public Library Quarterly
+- PNAS - Proceedings of the National Academy of Sciences of the USA
+- Poiesis & Praxis
+- POLIBITS
+- Policy and Evaluation; Roars Transactions, a Journal on Research  ...
+- Polity; Information  ...
+- POMA - Proceedings of Meetings on Acoustics
+- POMACS - Proceedings of the ACM on Measurement and Analysis of Computing Systems
+- PoPETs - Proceedings on Privacy Enhancing Technologies
+- Praxis der Informationsverarbeitung und Kommunikation; PIK -  ...
+- Praxis der Wirtschaftsinformatik; HMD -  ...
+- Presence: Teleoperators and Virtual Environments
+- Privacy and Confidentiality; Journal of  ... (JPC)
+- Privacy and Security; Foundations and Trends in  ...
+- Privacy Enhancing Technologies; Proceedings on  ... (PoPETs)
+- Privacy; International Journal of Information Security and  ... (IJISP)
+- Privacy; Transactions on Data  ...
+- Problem Solving; Journal of  ... (JPS)
+- Problems of Information Transmission
+- Proceedings of Meetings on Acoustics (POMA)
+- Proceedings of the ACM on Computer Graphics and Interactive Techniques
+- Proceedings of the ACM on Human-Computer Interaction
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+- Proceedings of the ACM on Management of Data
+- Proceedings of the ACM on Measurement and Analysis of Computing Systems (POMACS)
+- Proceedings of the ACM on Networking (PACMNET)
+- Proceedings of the ACM on Programming Languages
+- Proceedings of the IEEE
+- Proceedings of the London Mathematical Society
+- Proceedings of the National Academy of Sciences of the USA (PNAS)
+- Proceedings of the VLDB Endowment
+- Proceedings on Privacy Enhancing Technologies (PoPETs)
+- Procesamiento del Lenguaje Natural
+- Processes; International Journal of Open Source Software &  ...
+- Production Engineering
+- Production Research; International Journal of  ... (IJPR)
+- Professional Communication; IEEE Transactions on  ... (TPC)
+- Professionals; International Journal of Human Capital and Information Technology  ... (IJHCITP)
+- Programming and Computer Software
+- Programming Computation; Mathematical  ...
+- Programming Languages and Systems; ACM Letters on  ... (LOPLAS)
+- Programming Languages and Systems; ACM Transactions on  ... (TOPLAS)
+- Programming Languages; Foundations and Trends in  ...
+- Programming Languages; Journal of  ...
+- Programming Languages; Proceedings of the ACM on  ...
+- Programming; Mathematical  ...
+- Programming; The Art, Science, and Engineering of  ...
+- Programs in Biomedicine; Computer Methods and  ...
+- Progress in Artificial Intelligence
+- Project Management; International Journal of Information Technology  ... (IJITPM)
+- Protocols and Algorithms; Network  ...
+- PsychNology Journal
+- Psychology and Learning; International Journal of Cyber Behavior,  ... (IJCBPL)
+- Public Library Quarterly (PLQ)
+</details>
+
+
+<details>
+<summary>Q</summary>
+
+- Quality and Reliability Engineering International
+- Quality and User Experience
+- Quality Assurance in Engineering and Technology Education; International Journal of  ... (IJQAETE)
+- Quality Journal; Software  ...
+- Quantitative Biology
+- Quantitative Linguistics; Journal of  ...
+- Quantitative Science Studies
+- Quantum
+- Quantum Communication; IET  ...
+- Quantum Engineering
+- Quantum Information & Computation
+- Quantum Information Processing
+- Quantum Information Science; Journal of  ...
+- Quantum Machine Intelligence
+- Quarterly Journal of Operations Research; 4OR:  ...
+- QUESTA - Queueing Systems - Theory and Applications
+- Queue; ACM  ...
+- Queueing Systems - Theory and Applications (QUESTA)
+- Radio Frequency Identification Technology and Applications; International Journal of  ... (IJRFITA)
+- Rail Transport Planning & Management; Journal of  ...
+- RAIRO - Operations Research
+- RAIRO - Theoretical Informatics and Applications
+- Random Structures and Algorithms
+- RASI - Revista Avances en Sistemas e Informática
+- Real-Time Communication Systems; International Journal of Embedded and  ... (IJERTCS)
+- Real-Time Image Processing; Journal of  ...
+- Real-Time Imaging
+- Real-Time Systems
+- Reasoning; Journal of Formalized  ...
+- Reasoning-based Intelligent Systems; International Journal of  ... (IJRIS)
+- ReCALL
+- Recent Contributions from Engineering, Science & IT; International Journal of  ... (iJES)
+- Recht; Computer und  ...
+- Recognition; International Journal on Document Analysis and  ... (IJDAR)
+- Reconfigurable Computing; International Journal of  ...
+- Reconfigurable Technology and Systems; ACM Transactions on  ...
+- Record; SIGHIT  ...
+- Reliability Engineering International; Quality and  ...
+- Reliability Engineering & System Safety
+- Reliability; IEEE Transactions on  ...
+- Reliable Computing
+- Reliable Intelligent Environments; Journal on  ...
+- Remote Control; Automation and  ...
+- Remote Sensing
+- Remote Sensing; IEEE Transactions on Geoscience and  ...
+- Replication Research; AIS Transactions on  ... (AIS TRR)
+- Reports on Mathematical Logic
+- Request for Comments (RFC)
+- Requirements Engineering
+- Research and Development; IBM Journal of  ...
+- Research and Practice in Information Technology; Journal of  ... (JRPIT)
+- Research and Practice in Technology Enhanced Learning
+- Research in Computing Science
+- Research Metrics and Analytics; Frontiers in  ...
+- Research Policy and Evaluation; Roars Transactions, a Journal on  ...
+- Resilient and Autonomic Systems; International Journal of Adaptive,  ... (IJARAS)
+- Resources Management Journal; Information  ... (IRMJ)
+- Review; International Game Theory  ...
+- Review of Symbolic Logic; The  ...
+- Review; SIAM  ...
+- Review; Smart Computing  ...
+- Revista Avances en Sistemas e Informática (RASI)
+- Revista Brasileira de Informática na Educação
+- Revista Colombiana de Computación
+- Revista de Informática Teórica e Aplicada - RITA
+- Revista Iberoamericana de Tecnologías del Aprendizaje
+- Revue d'Intelligence Artificielle
+- Revue Internationale de Géomatique
+- Revue Ouverte d'Intelligence Artificielle (ROIA)
+- RF Technologies: Research and Applications; International Journal of  ...
+- RFC - Request for Comments
+- Rhino Didactics
+- Risk and Decision Analysis
+- Roars Transactions, a Journal on Research Policy and Evaluation
+- Robotersysteme
+- Robotic Intelligence; Encyclopedia with Semantic Computing and  ...
+- Robotic Systems; Journal of Intelligent and  ...
+- Robotica
+- Robotics
+- Robotics; Advanced  ...
+- Robotics and AI; Frontiers in  ...
+- Robotics and Applications; International Journal of Intelligent  ...
+- Robotics and Automation; International Journal of  ...
+- Robotics and Automation Letters; IEEE  ...
+- Robotics and Autonomous Systems
+- Robotics and Computer-Integrated Manufacturing
+- Robotics and Mechatronics; Journal of  ... (JRM)
+- Robotics Applications and Technologies; International Journal of  ... (IJRAT)
+- Robotics & Automation Magazine; IEEE  ...
+- Robotics; Foundations and Trends in  ...
+- Robotics; IEEE Transactions on  ...
+- Robotics; International Journal of Intelligent Mechatronics and  ... (IJIMR)
+- Robotics; Journal of  ...
+- Robotics; Journal of Field  ...
+- Robotics, Networking and Artificial Life; Journal of  ... (JRNAL)
+- Robotics Research; International Journal of  ... (IJRR)
+- Robotics Research; International Journal of Artificial Intelligence and  ... (IJAIRR)
+- Robotics Research; Journal of Medical  ...
+- ROIA - Revue Ouverte d'Intelligence Artificielle
+- Rough Sets and Data Analysis; International Journal of  ... (IJRSDA)
+</details>
+
+
+<details>
+<summary>R</summary>
+
+- Radio Frequency Identification Technology and Applications; International Journal of  ... (IJRFITA)
+- Rail Transport Planning & Management; Journal of  ...
+- RAIRO - Operations Research
+- RAIRO - Theoretical Informatics and Applications
+- Random Structures and Algorithms
+- RASI - Revista Avances en Sistemas e Informática
+- Real-Time Communication Systems; International Journal of Embedded and  ... (IJERTCS)
+- Real-Time Image Processing; Journal of  ...
+- Real-Time Imaging
+- Real-Time Systems
+- Reasoning; Journal of Formalized  ...
+- Reasoning-based Intelligent Systems; International Journal of  ... (IJRIS)
+- ReCALL
+- Recent Contributions from Engineering, Science & IT; International Journal of  ... (iJES)
+- Recht; Computer und  ...
+- Recognition; International Journal on Document Analysis and  ... (IJDAR)
+- Reconfigurable Computing; International Journal of  ...
+- Reconfigurable Technology and Systems; ACM Transactions on  ...
+- Record; SIGHIT  ...
+- Reliability Engineering International; Quality and  ...
+- Reliability Engineering & System Safety
+- Reliability; IEEE Transactions on  ...
+- Reliable Computing
+- Reliable Intelligent Environments; Journal on  ...
+- Remote Control; Automation and  ...
+- Remote Sensing
+- Remote Sensing; IEEE Transactions on Geoscience and  ...
+- Replication Research; AIS Transactions on  ... (AIS TRR)
+- Reports on Mathematical Logic
+- Request for Comments (RFC)
+- Requirements Engineering
+- Research and Development; IBM Journal of  ...
+- Research and Practice in Information Technology; Journal of  ... (JRPIT)
+- Research and Practice in Technology Enhanced Learning
+- Research in Computing Science
+- Research Metrics and Analytics; Frontiers in  ...
+- Research Policy and Evaluation; Roars Transactions, a Journal on  ...
+- Resilient and Autonomic Systems; International Journal of Adaptive,  ... (IJARAS)
+- Resources Management Journal; Information  ... (IRMJ)
+- Review; International Game Theory  ...
+- Review of Symbolic Logic; The  ...
+- Review; SIAM  ...
+- Review; Smart Computing  ...
+- Revista Avances en Sistemas e Informática (RASI)
+- Revista Brasileira de Informática na Educação
+- Revista Colombiana de Computación
+- Revista de Informática Teórica e Aplicada - RITA
+- Revista Iberoamericana de Tecnologías del Aprendizaje
+- Revue d'Intelligence Artificielle
+- Revue Internationale de Géomatique
+- Revue Ouverte d'Intelligence Artificielle (ROIA)
+- RF Technologies: Research and Applications; International Journal of  ...
+- RFC - Request for Comments
+- Rhino Didactics
+- Risk and Decision Analysis
+- Roars Transactions, a Journal on Research Policy and Evaluation
+- Robotersysteme
+- Robotic Intelligence; Encyclopedia with Semantic Computing and  ...
+- Robotic Systems; Journal of Intelligent and  ...
+- Robotica
+- Robotics
+- Robotics; Advanced  ...
+- Robotics and AI; Frontiers in  ...
+- Robotics and Applications; International Journal of Intelligent  ...
+- Robotics and Automation; International Journal of  ...
+- Robotics and Automation Letters; IEEE  ...
+- Robotics and Autonomous Systems
+- Robotics and Computer-Integrated Manufacturing
+- Robotics and Mechatronics; Journal of  ... (JRM)
+- Robotics Applications and Technologies; International Journal of  ... (IJRAT)
+- Robotics & Automation Magazine; IEEE  ...
+- Robotics; Foundations and Trends in  ...
+- Robotics; IEEE Transactions on  ...
+- Robotics; International Journal of Intelligent Mechatronics and  ... (IJIMR)
+- Robotics; Journal of  ...
+- Robotics; Journal of Field  ...
+- Robotics, Networking and Artificial Life; Journal of  ... (JRNAL)
+- Robotics Research; International Journal of  ... (IJRR)
+- Robotics Research; International Journal of Artificial Intelligence and  ... (IJAIRR)
+- Robotics Research; Journal of Medical  ...
+- ROIA - Revue Ouverte d'Intelligence Artificielle
+- Rough Sets and Data Analysis; International Journal of  ... (IJRSDA)
+- Rough Sets and Intelligent Systems; International Journal of Granular Computing,  ... (IJGCRSIS)
+- Rough Sets; Transactions on  ...
+- Rundbrief der GI-Fachgruppe 5.10 Informationssystem-Architekturen
+- Rundbrief (GI-FG 2.5.1); Datenbank  ...
+- Russian Digital Libraries Journal
+- Satellite Communications and Networking; International Journal of  ...
+- Satisfiability, Boolean Modeling and Computation; Journal on  ... (JSAT)
+- Scalable Computing: Practice and Experience (SCPE)
+- Scalable Information Systems; EAI Endorsed Transactions on  ...
+- Scandinavian Journal of Information Systems (SJIS)
+- Schedae Informaticae
+- Scheduling; Journal of  ...
+- Scholarpedia
+- Science and Engineering Ethics
+- Science China Information Sciences
+- Science of Computer Programming
+- Science; Organization  ...
+- Science Robotics
+</details>
+
+
+<details>
+<summary>S</summary>
+
+- Satellite Communications and Networking; International Journal of  ...
+- Satisfiability, Boolean Modeling and Computation; Journal on  ... (JSAT)
+- Scalable Computing: Practice and Experience (SCPE)
+- Scalable Information Systems; EAI Endorsed Transactions on  ...
+- Scandinavian Journal of Information Systems (SJIS)
+- Schedae Informaticae
+- Scheduling; Journal of  ...
+- Scholarpedia
+- Science and Engineering Ethics
+- Science China Information Sciences
+- Science of Computer Programming
+- Science; Organization  ...
+- Science Robotics
+- Scientia Iranica
+- Scientific Annals of Computer Science
+- Scientific Computations; Neural, Parallel &  ...
+- Scientific Computing; International Journal of Modeling, Simulation, and  ... (IJMSSC)
+- Scientific Computing; Journal of  ...
+- Scientific Computing; SIAM Journal on  ...
+- Scientific Data
+- Scientific Journal of Riga Technical University, Series Computer Sciences
+- Scientific Programming
+- Scientific Reports
+- Scientometric Research; Journal of  ... (JSCIRES)
+- Scientometrics
+- SCPE - Scalable Computing: Practice and Experience
+- Secure Software Engineering; International Journal of  ... (IJSSE)
+- Security and Communication Networks
+- Security and Digital Forensics; International Journal of Electronic  ... (IJESDF)
+- Security and Law; Journal of Digital Forensics,  ...
+- Security and Networks; International Journal of  ... (IJSN)
+- Security and Privacy
+- Security and Privacy in Pervasive Computing; International Journal of  ... (IJSPPC)
+- Security and Privacy; International Journal of Information  ... (IJISP)
+- Security and Safety; EAI Endorsed Transactions on  ...
+- Security; IEEE Transactions on Information Forensics and  ...
+- Security Informatics
+- Security; International Journal of Information  ...
+- Security; International Journal of Information and Computer  ... (IJICS)
+- Security; International Journal of Multimedia Intelligence and  ... (IJMIS)
+- Security; ISC International Journal of Information  ...
+- Security; Journal of Hardware and Systems  ...
+- Security; Journal of Information  ...
+- Selected Areas in Communications; IEEE Journal of  ...
+- Selected Topics in Applied Earth Observations and Remote Sensing; IEEE Journal of  ...
+- Selected Topics in Signal Processing; IEEE Journal of  ...
+- Self-Adaptive Systems; EAI Endorsed Transactions on  ...
+- Semantic Computing and Robotic Intelligence; Encyclopedia with  ...
+- Semantic Computing; International Journal of  ...
+- Semantic Web
+- Semantic Web and Information Systems; International Journal on  ...
+- Semantic Web; Open Journal of  ...
+- Semantics; Journal of  ...
+- Sensor and Actuator Networks; Journal of  ...
+- Sensor Networks; ACM Transactions on  ... (TOSN)
+- Sensor Networks; International Journal of  ... (IJSNet)
+- Sensor Systems; IET Wireless  ...
+- Sensor Technology; Journal of  ...
+- Sensors
+- Sensors; Journal of  ...
+- Series Computer Sciences; Scientific Journal of Riga Technical University,  ...
+- Serious Games; EAI Endorsed Transactions on  ...
+- Serious Games; International Journal of  ...
+- Service Oriented Computing and Applications
+- Service Science, Management, Engineering, and Technology; International Journal of  ... (IJSSMET)
+- Service Science Research; Journal of  ...
+- Service Sciences; Advances in Information Sciences and  ... (AISS)
+- Service Sector; International Journal of Information Systems in the  ... (IJISSS)
+- Service-Oriented Engineering; International Journal of Systems and  ... (IJSSOE)
+- Services and Standards; International Journal of  ...
+- Services Computing; IEEE Transactions on  ...
+- Services Technology and Management; International Journal of  ... (IJSTM)
+- Shape Modeling; International Journal of  ... (IJSM)
+- Shonan Meeting Report; NII  ...
+- SIAM/ASA Journal on Uncertainty Quantification
+- SIAM Journal on Applied Algebra and Geometry
+- SIAM Journal on Applied Dynamical Systems
+- SIAM Journal on Applied Mathematics
+- SIAM Journal on Computing
+- SIAM Journal on Control and Optimization
+- SIAM Journal on Discrete Mathematics
+- SIAM Journal on Financial Mathematics
+- SIAM Journal on Imaging Sciences
+- SIAM Journal on Mathematical Analysis
+- SIAM Journal on Mathematics of Data Science (SIMODS)
+- SIAM Journal on Matrix Analysis and Applications
+- SIAM Journal on Numerical Analysis
+- SIAM Journal on Optimization
+- SIAM Journal on Scientific Computing
+- SIAM Review
+- SICS Software-Intensive Cyber-Physical Systems (SICS)
+- SIGACCESS Accessibility and Computing; ACM  ...
+- SIGACT News
+- SIGAPL APL Quote Quad; ACM  ...
+- SIGARCH Computer Architecture News
+- SIGBED Review
+- SIGCAS  Computers and Society
+- SIGCSE Bulletin; ACM  ...
+- SIGecom Exchanges
+- SIGHIT Record
+</details>
+
+
+<details>
+<summary>T</summary>
+
+- TAAS - ACM Transactions on Autonomous and Adaptive Systems
+- TACCESS - ACM Transactions on Accessible Computing
+- TACO - ACM Transactions on Architecture and Code Optimization
+- TALG - ACM Transactions on Algorithms
+- TAP - ACM Transactions on Applied Perception
+- TAPOS - Theory and Practice of Object Systems
+- TCBB - IEEE/ACM Transactions on Computational Biology and Bioinformatics
+- TCCI - Transactions on Computational Collective Intelligence
+- TCCN - IEEE Transactions on Cognitive Communications and Networking
+- TCDL Bulletin - Bulletin of the IEEE Technical Committee on Digital Libraries
+- TCHES - IACR Transactions on Cryptographic Hardware and Embedded Systems
+- TCPS - ACM Transactions on Cyber-Physical Systems
+- TCS - Transactions on Computational Science
+- TCSB - Transactions on Computational Systems Biology
+- TCST - IEEE Transactions on Control Systems Technology
+- TDS - ACM/IMS Transactions on Data Science
+- Teaching Technologies; International Journal of Web-Based Learning and  ... (IJWLTT)
+- Technical Committee on Digital Libraries; Bulletin of the IEEE  ... (TCDL Bulletin)
+- Technique et Science Informatiques
+- Technoethics; International Journal of  ... (IJT)
+- Technologies; International Journal of Distributed Systems and  ... (IJDST)
+- Technologies; International Journal of Interactive Communication Systems and  ... (IJICST)
+- Technologies; International Journal of Robotics Applications and  ... (IJRAT)
+- Technology Analysis & Strategic Management
+- Technology and Educational Marketing; International Journal of  ... (IJTEM)
+- Technology and Human Interaction; International Journal of  ... (IJTHI)
+- Technology and Society Magazine; IEEE  ...
+- Technology, Communications and Convergence; International Journal of Information  ... (IJITCC)
+- Technology Diffusion; International Journal of  ... (IJTD)
+- Technology Education; International Journal of Quality Assurance in Engineering and  ... (IJQAETE)
+- Technology, Information and Operations Management; Foundations and Trends in  ...
+- Technology; International Journal of Arts and  ... (IJART)
+- Technology; International Journal of Computer Applications in  ... (IJCAT)
+- Technology; International Journal of Service Science, Management, Engineering, and  ... (IJSSMET)
+- Technology, Knowledge and Learning
+- Technology Management; International Journal of  ... (IJTM)
+- Technology; Wireless Engineering and  ...
+- Technometrics
+- Tecnologías del Aprendizaje; Revista Iberoamericana de  ...
+- Telecommunication Systems
+- Telecommunications and High Technology Law; Journal on  ...
+- Telematics and Informatics
+- Teleoperators and Virtual Environments; Presence:  ...
+- Testing; Journal of Electronic  ...
+- Testing, Verification & Reliability; Software  ... (STVR)
+- TFSS - Transactions on Fuzzy Sets and Systems
+- TGDK - Transactions on Graph Data and Knowledge
+- The American Mathematical Monthly
+- The Art of Discrete and Applied Mathematics (ADAM)
+- The Art, Science, and Engineering of Programming
+- The Bulletin of Symbolic Logic
+- The Computer Games Journal
+- The Computer Journal
+- The Computer Science Journal of Moldova
+- The Electronic Journal of Combinatorics
+- The Electronic Library
+- The Information Society
+- The International Journal of Computers, Systems and Signals
+- The Internet and Higher Education
+- The Journal of Artificial Societies and Social Simulation
+- The Journal of Community Informatics
+- The Journal of Information Processing Systems
+- The Journal of Knowledge Engineering; Expert Systems -  ...
+- The Journal of Strategic Information Systems
+- The Journal of Supercomputing
+- The Journal of Symbolic Logic
+- The Journal of Universal Computer Science
+- The Journal of Web Science
+- The Knowledge Engineering Review (KER)
+- The Prague Bulletin of Mathematical Linguistics
+- The R Journal
+- The Review of Socionetwork Strategies
+- The Review of Symbolic Logic
+- The Visual Computer
+- The VLDB Journal
+- Theoretical and Applied Electronic Commerce Research; Journal of  ... (JTAER)
+- Theoretical Computer Science
+- Theoretical Computer Science; Chicago Journal of  ...
+- Theoretical Computer Science; Foundations and Trends in  ...
+- Theoretical Informatics and Applications; RAIRO -  ...
+- TheoretiCS
+- Theory and Application; Grey Systems:  ...
+- Theory and Practice of Logic Programming (TPLP)
+- Theory in Biosciences
+- Theory of Computing
+- Theory of Computing Systems
+- Theory of Ordered Sets and its Applications; Order - A Journal on the  ...
+- Things; Advances in Internet of  ...
+- Things Magazine; IEEE Internet of  ...
+- THRI - ACM Transactions on Human-Robot Interaction
+- Tiny Transactions on Computer Science (TinyToCS)
+- TinyToCS - Tiny Transactions on Computer Science
+- TIOT - ACM Transactions on Internet of Things
+- TISMIR - Transactions of the International Society for Music Information Retrieval
+- TIST - ACM Transactions on Intelligent Systems and Technology
+- TKDD - ACM Transactions on Knowledge Discovery from Data
+- TLT - IEEE Transactions on Learning Technologies
+- TMC - IEEE Transactions on Mobile Computing
+- TMLR - Transactions on Machine Learning Research
+- TMM - IEEE Transactions on Multimedia
+</details>
+
+
+<details>
+<summary>U</summary>
+
+- Ubiquitous Computing; International Journal of Advanced Pervasive and  ... (IJAPUC)
+- Ubiquitous Computing; Personal and  ...
+- Ubiquitous Environments; EAI Endorsed Transactions on  ...
+- Ubiquitous Systems and Pervasive Networks; Journal of  ...
+- Ubiquitous Technologies; Proceedings of the ACM on Interactive, Mobile, Wearable and  ... (IMWUT)
+- Ubiquity
+- Ultra Wideband Communications and Systems; International Journal of  ... (IJUWBCS)
+- UMCS, Informatica; Annales  ...
+- Uncertainty, Fuzziness and Knowledge-Based Systems; International Journal of  ...
+- Uncertainty Quantification; SIAM/ASA Journal on  ...
+- Unconventional Computing; International Journal of  ... (IJUC)
+- Universal Access in the Information Society
+- Universal Computer Science; The Journal of  ...
+- Unmanned Systems
+- Urban Informatics
+- User Modeling and User-Adapted Interaction
+- Utility Computing; International Journal of Grid and  ... (IJGUC)
+- Vehicular Communications
+- Vehicular Technology; IEEE Transactions on  ...
+- Vehicular Technology Magazine; IEEE  ...
+- Video Processing; EURASIP Journal on Image and  ...
+- Video Processing; Signal, Image and  ...
+- Video Technology; IEEE Transactions on Circuits and Systems for  ...
+- Vietnam Journal of Computer Science
+- Virtual and Personal Learning Environments; International Journal of  ... (IJVPLE)
+- Virtual Communities and Social Networking; International Journal of  ... (IJVCSN)
+- Virtual Environments; Presence: Teleoperators and  ...
+- Virtual Reality
+- Virtual Reality and Broadcasting; Journal of  ...
+- Virtual Reality; Frontiers in  ...
+- Virtual Reality & Intelligent Hardware (VRIH)
+- Virtual Reality; International Journal of  ...
+- Virtual Worlds; Computer Animation and  ...
+- Vision and Applications; IPSJ Transactions on Computer  ...
+- Vision and Applications; Machine  ...
+- Vision and Image Processing; International Journal of Computer  ... (IJCVIP)
+- Vision and Robotics; International Journal of Computational  ... (IJCVR)
+- Visual Communication and Image Representation; Journal of  ...
+- Visual Computer; The  ...
+- Visual Computing for Industry, Biomedicine, and Art
+- Visual Informatics
+- Visual Intelligence
+- Visual Language and Computing; Journal of  ... (JVLC)
+- Visual Media; Computational  ...
+- Visualization and Computer Graphics; IEEE Transactions on  ... (TVCG)
+- Visualization in Science; Computing and  ...
+- Visualization; Information  ...
+- Visualization; Journal of  ...
+- VLDB Endowment; Proceedings of the  ...
+- VLSI Design
+- VLSI Design
+- VRIH - Virtual Reality & Intelligent Hardware
+- Wavelets, Multiresolution and Information Processing; International Journal of  ... (IJWMIP)
+- Wearable and Ubiquitous Technologies; Proceedings of the ACM on Interactive, Mobile,  ... (IMWUT)
+- Web; ACM Transactions on the  ...
+- Web and Grid Services; International Journal of  ... (IJWGS)
+- Web Applications; International Journal of  ... (IJWA)
+- Web Based Communities; International Journal of  ... (IJWBC)
+- Web Engineering and Technology; International Journal of  ...
+- Web Engineering; International Journal of Information Technology and  ... (IJITWE)
+- Web Engineering; Journal of  ...
+- Web Information Systems; International Journal of  ...
+- Web Intelligence
+- Web Intelligence; International Journal of Knowledge and  ... (IJKWI)
+- Web Portals; International Journal of  ... (IJWP)
+- Web Science; Foundations and Trends in  ...
+- Web Science; International Journal of  ... (IJWS)
+- Web Science; The Journal of  ...
+- Web Services Research; International Journal of  ...
+- Web Technologies; Open Journal of  ...
+- Web-Based Learning and Teaching Technologies; International Journal of  ... (IJWLTT)
+- Webology
+- Welfare; Social Choice and  ...
+- WI - Wirtschaftsinformatik
+- Wideband Communications and Systems; International Journal of Ultra  ... (IJUWBCS)
+- WiPiEC - Works in Progress in Embedded Computing Journal
+- Wireless and Mobile Computing; International Journal of  ... (IJWMC)
+- Wireless Communications and Mobile Computing
+- Wireless Communications and Networking; EURASIP Journal on  ...
+- Wireless Communications; IEEE  ...
+- Wireless Communications; IEEE Transactions on  ...
+- Wireless Communications Letters; IEEE  ...
+- Wireless Engineering and Technology
+- Wireless Information Networks; International Journal of  ...
+- Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications; Journal of  ... (JoWUA)
+- Wireless Networks
+- Wireless Networks and Broadband Technologies; International Journal of  ... (IJWNBT)
+- Wireless & Optical Communications; International Journal on  ...
+- Wireless Personal Communications
+- Wireless Sensor Network
+- Wireless Sensor Systems; IET  ...
+- Wireless Spectrum; EAI Endorsed Transactions on  ...
+- WIREs Data Mining and Knowledge Discovery
+- Wirtschaftsinformatik; HMD - Praxis der  ...
+- Wirtschaftsinformatik & Management
+- Wirtschaftsinformatik (WI)
+- Works in Progress in Embedded Computing Journal (WiPiEC)
+- World Digital Libraries
+- World Scientific Annual Review of Artificial Intelligence
+- World Wide Web Journal
+</details>
+
+
+<details>
+<summary>V</summary>
+
+- Vehicular Communications
+- Vehicular Technology; IEEE Transactions on  ...
+- Vehicular Technology Magazine; IEEE  ...
+- Video Processing; EURASIP Journal on Image and  ...
+- Video Processing; Signal, Image and  ...
+- Video Technology; IEEE Transactions on Circuits and Systems for  ...
+- Vietnam Journal of Computer Science
+- Virtual and Personal Learning Environments; International Journal of  ... (IJVPLE)
+- Virtual Communities and Social Networking; International Journal of  ... (IJVCSN)
+- Virtual Environments; Presence: Teleoperators and  ...
+- Virtual Reality
+- Virtual Reality and Broadcasting; Journal of  ...
+- Virtual Reality; Frontiers in  ...
+- Virtual Reality & Intelligent Hardware (VRIH)
+- Virtual Reality; International Journal of  ...
+- Virtual Worlds; Computer Animation and  ...
+- Vision and Applications; IPSJ Transactions on Computer  ...
+- Vision and Applications; Machine  ...
+- Vision and Image Processing; International Journal of Computer  ... (IJCVIP)
+- Vision and Robotics; International Journal of Computational  ... (IJCVR)
+- Visual Communication and Image Representation; Journal of  ...
+- Visual Computer; The  ...
+- Visual Computing for Industry, Biomedicine, and Art
+- Visual Informatics
+- Visual Intelligence
+- Visual Language and Computing; Journal of  ... (JVLC)
+- Visual Media; Computational  ...
+- Visualization and Computer Graphics; IEEE Transactions on  ... (TVCG)
+- Visualization in Science; Computing and  ...
+- Visualization; Information  ...
+- Visualization; Journal of  ...
+- VLDB Endowment; Proceedings of the  ...
+- VLSI Design
+- VLSI Design
+- VRIH - Virtual Reality & Intelligent Hardware
+- Wavelets, Multiresolution and Information Processing; International Journal of  ... (IJWMIP)
+- Wearable and Ubiquitous Technologies; Proceedings of the ACM on Interactive, Mobile,  ... (IMWUT)
+- Web; ACM Transactions on the  ...
+- Web and Grid Services; International Journal of  ... (IJWGS)
+- Web Applications; International Journal of  ... (IJWA)
+- Web Based Communities; International Journal of  ... (IJWBC)
+- Web Engineering and Technology; International Journal of  ...
+- Web Engineering; International Journal of Information Technology and  ... (IJITWE)
+- Web Engineering; Journal of  ...
+- Web Information Systems; International Journal of  ...
+- Web Intelligence
+- Web Intelligence; International Journal of Knowledge and  ... (IJKWI)
+- Web Portals; International Journal of  ... (IJWP)
+- Web Science; Foundations and Trends in  ...
+- Web Science; International Journal of  ... (IJWS)
+- Web Science; The Journal of  ...
+- Web Services Research; International Journal of  ...
+- Web Technologies; Open Journal of  ...
+- Web-Based Learning and Teaching Technologies; International Journal of  ... (IJWLTT)
+- Webology
+- Welfare; Social Choice and  ...
+- WI - Wirtschaftsinformatik
+- Wideband Communications and Systems; International Journal of Ultra  ... (IJUWBCS)
+- WiPiEC - Works in Progress in Embedded Computing Journal
+- Wireless and Mobile Computing; International Journal of  ... (IJWMC)
+- Wireless Communications and Mobile Computing
+- Wireless Communications and Networking; EURASIP Journal on  ...
+- Wireless Communications; IEEE  ...
+- Wireless Communications; IEEE Transactions on  ...
+- Wireless Communications Letters; IEEE  ...
+- Wireless Engineering and Technology
+- Wireless Information Networks; International Journal of  ...
+- Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications; Journal of  ... (JoWUA)
+- Wireless Networks
+- Wireless Networks and Broadband Technologies; International Journal of  ... (IJWNBT)
+- Wireless & Optical Communications; International Journal on  ...
+- Wireless Personal Communications
+- Wireless Sensor Network
+- Wireless Sensor Systems; IET  ...
+- Wireless Spectrum; EAI Endorsed Transactions on  ...
+- WIREs Data Mining and Knowledge Discovery
+- Wirtschaftsinformatik; HMD - Praxis der  ...
+- Wirtschaftsinformatik & Management
+- Wirtschaftsinformatik (WI)
+- Works in Progress in Embedded Computing Journal (WiPiEC)
+- World Digital Libraries
+- World Scientific Annual Review of Artificial Intelligence
+- World Wide Web Journal
+- World Wide Web (WWW)
+- WSCG; Journal of  ...
+- WWW - World Wide Web
+- XRDS
+- Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB)
+- ZfBB - Zeitschrift für Bibliothekswesen und Bibliographie
+</details>
+
+
+<details>
+<summary>W</summary>
+
+- Wavelets, Multiresolution and Information Processing; International Journal of  ... (IJWMIP)
+- Wearable and Ubiquitous Technologies; Proceedings of the ACM on Interactive, Mobile,  ... (IMWUT)
+- Web; ACM Transactions on the  ...
+- Web and Grid Services; International Journal of  ... (IJWGS)
+- Web Applications; International Journal of  ... (IJWA)
+- Web Based Communities; International Journal of  ... (IJWBC)
+- Web Engineering and Technology; International Journal of  ...
+- Web Engineering; International Journal of Information Technology and  ... (IJITWE)
+- Web Engineering; Journal of  ...
+- Web Information Systems; International Journal of  ...
+- Web Intelligence
+- Web Intelligence; International Journal of Knowledge and  ... (IJKWI)
+- Web Portals; International Journal of  ... (IJWP)
+- Web Science; Foundations and Trends in  ...
+- Web Science; International Journal of  ... (IJWS)
+- Web Science; The Journal of  ...
+- Web Services Research; International Journal of  ...
+- Web Technologies; Open Journal of  ...
+- Web-Based Learning and Teaching Technologies; International Journal of  ... (IJWLTT)
+- Webology
+- Welfare; Social Choice and  ...
+- WI - Wirtschaftsinformatik
+- Wideband Communications and Systems; International Journal of Ultra  ... (IJUWBCS)
+- WiPiEC - Works in Progress in Embedded Computing Journal
+- Wireless and Mobile Computing; International Journal of  ... (IJWMC)
+- Wireless Communications and Mobile Computing
+- Wireless Communications and Networking; EURASIP Journal on  ...
+- Wireless Communications; IEEE  ...
+- Wireless Communications; IEEE Transactions on  ...
+- Wireless Communications Letters; IEEE  ...
+- Wireless Engineering and Technology
+- Wireless Information Networks; International Journal of  ...
+- Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications; Journal of  ... (JoWUA)
+- Wireless Networks
+- Wireless Networks and Broadband Technologies; International Journal of  ... (IJWNBT)
+- Wireless & Optical Communications; International Journal on  ...
+- Wireless Personal Communications
+- Wireless Sensor Network
+- Wireless Sensor Systems; IET  ...
+- Wireless Spectrum; EAI Endorsed Transactions on  ...
+- WIREs Data Mining and Knowledge Discovery
+- Wirtschaftsinformatik; HMD - Praxis der  ...
+- Wirtschaftsinformatik & Management
+- Wirtschaftsinformatik (WI)
+- Works in Progress in Embedded Computing Journal (WiPiEC)
+- World Digital Libraries
+- World Scientific Annual Review of Artificial Intelligence
+- World Wide Web Journal
+- World Wide Web (WWW)
+- WSCG; Journal of  ...
+- WWW - World Wide Web
+- XRDS
+- Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB)
+- ZfBB - Zeitschrift für Bibliothekswesen und Bibliographie
+</details>
+
+
+<details>
+<summary>X</summary>
+
+- XRDS
+- Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB)
+- ZfBB - Zeitschrift für Bibliothekswesen und Bibliographie
+</details>
+
+
+<details>
+<summary>Y</summary>
+
+- Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB)
+- ZfBB - Zeitschrift für Bibliothekswesen und Bibliographie
+</details>
+
+
+<details>
+<summary>Z</summary>
+
+- Zeitschrift für Bibliothekswesen und Bibliographie (ZfBB)
+- ZfBB - Zeitschrift für Bibliothekswesen und Bibliographie
+</details>
+
+
+</details>
 
 ## Contributing
 
