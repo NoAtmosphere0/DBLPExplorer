@@ -13,25 +13,6 @@ DBLPExplore is a Python-based tool designed to crawl and scrape publication data
 
 ### Prerequisites
 
-Make sure you have Python 3.12 installed. You can download it from [python.org](https://www.python.org/).
-
-### Required Packages
-
-# DBLPExplore
-
-DBLPExplore is a Python-based tool designed to crawl and scrape publication data from the DBLP website. This project enables users to extract information about papers and conferences, making it easier to analyze academic publications over a specified time period.
-
-## Features
-
-- Crawl data from DBLP.
-- Scrape paper titles, authors, and publication dates.
-- Filter results based on specified keywords and search methods.
-- Save extracted data in a tab-separated values (TSV) format.
-
-## Installation
-
-### Prerequisites
-
 Make sure you have Python 3.12 installed. 
 
 ### Required Packages
@@ -67,6 +48,10 @@ This command will extract data from the ACL conference on DBLP.com for the years
 
 The tool logs the extracting process to app.log and terminal, helping you track its operations.
 
+## Conferences
+
+@@ I'll fill later
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
@@ -79,9 +64,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Thanks to the developers of DBLP for providing a comprehensive database of computer science publications.
 
-## Conferences
 
-@@ I'll fill later
 
 
 

@@ -29,16 +29,18 @@ def get_papers(url, exclude_pcd=True):
     soup = bs(response.text, 'html.parser')
     papers = pd.DataFrame(columns=["title", "authors"])
     publ_list = soup.find_all("cite", {"class": "data tts-content", "itemprop": "headline"})
-    logging.info(f"SUCCESS: Extracted {len(publ_list)} publications at {url}")
+    logging.info(f"SUCCESS: Extracted {len(publ_list)} publication(s) at {url}")
     for publ in publ_list:
-        new_record = {
-            "title": publ.find("span", {"class": "title", "itemprop": "name"}).string,
-            "authors": ', '.join(
-                a.find("span", {"itemprop": "name"}).string for a in publ.find_all("span", {"itemprop": "author"})
-            )
-        }
-        papers = papers._append(new_record, ignore_index=True)
-    
+        try:
+            new_record = {
+                "title": publ.find("span", {"class": "title", "itemprop": "name"}).string,
+                "authors": ', '.join(
+                    a.find("span", {"itemprop": "name"}).string for a in publ.find_all("span", {"itemprop": "author"})
+                )
+            }
+            papers = papers._append(new_record, ignore_index=True)
+        except:
+            pass
     if exclude_pcd:
         papers = papers.iloc[1:]  # Exclude the first row as it is the proceeding's name
     return papers
@@ -78,17 +80,18 @@ def get_procd(name):
 
     soup = bs(response.text, 'html.parser')
     proceedings = soup.find_all("cite", {"class": "data tts-content", "itemprop": "headline"})
-    logging.info(f"SUCCESS: Extracted {len(proceedings)} proceedings at {conf_url}")
     proceedings_df = pd.DataFrame(columns=["title", "authors", "publisher", "date_published", "link", "conf_id"])
 
     for pcd in proceedings:
-        new_record = {
-            "date_published": int(pcd.find("span", {"itemprop": "datePublished"}).string),
-            "link": pcd.find("a", {"class": "toc-link"}).get('href'),
-            "conf_id": pcd.find("a", {"class": "toc-link"}).get('href').rsplit('/', 1)[-1].rsplit('.', 1)[0]
-        }
-        proceedings_df = proceedings_df._append(new_record, ignore_index=True)
-
+        try:
+            new_record = {
+                "date_published": int(pcd.find("span", {"itemprop": "datePublished"}).string),
+                "link": pcd.find("a", {"class": "toc-link"}).get('href'),
+                "conf_id": pcd.find("a", {"class": "toc-link"}).get('href').rsplit('/', 1)[-1].rsplit('.', 1)[0]
+            }
+            proceedings_df = proceedings_df._append(new_record, ignore_index=True)
+        except: 
+            pass
     return proceedings_df
 
 
@@ -102,6 +105,7 @@ def get_conf(conf, start, end, dest, search_method='all', search_keywords=[]):
         return
     
     fproceedings = proceedings[(proceedings['date_published'] >= start) & (proceedings['date_published'] <= end)]
+    logging.info(f"SUCCESS: Extracted {len(fproceedings)} proceedings during [{start}, {end}] of {conf}")
     
     with open(dest, 'w') as file: #clear the file if already existed
         pass
